@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Dimension]'
-description: '[!DNL Dimension] maakt het eenvoudig om merkvisualisaties, illustraties, productmodellen, verpakkingsontwerpen en ander creatief werk te maken'
+title: '"[!DNL Dimension]"'
+description: '"[!DNL Dimension] maakt het eenvoudig om merkvisualisaties, illustraties, productmodellen, verpakkingsontwerpen en ander creatief werk te bouwen"'
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -48,8 +48,8 @@ Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326944?hidetitle=true)
 
-****
-DescriptionMateriaalmaterialen ondersteunen duizenden variaties van patroon en ontwerp in één materiaal.
+**Beschrijving**
+Substance-materialen ondersteunen duizenden patronen en ontwerpen in één materiaal.
 
 In deze zelfstudie leert u hoe u:
 * Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en belichting
@@ -61,7 +61,7 @@ Jim Babbage, Senior Solutions Consultant (Digital Media)
 
 **Dimension-bronnen**
 
-[Leer en ](https://helpx.adobe.com/support/dimension.html) ondersteun je hub voor aanvullende zelfstudies,  [nieuwe functies](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html) en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/support/dimension.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 
