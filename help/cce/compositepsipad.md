@@ -1,5 +1,5 @@
 ---
-title: Maak unieke composities met Adobe [!DNL Stock] en Photoshop voor iPad
+title: Unieke composities maken met Adobe [!DNL Stock] en Photoshop voor iPad
 description: Benut de kracht van Photoshop binnen handbereik. Leer hoe je een van je favoriete Creative Cloud-applicaties op een geheel nieuwe manier gebruikt, met een vernieuwde, aanraakgebaseerde interface
 role: User
 level: Beginner, Intermediate
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Maak unieke composities met Adobe [!DNL Stock] en Photoshop voor iPad
+# Unieke composities maken met Adobe [!DNL Stock] en Photoshop voor iPad
 
 Benut de kracht van Photoshop binnen handbereik. Leer een van je favoriete Creative Cloud-applicaties op een geheel nieuwe manier te gebruiken, met een vernieuwde touch-interface.
 
@@ -19,6 +19,6 @@ Benut de kracht van Photoshop binnen handbereik. Leer een van je favoriete Creat
 
 <br> 
 
-[**Download PDF-handleiding voor snelle referentie**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
+[**Download Quick Reference PDF Guide**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
 
 [![Afbeelding van eerste pagina van snelle naslaggids](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)

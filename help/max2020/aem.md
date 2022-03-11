@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ![Hoofdafbeelding van zelfstudie](../assets/AEM.jpg)
 
-Adobe Experience Manager is de toonaangevende oplossing voor digital experience management voor bedrijven en middengrote organisaties. Het biedt een moderne, schaalbare basis om aansprekende ervaringen te bieden die de merkbetrokkenheid bevorderen, de vraag stimuleren en de klantloyaliteit vergroten. Experience Manager bevat een volledige reeks tools om digitale ervaringen te creëren, te beheren en te leveren voor alle kanalen.
+Adobe Experience Manager is de toonaangevende oplossing voor digital experience management voor bedrijven en middengrote organisaties. Het biedt een moderne, schaalbare basis om aansprekende ervaringen te bieden die merkbetrokkenheid bevorderen, de vraag stimuleren en de klantloyaliteit vergroten. Experience Manager bevat een volledige reeks tools om digitale ervaringen te creëren, te beheren en te leveren voor alle kanalen.
 
 ## Tutorials van product bekijken
 
@@ -53,8 +53,8 @@ Adobe Experience Manager is de toonaangevende oplossing voor digital experience 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326828?hidetitle=true)
 
-****
-BeschrijvingMaak real-time updates voor assets die zijn opgeslagen in AEM met Asset Link.
+**Beschrijving**
+Maak real-time updates voor assets die zijn opgeslagen in AEM met Asset Link.
 
 In deze zelfstudie leert u hoe u:
 * Vind wat je nodig hebt, wanneer je deze nodig hebt met een speciaal deelvenster om assets binnen je ontwerpprogramma’s te zoeken en te doorbladeren
@@ -68,8 +68,8 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326829?hidetitle=true)
 
-****
-BeschrijvingPlaats uw InDesign-document in AEM zodat meerdere gebruikers tegelijkertijd contentvariaties kunnen maken.
+**Beschrijving**
+Plaats uw InDesign-document in AEM, zodat meerdere gebruikers tegelijkertijd contentvariaties kunnen maken.
 
 In deze zelfstudie leert u hoe u:
 * InDesign-bestand uploaden naar AEM voor algemene opslagtoegang
@@ -118,7 +118,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 **Asset Link en AEM**
 
-[Leer en ](https://helpx.adobe.com/support/experience-manager.html) ondersteun je hub voor aanvullende zelfstudies, nieuwe functies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/support/experience-manager.html) Dit is het middelpunt voor aanvullende zelfstudies, nieuwe functies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

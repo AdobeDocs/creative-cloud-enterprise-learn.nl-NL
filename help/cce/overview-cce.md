@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '1380'
+source-wordcount: '1366'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Van Hand Lettering naar Illustrator via Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
     <div>
-   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>Van handschrift naar Illustrator via Creative Cloud (PDF)</strong></a>
+   <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>Van Hand Lettering naar Illustrator via Creative Cloud (PDF)</strong></a>
     </div>
     <em>Met de kracht van Creative Cloud voor ondernemingen, kun je met de mobiele apps van Adobe en desktop overal vastleggen, converteren en creëren - op elk apparaat</em>
     <br>
@@ -59,7 +59,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Een presentatie toevoegen aan uw Spark-pagina" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
+      <img alt="Een presentatie toevoegen aan uw Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Een presentatie toevoegen aan uw Spark Page (PDF)</strong></a>
@@ -106,12 +106,12 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   </td>
   <td>
     <a href="compositepsipad.md">
-      <img alt="Maak unieke composities met Adobe [!DNL Stock] en Photoshop voor iPad" src="assets/CompositePSiPad.jpg" />
+      <img alt="Unieke composities maken met Adobe [!DNL Stock] en Photoshop voor iPad" src="assets/CompositePSiPad.jpg" />
     </a>
     <div>
-    <a href="compositepsipad.md"><strong>Maak unieke composities met Adobe [!DNL Stock] en Photoshop voor iPad</strong></a>
+    <a href="compositepsipad.md"><strong>Unieke composities maken met Adobe [!DNL Stock] en Photoshop voor iPad</strong></a>
     </div>
-    <em>Benut de kracht van Photoshop binnen handbereik. Leer hoe u een van uw favoriete Creative Cloud-toepassingen op een geheel nieuwe manier kunt gebruiken, met een opnieuw ontwikkelde aanraakgebaseerde interface</em>
+    <em>Benut de kracht van Photoshop binnen handbereik. Leer hoe je een van je favoriete Creative Cloud-applicaties op een geheel nieuwe manier gebruikt, met een vernieuwde, aanraakgebaseerde interface</em>
     <br>
   </td>
   <td>
@@ -121,7 +121,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <a href="cinemagraphps.md"><strong>Cinemagraps maken met Photoshop</strong></a>
     </div>
-    <em>In deze stapsgewijze workshop-videozelfstudie creëer je een levende foto door video van Adobe [!DNL Stock] te combineren met slimme maskertechnieken in Photoshop</em>
+    <em>In deze stapsgewijze videozelfstudie voor een workshop maakt u een levende foto door video van Adobe te combineren [!DNL Stock] met slimme maskertechnieken in Photoshop</em>
     <br>
   </td>
 </tr>
@@ -138,12 +138,12 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    </td>
    <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
-      <img alt="Creëer in een oogwenk creaties met Photoshop en Adobe [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
+      <img alt="Creëer in een mum van tijd Cinemagraps met Photoshop en Adobe [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
     <div>
-    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Creëer in een oogwenk creaties met Photoshop en Adobe [!DNL Stock] (PDF)</strong></a>
+    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>Creëer in een mum van tijd Cinemagraps met Photoshop en Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Zoeken naar naadloze herhalingsvideo's op Adobe [!DNL Stock] om snel opvallende filmfragmenten te verzamelen in Photoshop</em>
+    <em>Zoeken naar video's die naadloos worden herhaald op Adobe [!DNL Stock] voor het snel samenstellen van opvallende bioscopen in Photoshop</em>
     <br>
   </td>
    <td>
@@ -205,7 +205,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Iedereen kan creatief zijn met Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
     <div>
-    <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>Een beetje Adobe Photoshop toevoegen aan uw creatieve vaardigheidsset (PDF)</strong></a>
+    <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf"><strong>Voeg een kleine Adobe Photoshop toe aan uw creatieve vaardigheidsset (PDF)</strong></a>
     </div>
     <em>Voeg een kleine Adobe Photoshop toe aan uw creatieve vaardigheidsset</em>
     <br>
@@ -269,14 +269,14 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Lightroom en Bēhance aansluiten op uw Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
     <div>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Lightroom en Bēhance verbinden met uw Adobe Portfolio (PDF)</strong></a>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Lightroom en Bēhance aansluiten op uw Adobe Portfolio (PDF)</strong></a>
     </div>
     <em>Bēhance-projecten gebruiken als pagina's in uw portfolio</em>
     <br>
   </td>
   <td>
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
-      <img alt="Laat uw beste werk zien met Adobe Portfolio" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
+      <img alt="Toon uw beste werk met Adobe Portfolio" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
    </a>
     <div>
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Uw beste werk tonen met Adobe Portfolio (PDF)</strong></a>
@@ -368,7 +368,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Lettertypen ontdekken met Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Het vinden van het juiste lettertype voor een project kan soms overweldigend lijken. Met verschillende Creative Cloud-apps en -services vind je het juiste lettertype leuk en inspirerend</em>
+    <em>Het vinden van het juiste lettertype voor een project kan soms overweldigend lijken. Met verschillende Creative Cloud-apps en -services is het nu leuk en inspirerend om het juiste lettertype te vinden</em>
     <br>
   </td>
   <td>
@@ -376,7 +376,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Verborgen OpenTypen ontgrendelen in lettertypen" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
    </a>
     <div>
-   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>Verborgen uiteinden in OpenType lettertypen ontgrendelen (PDF)</strong></a>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>Verborgen OpenTypen ontgrendelen in lettertypen (PDF)</strong></a>
     </div>
     <em>Met de indeling OpenType kan een lettertype maximaal 65.536 glyphs bevatten</em>
     <br>
@@ -390,10 +390,10 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
   <td>
    <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
-      <img alt="Interactieve PDF's maken vanuit InDesign" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
+      <img alt="Interactieve PDF maken vanaf InDesign" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Interactieve PDF's maken vanuit InDesign (PDF)</strong></a>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Interactieve PDF maken vanaf InDesign (PDF)</strong></a>
     </div>
     <em>InDesign bevat veel functies waarmee u de inhoud in uw documenten kunt opmaken, opmaken, beheren en bijhouden</em>
     <br>
@@ -415,7 +415,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Webinhoud opmaken met Adobe InDesign CC (PDF)</strong></a>
     </div>
-    <em>Wist u dat u de kracht van InDesign kunt benutten om HTML- en webafbeeldingen uit te voeren?</em>
+    <em>Wist u dat u de kracht van InDesign kunt benutten voor het uitvoeren van HTML- en webafbeeldingen?</em>
     <br>
   </td>
 </tr>
@@ -479,7 +479,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator-symbolen + lagen = Perfecte structuur voor responsieve SVG! (PDF)</strong></a>
     </div>
-    <em>Illustrator biedt ongeëvenaarde ondersteuning voor de SVG-indeling, inclusief de mogelijkheid om symbolen, groepen, id's en exacte vectordefinities van uw illustraties te maken</em>
+    <em>Illustrator biedt ongeëvenaarde ondersteuning voor de SVG-indeling, waaronder de mogelijkheid om symbolen, groepen, id's en exacte vectordefinities van uw illustraties te maken</em>
     <br>
   </td>
 </tr>
@@ -494,9 +494,9 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Visualiseer uw product in een realistische omgeving" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Uw product visualiseren in een realistische omgeving (PDF)</strong></a>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiseer uw product in een realistische omgeving (PDF)</strong></a>
     </div>
-    <em>Als je wilt zien hoe je producten er in de echte wereld uitzien, is Adobe [!DNL Dimension] je ultieme app</em>
+    <em>Als je wilt zien hoe je producten eruitzien in de echte wereld, Adobe [!DNL Dimension] is uw startende app</em>
     <br>
   </td>
   <td>

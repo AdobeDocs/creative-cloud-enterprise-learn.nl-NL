@@ -1,6 +1,6 @@
 ---
-title: Animeer een Adobe [!DNL Stock] vectorillustratie in Photoshop
-description: Animatie in je nieuwsbrief met bewerkbare vectoren voor Adobe [!DNL Stock]
+title: Een Adobe animeren [!DNL Stock] vectorillustratie in Photoshop
+description: Animatie in je nieuwsbrief opnemen met bewerkbare vectoren voor Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331839.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Een Adobe-vectorillustratie animeren in Photoshop[!DNL Stock]
+# Een Adobe animeren [!DNL Stock] vectorillustratie in Photoshop
 
-Importeer animatie in je nieuwsbrief met bewerkbare vectoren voor Adobe [!DNL Stock].
+Animatie in je nieuwsbrief opnemen met bewerkbare vectoren voor Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)

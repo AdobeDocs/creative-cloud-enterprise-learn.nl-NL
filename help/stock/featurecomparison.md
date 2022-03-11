@@ -1,5 +1,5 @@
 ---
-title: Maak een vergelijkingsoverzicht voor productfuncties met Adobe [!DNL Stock]
+title: Een vergelijkingsoverzicht voor productfuncties maken met Adobe [!DNL Stock]
 description: Maak een afbeelding waarin productprijzingsplannen worden vergeleken om toekomstige klanten in één oogopslag de informatie te geven die ze nodig hebben
 role: User
 level: Beginner, Intermediate

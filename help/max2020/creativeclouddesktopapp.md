@@ -23,8 +23,7 @@ De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -servic
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Ontdek de CC Desktop-app: Uw hub voor 
-Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Ontdek de CC Desktop-app: Uw hub voor Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
    <a href="creativeclouddesktopapp.md#tutorial1"><strong>Ontdek de CC Desktop-app: Uw hub voor Creative Cloud</strong></a>
@@ -49,8 +48,8 @@ Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
 
 >[!VIDEO](https://video.tv.adobe.com/v/327095?hidetitle=true)
 
-****
-BeschrijvingDe Creative Cloud-desktopapp is uw centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!
+**Beschrijving**
+De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!
 
 In deze zelfstudie leert u hoe u:
 * Start en werk uw desktopapps bij

@@ -18,15 +18,15 @@ Leer meer over 3D-belichting en hoe u verschillende lichtomstandigheden kunt mak
 
 We zien de wereld om ons heen met onze zintuigen: we horen, voelen, ruiken, zien. We kunnen zien omdat onze ogen informatie oppikken die ons wordt gebracht door elementaire deeltjes die fotonen worden genoemd. Deze informatie wordt verwerkt door onze hersenen om een beeld te produceren. Wat we interpreteren als een objectkleur, glans, transparantie of metaalkwaliteit zijn allemaal producten van de interactie tussen de fotonen en het oppervlak van het object.
 
-Lichtmechanica in een door de computer gegenereerde 3D-scène volgt hetzelfde natuurlijke principe van fotonscattering, via een proces dat [raytracering](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)) wordt genoemd. Hiermee stuitert u vormen af en communiceert u met de materialen ervan. Zo definieert u in feite hoe objecten in de uiteindelijke afbeelding worden weergegeven. Lichten geven de dimensionaliteit weer van alles wat in een 3D-scène bestaat.
+Lichtmechanica in een door de computer gegenereerde 3D-scène volgt hetzelfde natuurlijke principe van fotonscattering, via een proces dat [raytracering](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Hiermee stuitert u vormen af en communiceert u met de materialen ervan. Zo definieert u in feite hoe objecten in de uiteindelijke afbeelding worden weergegeven. Lichten geven de dimensionaliteit weer van alles wat in een 3D-scène bestaat.
 
 Sommige materialen zijn gevoeliger voor belichtingsomstandigheden dan andere. Neem bijvoorbeeld metalen: een chroomobject reflecteert alles om het object heen . Als een licht wordt verplaatst, helderder of groter wordt, is al die informatie direct zichtbaar op het chroomoppervlak in bijna spiegelend detail, zodat kan het volledig verschillend van één lichtvoorwaarde aan andere lijken.
 
-![Een 3D CGI-scène van een auto op een parkeerplaats met een neonteken op de muur. Belichting verschuift van daglicht naar een neon-LED die uit het teken komt](assets/Mastering3dlighting_1.gif)
+![Een 3D CGI-scène van een auto op een parkeerplaats met een neonteken op de muur. Belichting verschuift van daglicht naar een neon-LED die van het teken uitgaat](assets/Mastering3dlighting_1.gif)
 
 ## Werken met 3D-lichten om effectieve 3D-rendering te maken
 
-Het proces voor het maken van een 3D-rendermethode is nooit helemaal hetzelfde, maar dit zijn de meest voorkomende stappen:
+Het proces voor het maken van een 3D-renderbewerking is nooit helemaal hetzelfde, maar dit zijn de meest voorkomende stappen:
 
 1. Objecten maken of ophalen
 1. Scèneverzameling
@@ -55,7 +55,7 @@ Omgevingslichten zijn rechthoekige (bolvormige) afbeeldingen die rond de hele sc
 
 ![Voorbeelden van omgevingslichten die zijn gemaakt van foto&#39;s, een 3D-studio-scène en een abstracte 3D-scène](assets/Mastering3dlighting_5.jpg)
 
-Wanneer u een nieuwe scène maakt in [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), wordt er een standaard omgevingslicht voor u gemaakt. Daarom kun je onmiddellijk iets zien in de scène. Adobe [!DNL Dimension] Starter Assets bevat een aantal omgevingslichten, die u meteen kunt proberen. Daarnaast biedt [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) een enorme, beheerde selectie van omgevingslichten.
+Wanneer u een nieuwe scène maakt in [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), wordt er een standaard omgevingslicht voor u gemaakt. Daarom kun je onmiddellijk iets zien in de scène. Adobe [!DNL Dimension] Starter Assets bevat een aantal omgevingslichten, die u meteen kunt proberen. Bovendien: [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) biedt een enorme, geselecteerde selectie van omgevingslichten.
 
 Omgevingslichten leveren zeer realistische resultaten op en kunnen u veel tijd besparen. Om iets soortgelijks manueel te bereiken, zou u het volledige milieu in 3D (met inbegrip van diverse lichtbronnen) moeten creëren, wat een significante hoeveelheid werk is.
 
@@ -67,13 +67,13 @@ Er zijn vele manieren om omgevingslichten te maken, zoals het vastleggen van bee
 
 ![Een 3D-studio-omgevingslicht wordt gecreëerd door een 3D-scène van een studio om te zetten in een rechthoekige, 32-bits afbeelding](assets/Mastering3dlighting_8.png)
 
-Je kunt ook omgevingslichten maken door foto&#39;s van de echte wereld vast te leggen. Voor deze workflow is een 360-camera nodig (bijvoorbeeld [Ricoh Theta Z1](https://theta360.com/en/about/theta/z1.html)). De camera wordt vervolgens gebruikt voor belichtingsbracketing, of voor het maken van meerdere opnamen van dezelfde omgeving, genomen met een reeks verschillende belichtingswaarden (van onderbelicht tot overbelicht). Deze opnamen worden vervolgens gebruikt om afbeeldingen met 32 bits samen te stellen, vaak HDR&#39;s genoemd (kort voor een High Dynamic Range). Een manier om een dergelijke afbeelding samen te stellen is met de functie Samenvoegen tot HDR in Photoshop. Het ingesloten belichtingsbereik wordt de intensiteitseigenschap.
+Je kunt ook omgevingslichten maken door foto&#39;s van de echte wereld vast te leggen. Voor deze workflow is een camera van 360 nodig (bijv. [Ricoh Theta Z1](https://theta360.com/en/about/theta/z1.html)). De camera wordt vervolgens gebruikt voor belichtingsbracketing, of voor het maken van meerdere opnamen van dezelfde omgeving, genomen met een reeks verschillende belichtingswaarden (van onderbelicht tot overbelicht). Deze opnamen worden vervolgens gebruikt om afbeeldingen met 32 bits samen te stellen, vaak HDR&#39;s genoemd (kort voor een High Dynamic Range). Een manier om een dergelijke afbeelding samen te stellen is met de functie Samenvoegen tot HDR in Photoshop. Het ingesloten belichtingsbereik wordt de intensiteitseigenschap.
 
 ![Voorbeeld van een 3D-scène verlicht door een fotografisch omgevingslicht](assets/Mastering3dlighting_9.jpg)
 
 ![Het fotografische omgevingslicht wordt gemaakt met behulp van belichtingsbracketing en Samenvoegen tot HDR Pro in Photoshop](assets/Mastering3dlighting_10.jpg)
 
-In beide gevallen worden de lichtbronnen (en hun intensiteit) in deze afbeeldingen &quot;gebakken&quot; en wordt het licht uitgestoten zodra ze in [!DNL Dimension] worden gebruikt.
+In beide gevallen worden de lichtbronnen (en hun intensiteit) in deze afbeeldingen &quot;gebakken&quot; en wordt het licht uitgestoten zodra ze worden gebruikt [!DNL Dimension].
 
 Met deze methoden heb je alle benodigde belichting, reflecties en details vastgelegd, maar met 3D-apps kun je ze blijven bewerken in de 3D-ruimte. Zo kun je de belichtingsrotatie aanpassen en de algehele intensiteit en kleur wijzigen.
 
@@ -85,11 +85,11 @@ Naast omgevingslichten, die licht van 360 graden uitstralen, zijn er ook richtin
 
 Het gebruik van richtingslichten biedt volledige controle over de belichtingsinstellingen. Het belichten van de scène met deze lichten gebeurt op dezelfde manier als bij traditionele fotografie, waarbij elk licht onafhankelijk kan worden bestuurd, zodat u uw eigen virtuele fotografische belichting kunt maken. Een van de meest gebruikte belichtingsinstellingen is het 3-punts lichtsysteem.
 
-[!DNL Dimension] heeft een handige handeling, Licht naar punt, waarmee u de rotatie en hoogte kunt bepalen door eenvoudig over een 3D-object te klikken en te slepen. Op deze manier kunt u de lichtstralen dynamisch naar een andere richting leiden. Deze parameters kunnen ook handmatig worden aangepast.
+[!DNL Dimension] heeft een handige handeling, Aim Light at Point, waarmee u de rotatie en hoogte kunt bepalen door eenvoudig over een 3D-object te klikken en te slepen. Op deze manier kunt u de lichtstralen dynamisch naar een andere richting leiden. Deze parameters kunnen ook handmatig worden aangepast.
 
 U kunt de kleur en de intensiteit van de richtingslichten wijzigen en de vorm van de lichtbron aanpassen - de lichtbron cirkelvormig of rechthoekig maken, rekken of groter maken. Tot slot kunt u de randen van de lichtbron verzachten.
 
-![De vorm van een gericht licht wijzigen in Adobe  [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
+![De vorm van een gericht licht wijzigen in Adobe [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
 
 Als u de lichtbron kleiner maakt dan het object, worden de schaduwen scherper met een scherpere omtrek, omdat de stralen niet voorbij het verlichte object kunnen komen. Grotere lichtbronnen produceren zachtere schaduwen, omdat in dit geval de stralen uit alle zijden van het object komen (rood gemarkeerd in de afbeelding hieronder), waardoor een array van schaduwen ontstaat. Deze schaduwen worden verzacht door de stralen die uit de tegenovergestelde richting komen.
 
@@ -101,15 +101,15 @@ Als u de lichtbron kleiner maakt dan het object, worden de schaduwen scherper me
 
 Zonlicht is een speciaal soort richtingslicht. Het proces waarbij het licht wordt ingesteld lijkt sterk op dat van een regulier gericht licht, maar met dit licht wordt de kleur automatisch met de hoogte gewijzigd; als de horizon dicht bij de horizon staat ( lage waarden ) , wordt deze geleidelijk warmer om de zonsondergang te simuleren . U kunt de kleur ook wijzigen met behulp van voorinstellingen. Intussen zal de zachtheid van de schaduw beïnvloeden.
 
-![Belichtingseigenschappen voor zonlicht bewerken op een 3D-automodel in Adobe  [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
+![Belichtingseigenschappen voor zonlicht bewerken op een 3D-automodel in Adobe [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
 
 ![Een 3D-scène op de maan, waarbij zonlicht de enige lichtbron is](assets/Mastering3dlighting_16.jpg)
 
-We kunnen de lucht nabootsen met behulp van omgevingslichtjes, en elk omgevingslicht dat de lucht bevat kan worden gebruikt. Nu moeten we het zonlicht (gemaakt in [!DNL Dimension]) afstemmen op de zon, vastgelegd in het omgevingslicht. Een snelle manier om dit te doen is een bol te creëren en er een metaal aan toe te wijzen; dit zal ons voorzien van real-time reflecties van het milieu, zodat we Aim-licht op het punt kunnen gebruiken om het zonlicht af te stemmen op de zon.
+We kunnen de lucht nabootsen met behulp van omgevingslichtjes, en elk omgevingslicht dat de lucht bevat kan worden gebruikt. Nu moeten we het zonlicht (gemaakt in [!DNL Dimension]) met de zon, vastgelegd in het omgevingslicht. Een snelle manier om dit te doen is een bol te creëren en er een metaal aan toe te wijzen; dit zal ons voorzien van real-time reflecties van het milieu, zodat we Aim-licht op het punt kunnen gebruiken om het zonlicht af te stemmen op de zon.
 
 Als het omgevingslicht een overzwevende hemel bevat, kan de eigenschap cloudiness worden gebruikt om deze voorwaarden beter aan te passen.
 
-![Bezig met manipuleren van wolkeigenschappen voor luchtverlichting op een 3D-automodel in Adobe  [!DNL Dimension]](assets/Mastering3dlighting_17.gif)
+![Bezig met manipuleren van wolkeigenschappen voor luchtverlichting op een 3D-automodel in Adobe [!DNL Dimension]](assets/Mastering3dlighting_17.gif)
 
 Als het zonlicht en het omgevingslicht eenmaal zijn aangesloten, kunt u ze samen roteren met de eigenschap Globale rotatie.
 
@@ -139,19 +139,19 @@ Er zijn veel fotografische technieken voor het instellen van het licht voor een 
 
 Deze instelling bestaat uit drie lichten:
 
-1. **Hoofdlicht:** wordt gebruikt als primaire bron, dit schijnt ongeveer vanuit de richting van de camera
+1. **Hoofdlicht:** gebruikt als de primaire bron, deze schijnt ongeveer vanuit de richting van de camera
 
    ![Voorbeeld van een belangrijk licht dat een 3D-hoofdtelefoonmodel belicht](assets/Mastering3dlighting_22.jpg)
 
-1. **Rimlicht:** gericht aan de tegenoverliggende zijde van de toets, wordt gebruikt om het silhouet van het onderwerp te onthullen.
+1. **Rimlicht:** Aan de tegenovergestelde kant van de toets wordt dit gebruikt om het silhouet van het onderwerp te onthullen.
 
    ![Voorbeeld van een velglicht dat een 3D-hoofdtelefoonmodel belicht](assets/Mastering3dlighting_23.jpg)
 
-1. **Licht vullen:** minder intensief en als u donkere gebieden wilt vullen, wordt dit gebruikt voor gebieden die de twee voorgaande lichten niet bereiken.
+1. **Vullicht:** minder intensief en als u donkere gebieden wilt vullen, wordt dit gebruikt voor gebieden die de vorige twee lichten niet bereiken.
 
    ![Voorbeeld van een vullicht dat een 3D-hoofdtelefoonmodel belicht](assets/Mastering3dlighting_24.jpg)
 
-Er zijn twee manieren om de 3-punts belichting te maken in [!DNL Dimension] - met behulp van Gerichte lichten (die afzonderlijk aan de scène worden toegevoegd of met behulp van een voorinstelling voor 3-punts licht) of via gloeiende objecten.
+Er zijn twee manieren om de 3-punts belichting in [!DNL Dimension] - gebruik van richtingslichten (deze afzonderlijk aan de scène toevoegen of een voorinstelling voor 3-punts licht gebruiken) of via gloeiende objecten.
 
 ![Voorbeeld van een 3-punts licht instellen in een 3D-scène](assets/Mastering3dlighting_25.jpg)
 
@@ -199,8 +199,8 @@ De scène zelf speelt hierin een grote rol. U bereikt boeiende resultaten door o
 
 Dit betekent dat er veel complexe interactie met raytracering zal zijn, naarmate het licht tussen de objecten beweegt. Gearceerde gebieden worden donker weergegeven (zoals verwacht), terwijl belichte gebieden helder blijven.
 
-![De globale rotatie in Adobe gebruiken  [!DNL Dimension] om de richting van het zon- en luchtlichtsysteem te wijzigen in een 3D-scène](assets/Mastering3dlighting_34.gif)
+![Globale rotatie gebruiken in Adobe [!DNL Dimension] om het zon- en luchtlichtsysteem in een 3D-scène te heroriënteren](assets/Mastering3dlighting_34.gif)
 
 Ik hoop dat dit overzicht het belang illustreert van het beheersen van 3D-lichten in verschillende situaties. Je moet er klaar voor zijn om boeiendere resultaten te produceren.
 
-Fijne belichting! Download vandaag nog de [nieuwste release](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) van Dimension.
+Fijne belichting! Download de [nieuwste release](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) van Dimension vandaag.

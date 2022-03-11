@@ -1,6 +1,6 @@
 ---
 title: Een interactieve productconfigurator maken met Adobe [!DNL Stock]
-description: Benut de kracht van interactiviteit, animatie en bewerkbare illustraties van Adobe [!DNL Stock] om financiële informatie op een visuele manier weer te geven
+description: Profiteer van de kracht van interactiviteit, animatie en bewerkbare illustraties van Adobe [!DNL Stock] financiële informatie visueel presenteren
 role: User
 level: Beginner, Intermediate
 thumbnail: 331832.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Een interactieve productconfigurator maken met Adobe [!DNL Stock]
 
-Gebruik de kracht van interactiviteit, animatie en bewerkbare illustraties van Adobe om financiële informatie op een visuele manier weer te geven.[!DNL Stock]
+Profiteer van de kracht van interactiviteit, animatie en bewerkbare illustraties van Adobe [!DNL Stock] financiële informatie op een visuele manier te presenteren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331832?hidetitle=true)

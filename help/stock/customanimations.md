@@ -1,6 +1,6 @@
 ---
 title: Creatief tot leven brengen met aangepaste animaties van Adobe [!DNL Stock]
-description: Gebruik Adobe [!DNL Stock] afbeeldingen, structuren en patronen voor aangepaste animaties in Photoshop
+description: Adobe gebruiken [!DNL Stock] afbeeldingen, structuren, patronen naar aangepaste animaties in Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331806.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Creatief tot leven brengen met aangepaste animaties van Adobe [!DNL Stock]
 
-Gebruik Adobe-afbeeldingen, -structuren en -patronen voor aangepaste animaties in Photoshop.[!DNL Stock]
+Adobe gebruiken [!DNL Stock] afbeeldingen, structuren, patronen naar aangepaste animaties in Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

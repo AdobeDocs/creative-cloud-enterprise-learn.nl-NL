@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Hoofdafbeelding van zelfstudie](../assets/DC.jpg)
 
-Met Adobe Document Cloud, dat ’s werelds toonaangevende oplossingen voor PDF&#39;s en elektronische handtekeningen bevat, kun je handmatige documentprocessen omzetten in efficiënte digitale processen. Je team kan nu snel actie ondernemen voor documenten, workflows en taken - op meerdere schermen en apparaten - op elk moment en in je favoriete Microsoft- en bedrijfs-apps.
+Met Adobe Document Cloud, dat ’s werelds toonaangevende oplossingen voor PDF en elektronische handtekeningen bevat, kun je handmatige documentprocessen omzetten in efficiënte digitale processen. Je team kan nu snel actie ondernemen voor documenten, workflows en taken - op meerdere schermen en apparaten - op elk moment en in je favoriete Microsoft- en bedrijfs-apps.
 
 ## Tutorials van product bekijken
 
@@ -48,7 +48,7 @@ Met Adobe Document Cloud, dat ’s werelds toonaangevende oplossingen voor PDF&#
     <div>
     <a href="acrobat-sign.md#tutorial3"><strong>Vragen om een handtekening met Adobe Sign</strong></a>
     </div>
-    <em>Van Word naar PDF en verzenden voor ondertekening met Adobe Sign</em>
+    <em>Van Word naar PDF en verzenden ter ondertekening met Adobe Sign</em>
     <br>
   </td>
 </tr>
@@ -65,12 +65,12 @@ Met Adobe Document Cloud, dat ’s werelds toonaangevende oplossingen voor PDF&#
   </td>
   <td>
     <a href="acrobat-sign.md#tutorial5">
-        <img alt="Scan documenten naar PDF's vanaf je mobiele telefoon" src="../assets/acrobat_scan_enke.jpg" />
+        <img alt="Documenten vanaf uw mobiele telefoon naar PDF scannen" src="../assets/acrobat_scan_enke.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial5"><strong>Scan documenten naar PDF's vanaf je mobiele telefoon</strong></a>
+    <a href="acrobat-sign.md#tutorial5"><strong>Documenten vanaf uw mobiele telefoon naar PDF scannen</strong></a>
     </div>
-    <em>Met Adobe Scan kun je eenvoudig documenten, formulieren, visitekaartjes en whiteboards vastleggen en converteren naar hoogwaardige Adobe-PDF’s</em>
+    <em>Met Adobe Scan kun je eenvoudig documenten, formulieren, visitekaartjes en whiteboards vastleggen en converteren naar hoogwaardige Adobe-PDF</em>
     <br>
   </td>
   <td>
@@ -85,15 +85,15 @@ Met Adobe Document Cloud, dat ’s werelds toonaangevende oplossingen voor PDF&#
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
-****
-BeschrijvingNodig revisoren uit om hun opmerkingen toe te voegen aan een PDF-document.
+**Beschrijving**
+Revisoren uitnodigen om hun opmerkingen toe te voegen aan een PDF-document.
 
 In deze zelfstudie leert u hoe u:
-* PDF-opmerkingen hosten in het Document Cloud
+* Opmerkingen van host PDF in het Document Cloud
 * Opmerkingen op één plaats verzamelen
 * Gelijktijdige opmerkingen stimuleren samenwerking
 
-**Vergelijking van Adobe-revisie- en opmerkingenopties**
+**Vergelijking van Adobe-revisie- en opmerkingenopties-PDF**
 
 [![Vergelijkingsafbeelding](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
@@ -104,8 +104,8 @@ Dan Armstrong, Solutions Consultant (Digital Media) Rick Borstein, Senior Manage
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
-****
-BeschrijvingZet documenten snel om in online formulieren en post ze online waar iedereen die ze nodig heeft, ze kan invullen en ondertekenen.
+**Beschrijving**
+Zet documenten snel om in online formulieren en post ze online waar iedereen die ze nodig heeft, ze kan invullen en ondertekenen.
 
 In deze zelfstudie leert u hoe u:
 * Digitaal maken door papieren formulieren om te zetten in digitale documenten
@@ -119,8 +119,8 @@ Taylor Kobey, Solutions Consultant (Digital Media) Emily Palmer, Solutions Consu
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
-****
-BeschrijvingGa van Word naar PDF en verzend ter ondertekening met Adobe Sign.
+**Beschrijving**
+Ga van Word naar PDF en verzend documenten ter ondertekening met Adobe Sign.
 
 In deze zelfstudie leert u hoe u:
 * Gebruik de tools die je dagelijks gebruikt om digitale documenten ter ondertekening te verzenden
@@ -132,26 +132,26 @@ Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
-****
-BeschrijvingGebruik de vloeiende modus om de lezervaring van PDF op mobiele apparaten te verbeteren.
+**Beschrijving**
+Gebruik de vloeiende modus om de lezerervaring van PDF op mobiele apparaten te verbeteren.
 
 In deze zelfstudie leert u hoe u:
 * PDF-bestanden responsief maken voor mobiele apparaten
-* De PDF-indeling verbeteren
+* Verbeter je PDF-lay-out
 * Voeg direct functies toe om u te helpen documenten gemakkelijk te lezen op uw telefoon en tablet
 
 **Gepresenteerd door:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
-## Documenten vanaf je mobiele telefoon naar PDF scannen (5:53) {#tutorial5}
+## Documenten vanaf uw mobiele telefoon naar PDF scannen (5:53) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
-****
-BeschrijvingMet Adobe Scan kun je eenvoudig documenten, formulieren, visitekaartjes en whiteboards vastleggen en converteren naar hoogwaardige Adobe-PDF’s.
+**Beschrijving**
+Met Adobe Scan kun je eenvoudig documenten, formulieren, visitekaartjes en whiteboards vastleggen en converteren naar hoogwaardige Adobe-PDF.
 
 In deze zelfstudie leert u hoe u:
-* Gebruik je mobiele telefoon om documenten, formulieren, visitekaartjes en whiteboards vast te leggen en te converteren naar hoogwaardige Adobe-PDF’s
+* Gebruik je mobiele telefoon om documenten, formulieren, visitekaartjes en whiteboards vast te leggen en om te zetten in hoogwaardige Adobe PDF-
 * Automatisch handgeschreven of afgedrukte tekst herkennen en verscherpen, terwijl u elementen die u niet wilt verwijderen, zoals schittering en schaduw
 * Open de gescande PDF in Acrobat Reader om notities en opmerkingen te maken en deze te reviseren met uw team
 
@@ -162,7 +162,7 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 **Informatiebronnen voor Acrobat en Adobe Sign**
 
-[Leer en ](https://helpx.adobe.com/support/document-cloud.html) ondersteun je hub voor aanvullende zelfstudies,  [nieuwe functies](https://helpx.adobe.com/acrobat/using/whats-new.html) en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/support/document-cloud.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/acrobat/using/whats-new.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

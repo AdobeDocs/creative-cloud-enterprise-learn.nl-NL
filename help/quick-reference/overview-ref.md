@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '1254'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze korte naslaggidsen helpen u nieuwe functies in Creative Cloud te leren kennen.
 
 
-## Klik om een PDF van de snelle naslaggids te downloaden
+## Klik om een PDF van de korte naslaggids te downloaden
 
 ### Creative Cloud voor ondernemingen
 
@@ -31,15 +31,15 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="GettingStartedwithCloudDocuments.pdf"><strong>Aan de slag met clouddocumenten (PDF)</strong></a>
     </div>
-    <em>Maak een document van het ene apparaat en ga verder met het document op een ander apparaat. Leer hoe u uw documenten naar de cloud verplaatst en vervolgens kunt openen wanneer of waar u maar wilt
-    <br></em>
+    <em>Maak een document van het ene apparaat en ga verder met het document op een ander apparaat. Leer hoe u uw documenten naar de cloud verplaatst en vervolgens kunt openen wanneer of waar u maar wilt</em>
+    <br>
   </td>
   <td>
    <a href="ScanShareandReviewPDFswithCreativeCloud.pdf">
-      <img alt="PDF's scannen, delen en reviseren met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+      <img alt="PDF scannen, delen en reviseren met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ScanShareandReviewPDFswithCreativeCloud.pdf"><strong>PDF's scannen, delen en reviseren met Creative Cloud (PDF)</strong></a>
+   <a href="ScanShareandReviewPDFswithCreativeCloud.pdf"><strong>PDF scannen, delen en reviseren met Creative Cloud (PDF)</strong></a>
     </div>
     <em>Leer hoe je een papieren formulier vastlegt, uitsnijdt en converteert naar een volledig functioneel PDF-bestand met Adobe Scan en Document Cloud. Gebruik vervolgens Acrobat om je gegevens in te vullen, te ondertekenen en te delen</em>
     <br>
@@ -60,7 +60,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Schets, comp en voltooi een brochure-lay-out met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf"><strong>Een brochure-indeling schetsen, samenstellen en voltooien met Creative Cloud (PDF)</strong></a>
+   <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf"><strong>Schets, comp en voltooi een brochure-lay-out met Creative Cloud (PDF)</strong></a>
     </div>
     <em>Verken snel lay-outideeën voor drukwerk, het web, mobiele apparaten of social media op je mobiele apparaat met Adobe Comp</em>
     <br>
@@ -90,7 +90,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Een webpagina maken, bewerken en delen met Spark (PDF)</strong></a>
     </div>
-    <em>Maak een interactief, responsief en lichtbakvriendelijk fotoraster voor je webpagina met eenvoudige, intuïtieve tools in Adobe Spark en prachtige afbeeldingen van Adobe [!DNL Stock]</em>
+    <em>Maak een interactief, responsief en lichtbakvriendelijk fotoraster voor uw webpagina met eenvoudige, intuïtieve tools in Adobe Spark en prachtige afbeeldingen van Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
@@ -137,7 +137,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="CreatingCinemagraphswithPhotoshop.pdf"><strong>Cinemagraphs maken met Photoshop (PDF)</strong></a>
     </div>
-    <em>Maak een levende foto door video van Adobe [!DNL Stock] te combineren met slimme maskertechnieken in Photoshop. Breng je afbeeldingen tot leven met beweging en een strategisch lijnpunt</em>
+    <em>Een levende foto maken door video van Adobe te combineren [!DNL Stock] met slimme maskertechnieken in Photoshop. Breng je afbeeldingen tot leven met beweging en een strategisch luspunt</em>
     <br>
   </td>
 </tr>
@@ -147,14 +147,14 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Creëer fantastische afbeeldingen met Photoshop + After Effects" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf"><strong>Ongelofelijke afbeeldingen maken met Photoshop + After Effects (PDF)</strong></a>
+   <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf"><strong>Creëer fantastische afbeeldingen met Photoshop + After Effects (PDF)</strong></a>
     </div>
     <em>Gebruik een gangbare videotechniek in After Effects om snel een achtergrondkleur in een foto te verwijderen om een unieke fotocompositie te maken voor uw ontwerpprojecten</em>
     <br>
   </td>
   <td>
    <a href="GettoknowPhotoshopontheiPad.pdf">
-      <img alt="Kennismaken met Photoshop op de iPad" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Photoshop leren kennen op de iPad" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="GettoknowPhotoshopontheiPad.pdf"><strong>Kennismaken met Photoshop op de iPad (PDF)</strong></a>
@@ -226,9 +226,9 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Ontwerp en maak een prototype van Interactieve Projecten met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Interactieve projecten ontwerpen en prototypen maken met Creative Cloud (PDF)</strong></a>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Ontwerp en maak een prototype van Interactieve Projecten met Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Creëer in slechts een paar minuten een volledig interactieve en geanimeerde gebruikerservaring door Adobe XD te combineren met een breed scala aan unieke en veelzijdige assets op Adobe [!DNL Stock]</em>
+    <em>Creëer in slechts een paar minuten een volledig interactieve en geanimeerde gebruikerservaring door Adobe XD te combineren met een breed scala aan unieke en veelzijdige assets op Adobe- [!DNL Stock]</em>
     <br>
   </td>
  </tr>
@@ -238,7 +238,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Laten we XD - Zie Ontwerpen, Prototype maken en Afleveren aan teams" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Laten we XD - Zie Ontwerpen, Prototype maken en Afleveren aan teams (PDF)</strong></a>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Laten we XD - Zie Ontwerpen, Prototype maken en Overhandigen aan teams (PDF)</strong></a>
     </div>
     <em>Componenten bieden u een ongekende flexibiliteit voor het toepassen van zowel snelheid als consistentie op uw ontwerpworkflow</em>
     <br>
@@ -262,12 +262,12 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
   <td>
    <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf">
-      <img alt="Unieke afbeeldingen maken door Adobe [!DNL Stock]-afbeeldingen te combineren" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Unieke afbeeldingen maken door Adobe te combineren [!DNL Stock] Afbeeldingen" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>Unieke afbeeldingen maken door Adobe [!DNL Stock]-afbeeldingen (PDF) te combineren</strong></a>
+   <a href="CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf"><strong>Unieke afbeeldingen maken door Adobe te combineren [!DNL Stock] Afbeeldingen (PDF)</strong></a>
     </div>
-    <em>Combineer afbeeldingen van Adobe [!DNL Stock] om een geheel nieuwe afbeelding te maken voor je ontwerpprojecten</em>
+    <em>Afbeeldingen combineren vanuit Adobe [!DNL Stock] om een geheel nieuw beeld voor uw ontwerpprojecten te creëren</em>
     <br>
   </td>
   <td>
@@ -277,15 +277,15 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf"><strong>Verbeter je Portfolio met Unieke projecten en Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Combineer afbeeldingen van Adobe [!DNL Stock] om een geheel nieuwe afbeelding te maken voor je ontwerpprojecten</em>
+    <em>Afbeeldingen combineren vanuit Adobe [!DNL Stock] om een geheel nieuw beeld voor uw ontwerpprojecten te creëren</em>
     <br>
   </td>
    <td>
    <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf">
-      <img alt="Meer aandacht met Beweging van Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Meer aandacht krijgen met Beweging van Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf"><strong>Meer aandacht met Beweging van Adobe [!DNL Stock] (PDF)</strong></a>
+   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf"><strong>Meer aandacht krijgen met Beweging van Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>[!DNL Capture] de aandacht van je doelgroepen, op elk scherm, door fotografie te combineren met video van Adobe [!DNL Stock]</em>
     <br>
@@ -294,12 +294,12 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf">
-      <img alt="Laat je data zien met Adobe [!DNL Stock] sjablonen voor bewegende beelden" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Toon je data met Adobe [!DNL Stock] Bewegingsafbeeldingssjablonen" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf"><strong>Laat je data zien met Adobe [!DNL Stock] bewegende afbeeldingssjablonen (PDF)</strong></a>
+   <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf"><strong>Toon je data met Adobe [!DNL Stock] Bewegingsafbeeldingssjablonen (PDF)</strong></a>
     </div>
-    <em>Vertegenwoordig je data op een meer invloedrijke manier door beweging en ontwerp toe te voegen met een bewegende-afbeeldingssjabloon van Adobe [!DNL Stock]</em>
+    <em>Vertegenwoordig je data op een meer invloedrijke manier door beweging en ontwerp toe te voegen met een sjabloon voor bewegende beelden van Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
@@ -307,19 +307,19 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Laat je ontwerpwerk zien in de echte wereld" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ShowOffYourDesignWorkintheRealWorld.pdf"><strong>Uw ontwerpwerk in de echte wereld tonen (PDF)</strong></a>
+   <a href="ShowOffYourDesignWorkintheRealWorld.pdf"><strong>Laat je ontwerpwerk zien in de echte wereld (PDF)</strong></a>
     </div>
-    <em>Leer hoe je je ontwerpwerk kunt modelleren met echte sjablonen van Adobe [!DNL Stock]</em>
+    <em>Leer hoe je je ontwerpwerk kunt vormgeven met echte sjablonen van Adobe [!DNL Stock]</em>
     <br>
   </td>
 <td>
    <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf">
-      <img alt="Tips voor het maken van animaties in e-mail met Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Tips voor het maken van animatie in e-mail met Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf"><strong>Tips voor het maken van animaties in e-mail met Adobe [!DNL Stock] (PDF)</strong></a>
+   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf"><strong>Tips voor het maken van animatie in e-mail met Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>Combineer statische afbeeldingen en video in Photoshop om een boeiende, geanimeerde GIF te creëren voor je campagne die geschikt is voor een groot aantal e-mailtoepassingen van klanten</em>
+    <em>Combineer statische afbeeldingen en video in Photoshop om een boeiend, geanimeerd GIF voor je campagne te creëren dat geschikt is voor een groot aantal e-mailtoepassingen van klanten</em>
     <br>
   </td>
 </tr>
@@ -334,9 +334,9 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Creëer prachtige typografie met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Onbeperkte Adobe Fonts binnen handbereik (PDF)</strong></a>
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Onbeperkte Adobe Fonts bij uw vingertoppen (PDF)</strong></a>
     </div>
-    <em>[!DNL Capture] interessante lettertypen in de echte wereld met behulp van Adobe [!DNL Capture] op je mobiele apparaat, en vervolgens vergelijkbare lettertypen identificeren en activeren en opslaan met behulp van Adobe Fonts en Creative Cloud-bibliotheken</em>
+    <em>[!DNL Capture] interessante lettertypen in de echte wereld met Adobe [!DNL Capture] op uw mobiele apparaat, en activeer en sla vergelijkbare lettertypen op met Adobe Fonts en Creative Cloud-bibliotheken</em>
     <br>
   </td>
    <td>
@@ -395,7 +395,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf"><strong>Realistische 3D-modellen maken met Adobe [!DNL Stock] en [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Bekijk hoe je ontwerp vertaalt naar echte objecten door 3D-modellen van Adobe [!DNL Stock] te combineren met aangepaste decals in [!DNL Dimension]</em>
+    <em>Bekijk hoe je ontwerp wordt omgezet in echte objecten door 3D-modellen van Adobe te combineren [!DNL Stock] met aangepaste decies in [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -405,7 +405,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="SkiptheShootGettheShot.pdf"><strong>De opname overslaan — De opname ophalen (PDF)</strong></a>
     </div>
-    <em>Pas een 3D-model aan en merk het op in [!DNL Dimension] met materialen, omgevingseigenschappen, belichting en fotografie om fotorealistische afbeeldingen te maken voor elk ontwerpproject</em>
+    <em>Pas een 3D-model aan en merk het op in [!DNL Dimension] met materialen, milieu-eigenschappen, belichting en fotografie, om fotorealistische afbeeldingen te maken voor elk ontwerpproject</em>
     <br>
   </td>
   <td>

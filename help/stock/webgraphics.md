@@ -1,5 +1,5 @@
 ---
-title: Maak aansprekende webafbeeldingen door Adobe [!DNL Stock] afbeeldingen te combineren met CSS
+title: Maak aansprekende webafbeeldingen door Adobe te combineren [!DNL Stock] afbeeldingen met CSS
 description: Creëer merkeenheid met verschillende afbeeldingen door kleuren en verlopen te combineren in je reclamecampagne
 role: User
 level: Beginner, Intermediate
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Maak aansprekende webafbeeldingen door Adobe [!DNL Stock]-afbeeldingen te combineren met CSS
+# Maak aansprekende webafbeeldingen door Adobe te combineren [!DNL Stock] afbeeldingen met CSS
 
 Creëer merkeenheid met verschillende afbeeldingen door kleuren en verlopen te combineren in je reclamecampagne.
 

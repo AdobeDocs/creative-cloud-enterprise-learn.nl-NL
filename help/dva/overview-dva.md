@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -43,12 +43,12 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
   </td>
   <td>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf">
-      <img alt="Een illustratie maken van een [!DNL Stock]-foto van een Adobe met After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
+      <img alt="Een illustratie van een Adobe maken [!DNL Stock] Foto met After Effects" src="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf"><strong>Een illustratie maken van een Adobe [!DNL Stock] Foto met After Effects (PDF)</strong></a>
+   <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf"><strong>Een illustratie van een Adobe maken [!DNL Stock] Foto met After Effects (PDF)</strong></a>
     </div>
-    <em>Combineer de effecten Kleurtoon/verzadiging en Niveaus met de Cartoon-effecten in After Effects om een unieke gestileerde illustratie te maken van een Adobe [!DNL Stock]-foto</em>
+    <em>Combineer de effecten Kleurtoon/verzadiging en Niveaus met de Cartoon-effecten in After Effects om een unieke gestileerde illustratie te maken van een Adobe [!DNL Stock] foto</em>
     <br>
   </td>
 </tr>
@@ -60,7 +60,7 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
     <div>
    <a href="assets/CreateAnimatedTitlesUsingMotionGraphicsTemplatesinAdobePremiereRush.pdf"><strong>Geanimeerde titels maken met sjablonen voor bewegende beelden in Adobe Premiere [!DNL Rush] (PDF)</strong></a>
     </div>
-    <em>Laat je video's er nog verbluffender uitzien door professioneel ontworpen sjablonen voor bewegende beelden toe te voegen die passen bij je verhaal of die passen bij je persoonlijke merk</em>
+    <em>Laat je video's er nog verbluffender uitzien door professioneel ontworpen sjablonen voor bewegende beelden toe te voegen die bij je verhaal passen of die overeenkomen met je persoonlijke merk</em>
     <br>
   </td>
   <td>
@@ -78,7 +78,7 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
       <img alt="Maak ingewikkelde transparantie in uw foto's met Keying in After Effects" src="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.jpg" />
    </a>
     <div>
-   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf"><strong>Maak ingewikkelde transparantie in je foto’s met Keying in After Effects (PDF)</strong></a>
+   <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf"><strong>Maak ingewikkelde transparantie in uw foto's met Keying in After Effects (PDF)</strong></a>
     </div>
     <em>Keying wordt veel gebruikt voor video, maar kan ook een grote hulp zijn wanneer uw foto's nodig zijn voor ontwerpprojecten</em>
     <br>
@@ -119,10 +119,10 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
 <tr>
    <td>
    <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf">
-      <img alt="Toon je Spark-video in je Spark-pagina" src="assets/ShowcaseyourSparkVideoinyourSparkPage.jpg" />
+      <img alt="Toon uw Spark Video in uw Spark Page" src="assets/ShowcaseyourSparkVideoinyourSparkPage.jpg" />
    </a>
     <div>
-   <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf"><strong>Toon je Spark-video in je Spark Page (PDF)</strong></a>
+   <a href="assets/ShowcaseyourSparkVideoinyourSparkPage.pdf"><strong>Toon uw Spark Video in uw Spark Page (PDF)</strong></a>
     </div>
     <em>Met Adobe Spark Page kunt u video laden van verschillende bronnen, waaronder video's die u maakt met Spark Video!</em>
     <br>
@@ -132,7 +132,7 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
       <img alt="Combineer op een vloeiende manier muziek en dialoog of gesproken tekst met automatische ducking in Adobe Premiere [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Smoothly Combineer muziek en dialoog of gesproken tekst met automatische ducking in Adobe Premiere [!DNL Rush] Adobe (PDF)</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Combineer op een vloeiende manier muziek en dialoog of gesproken tekst met automatische ducking in Adobe Premiere [!DNL Rush] Adobe (PDF)</strong></a>
     </div>
     <em>Adobe Premiere [!DNL Rush] biedt geavanceerde videobewerkingsfuncties in een gebruiksvriendelijke app, zodat iedereen binnen enkele minuten een professionele video kan maken</em>
     <br>

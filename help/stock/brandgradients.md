@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Creëer coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets
 
-Importeer animatie in je nieuwsbrief met bewerkbare vectoren voor Adobe [!DNL Stock].
+Animatie in je nieuwsbrief opnemen met bewerkbare vectoren voor Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

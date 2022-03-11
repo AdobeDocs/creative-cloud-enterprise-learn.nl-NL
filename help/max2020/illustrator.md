@@ -53,8 +53,8 @@ De moderne app voor illustraties en afbeeldingen. Maak logo’s, pictogrammen, i
 
 >[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
-****
-BeschrijvingBeperk handmatige taken en zorg voor consistentie met symbolen.
+**Beschrijving**
+Minder handmatig werk en behoud consistentie met symbolen.
 
 In deze zelfstudie leert u hoe u:
 * Minder handmatig werk en behoud consistentie met symbolen
@@ -66,8 +66,8 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
-****
-Beschrijving - Hiermee kunt u snel glyphs uitlijnen op belangrijke gebieden van het document.
+**Beschrijving**
+Snel glyphs uitlijnen op belangrijke gebieden van het document.
 
 In deze zelfstudie leert u hoe u:
 * Snel glyphs uitlijnen op belangrijke gebieden van het document
@@ -79,7 +79,7 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 **Illustrator-bronnen**
 
-[Leer en ](https://helpx.adobe.com/support/illustrator.html) ondersteun uw hub voor extra zelfstudies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/support/illustrator.html) is het middelpunt voor aanvullende zelfstudies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

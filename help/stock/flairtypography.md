@@ -1,6 +1,6 @@
 ---
 title: Flitser toevoegen aan typografie met maskers en animatie
-description: Breng je tekst tot leven met elementen van Adobe [!DNL Stock] en animatiestijlen van After Effects
+description: Breng je tekst tot leven met elementen van Adobe [!DNL Stock] en animatiestijlen uit After Effects
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Flitser toevoegen aan typografie met maskers en animatie
 
-Breng je tekst tot leven met elementen van Adobe [!DNL Stock] en animatiestijlen van After Effects.
+Breng je tekst tot leven met elementen van Adobe [!DNL Stock] en animatiestijlen uit After Effects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

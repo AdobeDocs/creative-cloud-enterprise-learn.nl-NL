@@ -1,5 +1,5 @@
 ---
-title: MAX 2020 — de Enterprise-sessies
+title: MAX 2020 — de Enterprise Sessions
 description: Demo-elementen
 role: User
 level: Beginner, Intermediate
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# MAX 2020 — de Enterprise-sessies
+# MAX 2020 — de Enterprise Sessions
 
 ![Max. 2020 hoofdafbeelding](../assets/MAX2020.jpg)
 
@@ -31,8 +31,7 @@ In deze opgenomen live sessie ziet u voorbeelden van op een sjabloon gebaseerde 
 
 **Gepresenteerd door:**
 
-Eric Rowse, Senior Solutions Consultant (Digital Media)
-Derek Lu, Principal Solutions Consultant (concepttest)
+Eric Rowse, Senior Solutions Consultant (Digital Media) Derek Lu, Principal Solutions Consultant (Concept)
 
 ## Nieuwe tools voor de nieuwe standaard (29:57)
 
@@ -40,7 +39,7 @@ Derek Lu, Principal Solutions Consultant (concepttest)
 
 **Beschrijving**
 
-De WFH heeft uitdagingen met zich meegebracht, maar heeft ook creatievelingen en hun bedrijven gedwongen te experimenteren met nieuwe tools en nieuwe manieren om te creëren. Ontdek vertrouwde tools zoals Illustrator en Photoshop in hun nieuwe iPad-versies en teken met Fresco op tablets (iPad, Microsoft Surface) en nu op de iPhone!
+De WFH heeft uitdagingen met zich meegebracht, maar heeft ook creatievelingen en hun bedrijven gedwongen te experimenteren met nieuwe tools en nieuwe manieren om te creëren. Ontdek vertrouwde tools zoals Illustrator en Photoshop in hun nieuwe iPad-versies en teken met Fresco op tablets (iPad, Microsoft Surface) en nu op iPhone!
 
 In deze opgenomen live sessie leert u hoe u:
 * Gebruik verschillende penselen en arceringstechnieken in Fresco om met de hand getekende campagneillustraties te maken
@@ -49,9 +48,7 @@ In deze opgenomen live sessie leert u hoe u:
 
 **Gepresenteerd door:**
 
-Dave Weinberg, Senior Solutions Consultant (Digital Media)
-Liz Tanonis, Solutions Consultant (Digital Media)
-Emilie Enke, Solutions Consultant (Digital Media)
+Dave Weinberg, Senior Solutions Consultant (Digital Media) Liz Tanonis, Solutions Consultant (Digital Media) Emilie Enke, Solutions Consultant (Digital Media)
 
 ## Samenwerking met CC Libraries (27:58)
 
@@ -67,8 +64,7 @@ In deze zelfstudie leert u hoe u:
 
 **Gepresenteerd door:**
 
-Ashley Dvorin, Senior Solutions Consultant (Digital Media)
-Emily Palmer, Solutions Consultant (Digital Media)
+Ashley Dvorin, Senior Solutions Consultant (Digital Media) Emily Palmer, Solutions Consultant (Digital Media)
 
 ## Over de Demo Assets: LOKAAL
 

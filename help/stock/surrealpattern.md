@@ -1,5 +1,5 @@
 ---
-title: Een semi-surreëel patroon maken met Adobe [!DNL Stock]
+title: Een semi-surrealistisch patroon met Adobe maken [!DNL Stock]
 description: Creëer een prachtig, naadloos patroon op basis van surrealistische beelden van Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Een semi-surrealistisch patroon maken met Adobe [!DNL Stock]
+# Een semi-surrealistisch patroon met Adobe maken [!DNL Stock]
 
-Creëer een prachtig naadloos patroon op basis van surrealistische beelden van Adobe [!DNL Stock].
+Creëer een prachtig, naadloos patroon op basis van surrealistische beelden van Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

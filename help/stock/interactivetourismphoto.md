@@ -1,6 +1,6 @@
 ---
 title: Een interactieve toeristische foto maken met Adobe [!DNL Stock] en XD
-description: Snel een interactieve foto maken in uw websiteprototype met Adobe [!DNL Stock] & XD
+description: Snel een interactieve foto maken in uw websiteprototype met Adobe [!DNL Stock] en XD
 role: User
 level: Beginner, Intermediate
 thumbnail: 331820.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Een interactieve toeristische foto maken met Adobe [!DNL Stock] en XD
 
-Creëer snel een interactieve foto in je websiteprototype met Adobe [!DNL Stock] &amp; XD.
+Snel een interactieve foto maken in uw websiteprototype met Adobe [!DNL Stock] en XD.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331820?hidetitle=true)

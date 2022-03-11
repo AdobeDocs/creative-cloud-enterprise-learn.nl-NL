@@ -17,11 +17,11 @@ In het klimaat van vandaag heeft IT-management zich snel moeten richten op een v
 
 Door licenties voor Adobe-producten te verlenen via NUL (Named User Licensing) kunnen IT-beheerders eenvoudig Adobe-tools implementeren en beheren met behulp van de Admin Console en krijgen eindgebruikers toegang tot creatieve en productiviteitsapps van wereldklasse en Adobe Cloud-services, zelfs als de volledige medewerkers niet beschikbaar zijn.
 
-Als uw organisatie niet NUL gebruikt en nog steeds Serialized implementatie voor Adobe-producten gebruikt, kunnen uw serienummers binnenkort verlopen. Om verstoring van de service te voorkomen, is het belangrijk dat u uw migratie naar NUL plant voordat uw [serienummers verlopen](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration).
+Als uw organisatie niet NUL gebruikt en nog steeds Serialized implementatie voor Adobe-producten gebruikt, kunnen uw serienummers binnenkort verlopen. Om verstoring van de service te voorkomen, is het belangrijk dat u de migratie naar NUL plant voordat u [serienummers verlopen](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration).
 
 ## Informatie over licenties op naam
 
-[Licentie voor benoemde gebruikers ](https://helpx.adobe.com/enterprise/using/licensing.html) is een softwarelicentiemodel waarmee software aan een individu kan worden toegewezen in plaats van aan een serienummer of apparaat. NUL biedt IT-beheerders beveiliging op ondernemingsniveau met geavanceerd beheer van gebruikersidentiteiten en maakt het mogelijk toepassingen eenvoudig te implementeren en te beheren met de Adobe Admin Console.
+[Licentie op naam](https://helpx.adobe.com/enterprise/using/licensing.html) is een softwarelicentiemodel waarmee software aan een individu kan worden toegewezen in plaats van aan een serienummer of apparaat. NUL biedt IT-beheerders beveiliging op ondernemingsniveau met geavanceerd beheer van gebruikersidentiteiten en maakt het mogelijk toepassingen eenvoudig te implementeren en te beheren met de Adobe Admin Console.
 
 ## Voordelen van licenties op naam:
 
@@ -31,7 +31,7 @@ Als uw organisatie niet NUL gebruikt en nog steeds Serialized implementatie voor
 
 * Profiteer van de professionele services.
 
-   Je Enterprise Term License Agreement met Adobe biedt onbeperkte sessies van 30 minuten via telefoon of webconferentie met een Adobe Expert om je te helpen met eventuele problemen. Als u een sessie wilt boeken, gaat u naar het tabblad Ondersteuning in de Admin Console en klikt u op **Expert-sessie aanvragen**.
+   Je Enterprise Term License Agreement met Adobe biedt onbeperkte sessies van 30 minuten via telefoon of webconferentie met een Adobe Expert om je te helpen met eventuele problemen. Als u een sessie wilt boeken, gaat u naar het tabblad Ondersteuning in de Admin Console en klikt u op **Verzoek indienen voor sessie met expert**.
 
 * Groot aantal gebruikers? Geen probleem.
 
@@ -43,6 +43,6 @@ Als uw organisatie niet NUL gebruikt en nog steeds Serialized implementatie voor
 
 * De beste tools voor productiviteit en samenwerking.
 
-   Door NUL te gebruiken, hebben je gebruikers toegang tot de productiviteitsinstellingen van Adobe Creative Cloud en Adobe Document Cloud. Je kunt zoveel doen: veilig documenten maken en ondertekenen; snel aangepaste PDF&#39;s maken; een creatief project op een tablet starten voordat u het naar een desktop brengt; delen van documenten met een team via het Document Cloud; en werken aan nieuwe teamprojecten in Adobe XD. Met onze cloudgebaseerde services kun je eenvoudig assets delen en samenwerken als extern team.
+   Door NUL te gebruiken, hebben je gebruikers toegang tot de productiviteitsinstellingen van Adobe Creative Cloud en Adobe Document Cloud. Je kunt zoveel doen: veilig documenten maken en ondertekenen; snel aangepaste PDF maken; een creatief project op een tablet starten voordat u het naar een desktop brengt; delen van documenten met een team via het Document Cloud; en werken aan nieuwe teamprojecten in Adobe XD. Met onze cloudgebaseerde services kun je eenvoudig assets delen en samenwerken als extern team.
 
-Moderne workflowuitdagingen vereisen moderne oplossingen. Laten we u helpen bij de overgang naar een licentie op naam. Raadpleeg de [Migratiehandleiding voor licenties op naam](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) om aan de slag te gaan met uw overgang.
+Moderne workflowuitdagingen vereisen moderne oplossingen. Laten we u helpen bij de overgang naar een licentie op naam. Bekijk de [Migratiehandleiding voor licenties op naam](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) om aan de slag te gaan met uw overgang.

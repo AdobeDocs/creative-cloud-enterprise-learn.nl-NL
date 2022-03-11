@@ -55,8 +55,7 @@ Adobe XD is een tool voor het ontwerpen en prototypen van gebruikerservaringen v
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Een prototype maken: ankerkoppelingen en 
-Schuiven in groepen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Een prototype maken: ankerkoppelingen en scrollgroepen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
     <a href="xd.md#tutorial4"><strong>Een prototype maken: ankerkoppelingen en scrollgroepen</strong></a>
@@ -109,12 +108,12 @@ Schuiven in groepen" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
 </tr>
 </table>
 
-## [!UICONTROL Componenten] maken met aanwijsstatussen (7:35) {#tutorial1}
+## Maken [!UICONTROL Componenten] met aanwijsstatussen (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
-****
-BeschrijvingMaak herbruikbare, dynamisch aanpasbare knoppen voor uw interactieve ontwerpen.
+**Beschrijving**
+Maak herbruikbare, dynamisch aanpasbare knoppen voor uw interactieve ontwerpen.
 
 In deze zelfstudie leert u hoe u:
 * Wijzigingen aanbrengen in een hoofdbroncomponent en deze wijzigingen worden automatisch doorgevoerd in alle instanties van die component
@@ -127,8 +126,8 @@ Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
-****
-BeschrijvingZet één element om in herhalende rasters met een eenvoudige klik-en-sleep.
+**Beschrijving**
+Zet één element om in herhalende rasters met een eenvoudige klik-en-sleep.
 
 In deze zelfstudie leert u hoe u:
 * Verhoog je workflow en sleep onmiddellijk elk gewenst raster van grootte uit
@@ -142,11 +141,11 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326956?hidetitle=true)
 
-****
-BeschrijvingGebruik de stapeleigenschap om elementen eenvoudig te herschikken.
+**Beschrijving**
+Gebruik de stapeleigenschap om elementen eenvoudig te herschikken.
 
 In deze zelfstudie leert u hoe u:
-* Houd de uitlijning en tussenruimte tussen objecten op je canvas tijdens het wijzigen van je ontwerp
+* Zorg dat de uitlijning en tussenruimte tussen objecten op uw canvas behouden blijven, zelfs als uw ontwerp verandert
 * Nieuwe objecten invoegen of objecten in een stapel opnieuw ordenen en alles automatisch aanpassen
 
 **Gepresenteerd door:**
@@ -156,8 +155,8 @@ Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
-****
-DescriptionVoeg navigatie toe en schuif naar een prototype.
+**Beschrijving**
+Voeg navigatie en het schuiven aan een prototype toe.
 
 In deze zelfstudie leert u hoe u:
 * Koppelingen naar uw prototypen toevoegen met een handeling waarmee gebruikers naar verschillende punten in hetzelfde tekengebied kunnen gaan
@@ -171,8 +170,8 @@ Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326958?hidetitle=true)
 
-****
-BeschrijvingVoeg interactiviteit en een overlaymenu toe aan een prototype.
+**Beschrijving**
+Voeg interactiviteit en een overlaymenu toe aan een prototype.
 
 In deze zelfstudie leert u hoe u:
 * Creëer een niet-lineaire interactieve en geanimeerde gebruikerservaring zonder extra tekengebieden
@@ -185,8 +184,8 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326775?hidetitle=true)
 
-****
-BeschrijvingZet één element om in herhalende rasters met een eenvoudige klik-en-sleep.
+**Beschrijving**
+Zet één element om in herhalende rasters met een eenvoudige klik-en-sleep.
 
 In deze zelfstudie leert u hoe u:
 * Verhoog je workflow en sleep onmiddellijk elk gewenst raster van grootte uit
@@ -200,11 +199,11 @@ Victoria Torres, Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326759?hidetitle=true)
 
-****
-BeschrijvingGebruik de stapeleigenschap om elementen eenvoudig te herschikken.
+**Beschrijving**
+Gebruik de stapeleigenschap om elementen eenvoudig te herschikken.
 
 In deze zelfstudie leert u hoe u:
-* Houd de uitlijning en tussenruimte tussen objecten op je canvas tijdens het wijzigen van je ontwerp
+* Zorg dat de uitlijning en tussenruimte tussen objecten op uw canvas behouden blijven, zelfs als uw ontwerp verandert
 * Nieuwe objecten invoegen of objecten in een stapel opnieuw ordenen en alles automatisch aanpassen
 
 **Gepresenteerd door:**
@@ -214,7 +213,7 @@ Victoria Torres, Solutions Consultant (Digital Media)
 
 **XD bronnen**
 
-[Leer en ](https://helpx.adobe.com/support/xd.html) ondersteun je hub voor aanvullende zelfstudies,  [nieuwe functies](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/support/xd.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

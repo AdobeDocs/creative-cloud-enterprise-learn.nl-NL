@@ -1,12 +1,12 @@
 ---
-title: MAX 2020 Tutorials
+title: MAX 2020-Tutorials
 description: Deze zelfstudies helpen u nieuwe functies te leren in de 2021-versie van Creative Cloud, vanuit het perspectief van de onderneming
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '322'
 ht-degree: 6%
 
 ---

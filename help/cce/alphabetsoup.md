@@ -21,6 +21,6 @@ JPG-, PNG-, SVG-, GIF- en EPS-bestanden worden veel gebruikt in ontwerpen, sommi
 
 <br> 
 
-[**Download PDF-handleiding voor snelle referentie**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[**Download Quick Reference PDF Guide**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
 [![Afbeelding van eerste pagina van snelle naslaggids](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)

@@ -53,13 +53,13 @@ Adobe Fresco is een platformonafhankelijke app voor het maken van tekeningen en 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326946?hidetitle=true)
 
-****
-DescriptionOntdek Adobe Fresco voor het maken van tekeningen en schilderijen met behulp van penseelgebaseerde methoden waarbij vector- en rasterworkflows worden gecombineerd met clouddocumenten.
+**Beschrijving**
+Ontdek Adobe Fresco voor het maken van tekeningen en schilderijen met penseelgebaseerde methoden waarbij vector- en rasterworkflows worden gecombineerd met clouddocumenten.
 
 In deze zelfstudie leert u hoe u:
 * Gebruik unieke actieve penselen die waterverf en olieverf nabootsen samen met uw favoriete pixel- en vectorpenselen
 * Maak effecten met structuur door verschillende penselen in lagen te plaatsen en maskers te gebruiken
-* Overal maken met de nieuwe Fresco-app voor de iPhone
+* Overal creëren met de nieuwe Fresco-app voor iPhone
 * Uw werk exporteren naar verschillende indelingen voor gebruik in andere mobiele apps en desktopapps
 
 **Gepresenteerd door:**
@@ -69,11 +69,11 @@ Liz Tanonis, Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326947?hidetitle=true)
 
-****
-DescriptionVerf en teken structuren in Adobe Fresco en leer hoe u ze in Illustrator kunt gebruiken.
+**Beschrijving**
+Teken en teken structuren in Adobe Fresco en leer hoe u ze in Illustrator kunt gebruiken.
 
 In deze zelfstudie leert u hoe u:
-* Maak illustraties in de Adobe Fresco-app voor de iPhone en exporteer deze voor gebruik in andere Creative Cloud-apps
+* Maak illustraties in de Adobe Fresco-app voor iPhone en exporteer deze voor gebruik in andere Creative Cloud-apps
 * Het gereedschap Afbeeldingen overtrekken in Illustrator gebruiken om illustraties om te zetten in vectoren
 * Met de hand gemaakte structuren toepassen op vectorillustraties in Illustrator
 
@@ -84,7 +84,7 @@ Liz Tanonis, Solutions Consultant (Digital Media)
 
 **Bronnen voor Fresco&#39;s**
 
-[Leer en ](https://helpx.adobe.com/support/adobe-fresco.html) ondersteun je hub voor aanvullende zelfstudies,  [nieuwe functies](https://helpx.adobe.com/fresco/using/whats-new.html) en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/support/adobe-fresco.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/fresco/using/whats-new.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

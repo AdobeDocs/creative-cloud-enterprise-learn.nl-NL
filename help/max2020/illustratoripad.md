@@ -1,12 +1,12 @@
 ---
 title: Illustrator op iPad
-description: Adobe Illustrator op de iPad is een vectorontwerpervaring die is vernieuwd voor touch, het Apple Pencil en de iPad
+description: Adobe Illustrator op de iPad is een vectorontwerpervaring die is vernieuwd voor touch, de Apple Pencil en iPad
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Hoofdafbeelding van zelfstudie](../assets/AIoniPad.jpg)
 
-Adobe Illustrator op de iPad is een vectorontwerpervaring die is vernieuwd voor touch, het Apple Pencil en de iPad.
+Adobe Illustrator op de iPad is een vectorontwerpervaring die is vernieuwd voor touch, de Apple Pencil en iPad.
 
 ## Tutorials van product bekijken
 
@@ -28,7 +28,7 @@ Adobe Illustrator op de iPad is een vectorontwerpervaring die is vernieuwd voor 
     <div>
    <a href="illustratoripad.md#tutorial1"><strong>Introductie tot Illustrator op de iPad</strong></a>
     </div>
-    <em>Maak een onoverzichtelijk locatiepictogram en zet dit om in een patroon dat u kunt toepassen op uw [!DNL Dimension]- en Zazzle-project!</em>
+    <em>Maak een onoverzichtelijk locatiepictogram en zet dit om in een patroon dat u kunt toepassen op uw [!DNL Dimension] en Zazzle-project!</em>
     <br>
   </td>
   <td>
@@ -48,12 +48,12 @@ Adobe Illustrator op de iPad is een vectorontwerpervaring die is vernieuwd voor 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
-****
-BeschrijvingMet dit korte overzicht van Illustrator for iPad kun je snel aan de slag om een locatiepictogram in nood te maken en het om te zetten in een patroon dat je kunt toepassen op je  [!DNL Dimension] en Zazzle-project!
+**Beschrijving**
+Met dit snelle Illustrator for iPad-overzicht kun je snel aan de slag om een locatiepictogram in nood te maken en het om te zetten in een patroon dat je kunt toepassen op je [!DNL Dimension] en Zazzle-project!
 
 In deze zelfstudie leert u hoe u:
-* Illustrator, dat is ontwikkeld voor de iPad, transformeert de productiviteit, versnelt de samenwerking, vergroot de creatieve vaardigheden en vergroot de creativiteit voor iedereen
-* De aanraakinterface biedt een meer tactische en nauwkeurige ervaring met Apple Pencil
+* Illustrator, dat voor iPad is ontwikkeld, transformeert de productiviteit, versnelt de samenwerking, breidt creatieve vaardigheden uit en stimuleert de creativiteit voor iedereen
+* De aanraakinterface biedt meer tactiek- en precisie-ervaring met Apple Pencil
 * Toegang tot afbeeldingen en kleuren vanuit CC Libraries
 * Roundtrip-workflow op mobiele apparaten en desktop in Illustrator
 
@@ -64,7 +64,7 @@ Dave Weinberg, Senior Solutions Consultant (Digital Media)
 
 **Illustrator op iPad-bronnen**
 
-[Leer en ](https://helpx.adobe.com/support/illustrator.html) ondersteun je hub voor aanvullende zelfstudies,  [nieuwe functies](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/support/illustrator.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

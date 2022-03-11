@@ -1,6 +1,6 @@
 ---
 title: Maak bedrijfsrichtlijnen voor infographic met Adobe [!DNL Stock]
-description: Combineer verschillende assets van Adobe [!DNL Stock] om richtlijnen te communiceren in de vorm van visueel aantrekkelijke infographics
+description: Verschillende elementen van Adobe combineren [!DNL Stock] om richtlijnen te communiceren in de vorm van visueel aantrekkelijke infographics
 role: User
 level: Beginner, Intermediate
 thumbnail: 331811.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Maak bedrijfsrichtlijnen voor infographic met Adobe [!DNL Stock]
 
-Combineer verschillende assets van Adobe [!DNL Stock] om richtlijnen te communiceren in de vorm van visueel aantrekkelijke infographics.
+Verschillende elementen van Adobe combineren [!DNL Stock] om richtlijnen te communiceren in de vorm van visueel aantrekkelijke infographics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)

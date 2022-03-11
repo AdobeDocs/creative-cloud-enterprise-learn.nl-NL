@@ -1,5 +1,5 @@
 ---
-title: Een vet label maken met Adobe [!DNL Stock] sjablonen en Photoshop Smart Objects
+title: Een vet label met Adobe maken [!DNL Stock] sjablonen en slimme Photoshop-objecten
 description: Ontwerp en visualiseer je eigen ontwerpen met realistische verpakkingssjablonen van Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Een vet label maken met sjablonen Adobe [!DNL Stock] en Photoshop Smart Objects
+# Een vet label met Adobe maken [!DNL Stock] sjablonen en slimme Photoshop-objecten
 
 Ontwerp en visualiseer je eigen ontwerpen met realistische verpakkingssjablonen van Adobe [!DNL Stock]    .
 

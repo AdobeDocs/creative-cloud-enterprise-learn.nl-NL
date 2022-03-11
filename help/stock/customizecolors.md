@@ -1,6 +1,6 @@
 ---
-title: De kleuren in een Adobe [!DNL Stock] vectorillustratie aanpassen
-description: Voeg je project mooier toe met een fantastische illustratie. Vind de perfecte vector in Adobe [!DNL Stock] en pas de kleuren vervolgens aan in het palet van uw project met Adobe Illustrator
+title: De kleuren in een Adobe aanpassen [!DNL Stock] vectorillustratie
+description: Voeg je project mooier toe met een fantastische illustratie. Vind de perfecte vector in Adobe [!DNL Stock]en past vervolgens de kleuren met Adobe Illustrator aan die in het palet van uw project
 role: User
 level: Beginner, Intermediate
 thumbnail: 331826.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# De kleuren in een Adobe [!DNL Stock]-vectorillustratie aanpassen
+# De kleuren in een Adobe aanpassen [!DNL Stock] vectorillustratie
 
-Voeg je project mooier toe met een fantastische illustratie. Vind de perfecte vector in Adobe [!DNL Stock] en pas vervolgens de kleuren met Adobe Illustrator aan in het palet van uw project.
+Voeg je project mooier toe met een fantastische illustratie. Vind de perfecte vector in Adobe [!DNL Stock]en past vervolgens de kleuren met Adobe Illustrator aan in het palet van uw project.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331826?hidetitle=true)

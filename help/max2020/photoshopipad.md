@@ -1,6 +1,6 @@
 ---
 title: Photoshop op iPad
-description: Creëer alles wat je maar kunt bedenken, overal waar je inspiratie krijgt met Photoshop op iPad
+description: Creëer alles wat je je kunt voorstellen, overal waar je inspiratie krijgt met Photoshop op iPad
 role: User
 level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
@@ -28,7 +28,7 @@ Photoshop is &#39;s werelds beste software voor beeldbewerking en grafisch ontwe
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>Introductie tot Photoshop op de iPad</strong></a>
     </div>
-    <em>Bekijk een rondleiding door de interface en ontdek enkele functies in Photoshop die opnieuw zijn ontworpen voor gebruik op de Apple iPad</em>
+    <em>Maak een rondleiding door de interface en ontdek een aantal functies die in Photoshop zijn gevonden en die opnieuw zijn ontworpen voor gebruik op de Apple iPad</em>
     <br>
   </td>
   <td>
@@ -48,8 +48,8 @@ Photoshop is &#39;s werelds beste software voor beeldbewerking en grafisch ontwe
 
 >[!VIDEO](https://video.tv.adobe.com/v/326899?hidetitle=true)
 
-****
-BeschrijvingBekijk een rondleiding in de interface en ontdek enkele functies in Photoshop die opnieuw zijn ontworpen voor gebruik op de Apple iPad.
+**Beschrijving**
+Volg een rondleiding door de interface en ontdek een aantal functies in Photoshop die opnieuw zijn ontworpen voor gebruik op de Apple iPad.
 
 In deze zelfstudie leert u hoe u:
 * Ga naar je favoriete Photoshop-tools op de
@@ -62,9 +62,9 @@ Dan Armstrong, Solutions Consultant (Digital Media)
 
 ![Photoshop op het iPad-logo](../assets/ps_appicon_96.png)
 
-**Photoshop op de iPad-bronnen**
+**Photoshop over de iPad-resources**
 
-[Leer en ](https://helpx.adobe.com/support/photoshop.html) ondersteun uw hub voor extra zelfstudies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/support/photoshop.html) is het middelpunt voor aanvullende zelfstudies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

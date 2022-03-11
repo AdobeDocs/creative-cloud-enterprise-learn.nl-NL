@@ -75,10 +75,10 @@ Welkom bij de Creative Cloud for enterprise Learning Hub. Je zult een breed scal
   </td>
   <td>
     <a href="max2020/overview-max.md">
-      <img alt="MAX 2020 — de Enterprise-sessies" src="assets/MAX.jpg" />
+      <img alt="MAX 2020 — de Enterprise Sessions" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020 — de Enterprise-sessies</strong></a>
+   <a href="max2020/overview-max.md"><strong>MAX 2020 — de Enterprise Sessions</strong></a>
     </div>
     <em>Meer informatie over de MAX 2020 Enterprise Sessions</em>
     <br>

@@ -1,6 +1,6 @@
 ---
 title: Animaties maken voor e-mail met Adobe [!DNL Stock] en Photoshop
-description: Geef je e-mails een nieuwe impuls met Animatie via stoppen met gebruik van Adobe [!DNL Stock] en Photoshop
+description: Geef je e-mails een nieuwe impuls met Animatie via stoppen met werken met Adobe [!DNL Stock] en Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Animaties maken voor e-mail met Adobe [!DNL Stock] en Photoshop
 
-Geef je e-mails de mogelijkheid om animaties op te heffen met Adobe [!DNL Stock] en Photoshop.
+Geef je e-mails een nieuwe impuls met Animatie via stoppen met werken met Adobe [!DNL Stock] en Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

@@ -58,8 +58,8 @@ Zou het niet cool zijn als je een gezichtsmasker kon aanpassen met je eigen illu
 
 >[!VIDEO](https://video.tv.adobe.com/v/327096?hidetitle=true)
 
-****
-BeschrijvingLeer hoe u de insteekmodule Ontwerpen voor afdrukken voor Photoshop installeert.
+**Beschrijving**
+Leer hoe u de plug-in Design to Print voor Photoshop installeert.
 
 In deze zelfstudie leert u hoe u:
 * Visualiseer je ontwerpen op producten zoals kleding, accessoires, briefpapier en ingebouwde muur in real-time!
@@ -72,8 +72,8 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/327097?hidetitle=true)
 
-****
-BeschrijvingUw eigen Zazel-gezichtsmasker aanpassen
+**Beschrijving**
+Uw eigen Zazzle-gezichtsmasker aanpassen
 
 In deze zelfstudie leert u hoe u:
 * Visualiseer je ontwerpen op producten zoals kleding, accessoires, briefpapier en ingebouwde muur in real-time!
@@ -90,15 +90,15 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/327098?hidetitle=true)
 
-****
-BeschrijvingMaak een 3D-visualisatie van uw gezichtsmasker voor de gebeurtenisgalerie
+**Beschrijving**
+Een 3D-visualisatie maken van uw gezichtsmasker voor de gebeurtenisgalerie
 
 In deze zelfstudie leert u hoe u:
 * Creëer eenvoudig fotorealistische 3D-visualisaties
 * Voeg materialen en besturingsverlichting toe voor een professioneel uitzicht
 * Importeer assets om je merk of andere ontwerpen toe te passen
 
-**Klik op Afbeelding om  [!DNL Dimension] bestand met 3D-model van witmasker te downloaden**
+**Klik op Afbeelding om te downloaden [!DNL Dimension] Bestand met 3D-model van witmasker**
 
 [![Vergelijkingsafbeelding](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 

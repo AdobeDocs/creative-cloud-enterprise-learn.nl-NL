@@ -1,6 +1,6 @@
 ---
-title: Pas een Adobe [!DNL Stock] presentatiesjabloon aan om er professioneel uit te zien, maar toch opvallend
-description: Creëer binnen enkele minuten een prachtige, gestileerde presentatie met afbeeldingen en sjablonen van Adobe [!DNL Stock] en enkele gebruiksvriendelijke speciale effecten
+title: Een Adobe aanpassen [!DNL Stock] presentatiesjabloon om er professioneel uit te zien, maar toch opvallend
+description: Creëer binnen enkele minuten een prachtige gestileerde presentatie met afbeeldingen en sjablonen van Adobe [!DNL Stock] en enkele gebruiksvriendelijke speciale effecten
 role: User
 level: Beginner, Intermediate
 thumbnail: 331837.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Pas een Adobe [!DNL Stock] presentatiesjabloon aan om er professioneel uit te zien, maar toch opvallend
+# Een Adobe aanpassen [!DNL Stock] presentatiesjabloon om er professioneel uit te zien, maar toch opvallend
 
-Creëer binnen enkele minuten een prachtige, gestileerde presentatie met afbeeldingen en sjablonen van Adobe [!DNL Stock] en enkele eenvoudig uit te voeren speciale effecten.
+Creëer binnen enkele minuten een prachtige gestileerde presentatie met afbeeldingen en sjablonen van Adobe [!DNL Stock] en enkele gebruiksvriendelijke speciale effecten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331837?hidetitle=true)

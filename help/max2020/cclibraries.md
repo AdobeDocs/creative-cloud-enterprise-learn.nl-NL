@@ -53,8 +53,8 @@ Houd je assets en je projecten merkgericht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
-****
-BeschrijvingMet Adobe Creative Cloud Libraries kun je logo’s, kleuren en meer beheren, ordenen en openen in je favoriete Creative Cloud-apps.
+**Beschrijving**
+Met Adobe Creative Cloud Libraries kun je logo’s, kleuren en meer beheren, ordenen en openen in je favoriete Creative Cloud-apps.
 
 In deze zelfstudie leert u hoe u:
 * Houd je assets en je projecten merkgericht
@@ -67,8 +67,8 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
-****
-BeschrijvingWerk efficiënter, zorg voor creatieve consistentie en houd eenvoudig contact met je team.
+**Beschrijving**
+Werk efficiënter, zorg voor creatieve consistentie en blijf eenvoudig gesynchroniseerd met je team.
 
 In deze zelfstudie leert u hoe u:
 * Houd je assets en je projecten merkgericht
@@ -81,7 +81,7 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 **Bronnen voor CC Libraries**
 
-[Leer en ](https://helpx.adobe.com/creative-cloud/help/libraries.html) ondersteun je hub voor aanvullende zelfstudies, nieuwe functies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/creative-cloud/help/libraries.html) Dit is het middelpunt voor aanvullende zelfstudies, nieuwe functies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

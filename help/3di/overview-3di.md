@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en 
     <div>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Maak realistische 3D-modellen met Adobe [!DNL Stock] en [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Eenvoudig een 2D-ontwerp combineren met een 3D-model met Adobe [!DNL Stock] en afbeeldingen in Adobe [!DNL Dimension] plaatsen</em>
+    <em>Eenvoudig een 2D-ontwerp combineren met een 3D-model met behulp van Adobe [!DNL Stock] en geplaatste afbeeldingen in Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -46,9 +46,9 @@ Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en 
       <img alt="Visualiseer uw product in een realistische omgeving" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
    </a>
     <div>
-   <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Uw product visualiseren in een realistische omgeving (PDF)</strong></a>
+   <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiseer uw product in een realistische omgeving (PDF)</strong></a>
     </div>
-    <em>Als je wilt zien hoe je producten eruitzien in de echte wereld, is Adobe [!DNL Dimension] je ultieme app</em>
+    <em>Als je wilt zien hoe je producten eruitzien in de echte wereld, Adobe [!DNL Dimension] is uw startende app</em>
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en 
     <div>
    <a href="3ddimensionstock.md"><strong>Pas een 3D-model aan en merk het op met [!DNL Dimension] en Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Pas een 3D-model aan en merk het op in [!DNL Dimension] met materialen, omgevingseigenschappen, belichting en fotografie om fotorealistische afbeeldingen te maken voor elk ontwerpproject</em>
+    <em>Pas een 3D-model aan en merk het op in [!DNL Dimension] met materialen, milieu-eigenschappen, belichting en fotografie, om fotorealistische afbeeldingen te maken voor elk ontwerpproject</em>
     <br>
   </td>
 </tr>

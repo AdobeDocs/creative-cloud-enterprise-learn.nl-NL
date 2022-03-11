@@ -43,13 +43,12 @@ De toonaangevende app voor het maken van prachtige documenten voor drukwerk en d
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="PDF-opmerkingen importeren uit een document 
-Cloudrevisie" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="PDF-opmerkingen importeren uit een Document Cloud-revisie" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>PDF-opmerkingen importeren uit een revisie van een Document Cloud</strong></a>
+    <a href="indesign.md#tutorial3"><strong>PDF-opmerkingen importeren uit een Document Cloud-revisie</strong></a>
     </div>
-    <em>Opmerkingen uit een PDF rechtstreeks importeren in InDesign en snel de gewenste wijzigingen toepassen</em>
+    <em>Opmerkingen van een PDF rechtstreeks importeren in InDesign en snel de gewenste wijzigingen toepassen</em>
     <br>
   </td>
 </tr>
@@ -81,8 +80,8 @@ Cloudrevisie" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
 
 >[!VIDEO](https://video.tv.adobe.com/v/326818?hidetitle=true)
 
-****
-BeschrijvingGenereer QR-code die is gekoppeld aan een website.
+**Beschrijving**
+Genereer QR-code die een koppeling naar een website bevat.
 
 In deze zelfstudie leert u hoe:
 * Handsfree toegang tot webinhoud bieden via mobiele apparaten
@@ -96,16 +95,16 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326824?hidetitle=true)
 
-****
-DescriptionInDesign Share for Review biedt een nog naadloze ervaring voor creatieve revisies voor ontwerpers en hun teamleden.
+**Beschrijving**
+InDesign Share for Review biedt een nog naadloze ervaring voor creatieve revisies voor ontwerpers en hun teamleden.
 
 In deze zelfstudie leert u hoe u:
-* Een revisie rechtstreeks vanuit InDesign starten zonder een PDF te maken
+* Een revisie rechtstreeks vanuit de InDesign starten zonder een PDF te maken
 * Reviseren en opmerkingen plaatsen vanuit een webbrowser
 * Feedback van meerdere stakeholders op één locatie verzamelen
 * Beheer feedback in de app waar wijzigingen direct kunnen worden aangebracht.
 
-**Vergelijking van Adobe-revisie- en opmerkingenopties**
+**Vergelijking van Adobe-revisie- en opmerkingenopties-PDF**
 
 [![Vergelijkingsafbeelding](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
@@ -116,14 +115,14 @@ Emily Palmer, Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
-****
-BeschrijvingImporteer opmerkingen uit een PDF rechtstreeks in InDesign en pas snel de gewenste wijzigingen toe.
+**Beschrijving**
+Importeer opmerkingen van een PDF rechtstreeks in InDesign en pas snel de gewenste wijzigingen toe.
 
 In deze zelfstudie leert u hoe u:
-* Ondersteunt bestaande PDF-workflows voor opmerkingen
-* Werkt voor PDF&#39;s die uit meerdere bronnen zijn gecombineerd
+* Ondersteunt bestaande workflows voor PDF-opmerkingen
+* Werkt voor PDF gecombineerd van meerdere bronnen
 
-**Vergelijking van Adobe-revisie- en opmerkingenopties**
+**Vergelijking van Adobe-revisie- en opmerkingenopties-PDF**
 
 [![Vergelijkingsafbeelding](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
@@ -134,8 +133,8 @@ Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 
-****
-BeschrijvingVideo toevoegen aan InDesign. Uitvoeren naar PDF en online publiceren.
+**Beschrijving**
+Video toevoegen aan InDesign. Uitvoeren naar PDF en online publiceren.
 
 In deze zelfstudie leert u hoe u:
 * Video toevoegen aan InDesign
@@ -148,7 +147,7 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 **InDesign-bronnen**
 
-[Leer en ](https://helpx.adobe.com/support/indesign.html) ondersteun je hub voor aanvullende zelfstudies,  [nieuwe functies](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/support/indesign.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

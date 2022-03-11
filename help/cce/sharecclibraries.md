@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Branding-assets delen met Creative Cloud Libraries voor teams
 
-In deze videozelfstudie leert u hoe u brandingmiddelen voor uw groep of team kunt maken, gebruiken en delen met behulp van Creative Cloud Libraries voor teams. Elementen in Creative Cloud Libraries voor teams worden op een centrale locatie opgeslagen en zijn niet gekoppeld aan het individuele gebruikersaccount. U kunt teambibliotheken identificeren met het pictogram ![Afbeelding maken](assets/Smock_Building_18_N.png).
+In deze videozelfstudie leert u hoe u brandingmiddelen voor uw groep of team kunt maken, gebruiken en delen met behulp van Creative Cloud Libraries voor teams. Elementen in Creative Cloud Libraries voor teams worden op een centrale locatie opgeslagen en zijn niet gekoppeld aan het individuele gebruikersaccount. U kunt teambibliotheken identificeren door ![afbeelding samenstellen](assets/Smock_Building_18_N.png) pictogram.
 
 >[!TIP]
 >

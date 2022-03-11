@@ -48,13 +48,13 @@ De Adobe Adobe® InDesign® Server-software van de levert een robuuste en schaal
 
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
-****
-DescriptionDatagestuurd ontwerp kan via programmacode worden bereikt met InDesign Server.
+**Beschrijving**
+Datagestuurde ontwerpen kunnen via programmacode worden gemaakt met InDesign Server.
 
 In deze zelfstudie leert u hoe u:
 * InDesign-sjablonen maken met vooraf opgemaakte tekst- of objectstijlen
 * Stroom in externe datagestuurde content voor een snellere personalisatie van content
-* Steun-op-PDF&#39;s genereren of vastkoppelen aan andere AEM uitvoerindelingen van uw layout
+* Steunfunctie-PDF genereren of vastzetten in andere AEM uitvoerindelingen van uw lay-out
 
 **Gepresenteerd door:**
 Eric Rowse, Senior Solutions Consultant (Digital Media)
@@ -95,7 +95,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 **InDesign Server-bronnen**
 
-[Leer en ](https://www.adobe.com/products/indesignserver.html) ondersteun je hub voor aanvullende zelfstudies, nieuwe functies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://www.adobe.com/products/indesignserver.html) Dit is het middelpunt voor aanvullende zelfstudies, nieuwe functies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

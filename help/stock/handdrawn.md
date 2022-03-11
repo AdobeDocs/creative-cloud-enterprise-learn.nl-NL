@@ -1,6 +1,6 @@
 ---
-title: Voeg een met de hand getekend estheticum toe aan Adobe [!DNL Stock] afbeeldingen
-description: Verbeter je creatieve marketing met unieke technieken die diepte en dimensie toevoegen aan je afbeeldingen met Photoshop for iPad
+title: Voeg een handgetekende esthetiek toe aan Adobe [!DNL Stock] afbeeldingen
+description: Breid je creatieve marketing uit met unieke technieken die diepte en dimensie toevoegen aan je afbeeldingen met Photoshop for iPad
 role: User
 level: Beginner, Intermediate
 thumbnail: 331819.jpg
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Voeg een met de hand getekend esthetisch toe aan Adobe [!DNL Stock]-afbeeldingen
+# Voeg een handgetekende esthetiek toe aan Adobe [!DNL Stock] afbeeldingen
 
 Benut je creatieve marketing met unieke technieken die diepte en dimensie toevoegen aan je afbeeldingen met Photoshop for iPad.
 

@@ -1,6 +1,6 @@
 ---
-title: Pas een animatie op het laadscherm aan met Adobe [!DNL Stock] en XD
-description: Pas vectorillustraties aan vanuit Adobe [!DNL Stock] om een chilling loading screen-animatie voor een mobiele app te maken
+title: Een animatie op het laadscherm aanpassen met Adobe [!DNL Stock] en XD
+description: Vectorillustraties van Adobe aanpassen [!DNL Stock] om een chilling laadscherm voor een mobiele app te maken
 role: User
 level: Beginner, Intermediate
 thumbnail: 331814.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Pas een animatie op het laadscherm aan met Adobe [!DNL Stock] en XD
+# Een animatie op het laadscherm aanpassen met Adobe [!DNL Stock] en XD
 
-Pas vectorillustraties aan vanuit Adobe [!DNL Stock] om een chilling loading screen animatie voor een mobiele app te maken.
+Vectorillustraties van Adobe aanpassen [!DNL Stock] om een chilling loading screen animatie voor een mobiele app te maken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

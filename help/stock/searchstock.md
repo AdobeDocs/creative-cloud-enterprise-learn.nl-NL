@@ -1,6 +1,6 @@
 ---
-title: Search Adobe [!DNL Stock] licentiegeschiedenis
-description: Leer hoe u snel de Adobe van uw organisatie kunt doorzoeken [!DNL Stock] licentiegeschiedenis in Creative Cloud for enterprise
+title: Adobe zoeken [!DNL Stock] licentiegeschiedenis
+description: Leer hoe je snel de Adobe van je organisatie kunt doorzoeken [!DNL Stock] licentiegeschiedenis in Creative Cloud voor ondernemingen
 role: User
 level: Beginner
 thumbnail: kt-8212.jpg
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Licentiegeschiedenis voor Adobe doorzoeken[!DNL Stock]
+# Adobe zoeken [!DNL Stock] licentiegeschiedenis
 
-In deze videozelfstudie leert u hoe u snel de Adobe [!DNL Stock]-licentiegeschiedenis van uw organisatie kunt doorzoeken in Creative Cloud voor ondernemingen.
+Leer in deze videozelfstudie hoe u snel de Adobe van uw organisatie kunt doorzoeken [!DNL Stock] licentiegeschiedenis in Creative Cloud voor ondernemingen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)

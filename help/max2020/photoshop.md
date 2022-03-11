@@ -53,8 +53,8 @@ Photoshop is &#39;s werelds beste software voor beeldbewerking en grafisch ontwe
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
-****
-BeschrijvingGebruik de krachtige tools voor selectie en kleurbewerking in Adobe Photoshop om een afbeelding drastisch te wijzigen zodat deze aansluit bij de merkbehoeften van uw bedrijf.
+**Beschrijving**
+Gebruik de krachtige tools voor selectie en kleurbewerking in Adobe Photoshop om een afbeelding drastisch te wijzigen, zodat deze aansluit bij de merkbehoeften van uw bedrijf.
 
 In deze zelfstudie leert u hoe u:
 * Met het gereedschap Object selecteren kunt u sneller en eenvoudiger items selecteren
@@ -69,8 +69,8 @@ A.J Wood, Senior Solutions Consultant (Digital Media)
 
 >[!VIDEO](https://video.tv.adobe.com/v/326953?hidetitle=true)
 
-****
-Beschrijving: selecteer automatisch de lucht in een afbeelding en vervang deze door een hemel van uw keuze, waarbij de kleuren van de afbeelding automatisch worden aangepast aan uw selectie.
+**Beschrijving**
+Selecteer automatisch de lucht in een afbeelding en vervang deze door een hemel van uw keuze, waarbij de kleuren van de afbeelding automatisch worden aangepast aan uw selectie.
 
 In deze zelfstudie leert u hoe u:
 * Sky Replacement biedt een oplossing met één klik om uw luchten in uw afbeeldingen direct om te wisselen
@@ -84,7 +84,7 @@ A.J Wood, Senior Solutions Consultant (Digital Media)
 
 **Photoshop-bronnen**
 
-[Leer en ](https://helpx.adobe.com/support/photoshop.html) ondersteun je hub voor aanvullende zelfstudies,  [nieuwe functies](https://helpx.adobe.com/photoshop/using/whats-new.html) en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/support/photoshop.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/photoshop/using/whats-new.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

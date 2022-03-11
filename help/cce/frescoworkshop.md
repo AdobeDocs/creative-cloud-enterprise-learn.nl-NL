@@ -21,6 +21,6 @@ Ontdek een hele nieuwe wereld van digitaal tekenen en schilderen met Adobe Fresc
 
 <br> 
 
-[**Download PDF-handleiding voor snelle referentie**](../quick-reference/Frescoworkshop.pdf)
+[**Download Quick Reference PDF Guide**](../quick-reference/Frescoworkshop.pdf)
 
 [![Afbeelding van eerste pagina van snelle naslaggids](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)

@@ -17,8 +17,8 @@ ht-degree: 0%
 
 Creative Cloud voor ondernemingen ondersteunt aangepaste implementaties en flexibele licentievaardigheden, en het werkt met andere Adobe Enterprise-producten.
 
-* [Werken met verlopen van serienummers van Creative Cloud voor ondernemingen en Acrobat ](cceserial.md)
-Meer informatie over het verlopen van serienummers voor Creative Cloud voor ondernemingen en Acrobat.
+* [Werken met verlopen van Creative Cloud voor ondernemingen en Acrobat-serienummers](cceserial.md)
+Lees meer over de verloopervaring voor serienummers voor Creative Cloud voor ondernemingen en Acrobat.
 
-* [Serienummers verlopen? Waarom is dit tijd voor licenties voor benoemde gebruikers](nameduserlicensing.md)
+* [Serienummers verlopen? Waarom is het tijd voor licenties op naam?](nameduserlicensing.md)
 Ontdek hoe IT-beheerders met licenties voor Adobe-producten via NUL (Named User Licensing) eenvoudig Adobe-tools kunnen implementeren en beheren met behulp van de Admin Console en eindgebruikers toegang kunnen geven tot creatieve en productiviteitsapps van wereldklasse en Adobe Cloud-services, zelfs als de volledige medewerkers niet beschikbaar zijn.

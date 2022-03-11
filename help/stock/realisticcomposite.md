@@ -1,6 +1,6 @@
 ---
 title: Maak realistische fotocomposities met Adobe [!DNL Stock] afbeeldingen
-description: Twee fantastische Adobe [!DNL Stock] foto's samenbrengen om mensen op je posts op social media te plaatsen
+description: Twee grote Adobe samenvoegen [!DNL Stock] foto's om mensen in je posts op social media te plaatsen
 role: User
 level: Beginner, Intermediate
 thumbnail: 331836.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# realistische fotosamenstellingen maken met Adobe- [!DNL Stock]-afbeeldingen
+# Maak realistische fotocomposities met Adobe [!DNL Stock] afbeeldingen
 
-Combineer twee fantastische Adobe [!DNL Stock] foto&#39;s om mensen in je posts op social media te plaatsen.
+Twee grote Adobe samenvoegen [!DNL Stock] foto&#39;s om mensen in je posts op social media te plaatsen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

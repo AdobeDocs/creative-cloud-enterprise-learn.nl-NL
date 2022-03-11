@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
 source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,10 @@ Adobe XD is een tool voor het ontwerpen en prototypen van gebruikerservaringen v
   </td>
   <td>
    <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf">
-      <img alt="Maak een zoombare eCommerce-foto met XD en Adobe [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
+      <img alt="Een zoombare eCommerce-foto met XD en Adobe maken [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf"><strong>Een zoombare eCommerce-foto maken met XD en Adobe [!DNL Stock] (PDF)</strong></a>
+   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf"><strong>Een zoombare eCommerce-foto met XD en Adobe maken [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>Door fotografie met hoge resolutie te combineren met de functie Auto-Animate van Adobe XD, kun je boeiendere ervaringen ontwerpen voor je website</em>
     <br>
@@ -90,7 +90,7 @@ Adobe XD is een tool voor het ontwerpen en prototypen van gebruikerservaringen v
       <img alt="Geef je XD project een vliegende start vanuit een Photoshop-bestand (PSD)" src="assets/JumpstartyourXDProjectfromaPhotoshopFile.jpg" />
    </a>
     <div>
-   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf"><strong>Geef je XD project een vliegende start vanuit een Photoshop-bestand (PSD) (PDF)</strong></a>
+   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf"><strong>Geef uw XD een vliegende start vanuit een Photoshop-bestand (PSD) (PDF)</strong></a>
     </div>
     <em>Adobe XD biedt enkele fantastische interactieve ontwerptools die samenwerken met je bestaande workflow, waardoor je je interactieve ontwerpvisie naar een hoger plan kunt tillen</em>
     <br>
@@ -102,7 +102,7 @@ Adobe XD is een tool voor het ontwerpen en prototypen van gebruikerservaringen v
     <div>
    <a href="assets/MobileWebExperienceswithXD.pdf"><strong>Een mobiele webervaring ontwerpen met XD (PDF)</strong></a>
     </div>
-    <em>Bekijk het ontwerpproces voor de Russell Brown MAX Madness mobiele webgalerie achter de schermen met Adobe XD</em>
+    <em>Bekijk het ontwerpproces voor de Russell Brown MAX Madness mobiele webgalerie met Adobe XD achter de schermen</em>
     <br>
   </td>
   <td>

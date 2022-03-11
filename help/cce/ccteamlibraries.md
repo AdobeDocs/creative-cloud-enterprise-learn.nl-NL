@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Creative Cloud-bibliotheken maken voor teams
 
-In deze videozelfstudie leert u hoe u middelen kunt delen binnen een groep of team met behulp van Creative Cloud Libraries voor teams. Deze bibliotheektypen zijn niet gekoppeld aan een individuele gebruikersaccount, maar de bibliotheek behoort tot het team. U kunt teambibliotheken identificeren met het pictogram ![Afbeelding maken](assets/Smock_Building_18_N.png).
+In deze videozelfstudie leert u hoe u middelen kunt delen binnen een groep of team met behulp van Creative Cloud Libraries voor teams. Deze bibliotheektypen zijn niet gekoppeld aan een individuele gebruikersaccount, maar de bibliotheek behoort tot het team. U kunt teambibliotheken identificeren door ![afbeelding samenstellen](assets/Smock_Building_18_N.png) pictogram.
 
 >[!TIP]
 >
