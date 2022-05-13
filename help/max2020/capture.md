@@ -4,10 +4,10 @@ description: Adobe [!DNL Capture] zet mobiele telefoons en tablets om in een ont
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 591ecf1cf915c81fb53d9d9185e7e234d5a339b9
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe [!DNL Capture] van mobiele telefoons en tablets een verzamelingsprogramma 
     <div>
    <a href="capture.md#tutorial1"><strong>Leg inspiratie uit de wereld om je heen vast</strong></a>
     </div>
-    <em>Gebruik de krachtige tools voor selectie en kleurbewerking bij het vastleggen van Adobe om een afbeelding drastisch te wijzigen, zodat deze aansluit bij de merkbehoeften van uw bedrijf</em>
+    <em>Gebruik de krachtige tools voor selectie en kleurbewerking in Adobe Capture om een afbeelding drastisch te wijzigen, zodat deze aansluit bij de merkbehoeften van uw bedrijf</em>
     <br>
   </td>
   <td>
