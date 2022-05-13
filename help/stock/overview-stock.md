@@ -4,16 +4,16 @@ description: Tutorials om u te helpen snel aan de slag te gaan met Adobe [!DNL S
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] zelfstudies
 
-!![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
+![Creative Cloud Hero-afbeelding](../assets/Stock.jpg)
 
 Creatieve medewerkers staan onder druk om snel nieuwe, visueel aantrekkelijke content te leveren die de aandacht trekt en vasthoudt. Adobe [!DNL Stock] voor ondernemingen biedt creatieve teams toegang tot meer dan 200 miljoen afbeeldingen, video&#39;s, sjablonen, illustraties, audiobestanden en 3D-assets - allemaal vanuit de creatieve Adobe-apps die ze dagelijks gebruiken.
 

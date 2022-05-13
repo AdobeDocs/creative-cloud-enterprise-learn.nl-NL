@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D-belichting, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
 workflow-type: tm+mt
-source-wordcount: '2738'
+source-wordcount: '2739'
 ht-degree: 0%
 
 ---
@@ -203,4 +203,4 @@ Dit betekent dat er veel complexe interactie met raytracering zal zijn, naarmate
 
 Ik hoop dat dit overzicht het belang illustreert van het beheersen van 3D-lichten in verschillende situaties. Je moet er klaar voor zijn om boeiendere resultaten te produceren.
 
-Fijne belichting! Download de [nieuwste release](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) van Dimension vandaag.
+Fijne belichting! Download de [nieuwste release](https://creativecloud.adobe.com/apps/download/Dimension) van Dimension vandaag.

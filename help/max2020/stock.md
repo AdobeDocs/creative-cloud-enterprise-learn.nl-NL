@@ -4,16 +4,16 @@ description: Adobe [!DNL Stock] voor ondernemingen geeft creatieve teams toegang
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: fe883361639bfe2edc184cdd10dda312f747c7fb
+source-git-commit: c81e5982cfb4b168d66dc2a80c27a48895b64a52
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-!![Tutorial Hero Image](../assets/[!DNL Stock].jpg)
+![Hoofdafbeelding van zelfstudie](../assets/Stock.jpg)
 
 Creatieve medewerkers staan onder druk om snel nieuwe, visueel aantrekkelijke content te leveren die de aandacht trekt en vasthoudt. Adobe [!DNL Stock] voor ondernemingen geeft creatieve teams toegang tot meer dan 200 miljoen afbeeldingen, video&#39;s, sjablonen, illustraties, audiobestanden en 3D-assets - allemaal vanuit de Adobe creatieve apps die ze dagelijks gebruiken.
 
