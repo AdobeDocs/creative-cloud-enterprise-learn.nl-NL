@@ -4,9 +4,9 @@ description: Tutorials om u te helpen snel aan de slag te gaan met Adobe DVA-pro
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f1626b958769af3c73eba85a011c1ef609d70981
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -129,10 +129,10 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
   </td>
   <td>
    <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf">
-      <img alt="Combineer op een vloeiende manier muziek en dialoog of gesproken tekst met automatische ducking in Adobe Premiere [!DNL Rush] Adobe" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
+      <img alt="Combineer op een vloeiende manier muziek en dialoog of gesproken tekst met automatische ducking in Adobe Premiere [!DNL Rush]" src="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.jpg" />
    </a>
     <div>
-   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Combineer op een vloeiende manier muziek en dialoog of gesproken tekst met automatische ducking in Adobe Premiere [!DNL Rush] Adobe (PDF)</strong></a>
+   <a href="assets/SmoothlyCombineMusicandDialogueorNarrationwithAutoduckinginAdobePremiereRush.pdf"><strong>Combineer op een vloeiende manier muziek en dialoog of gesproken tekst met automatische ducking in Adobe Premiere [!DNL Rush] (PDF)</strong></a>
     </div>
     <em>Adobe Premiere [!DNL Rush] biedt geavanceerde videobewerkingsfuncties in een gebruiksvriendelijke app, zodat iedereen binnen enkele minuten een professionele video kan maken</em>
     <br>
