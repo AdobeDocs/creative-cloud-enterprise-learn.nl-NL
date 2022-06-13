@@ -4,9 +4,9 @@ description: Licentieverlening voor Adobe-producten via NUL (Named User Licensin
 role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ In het klimaat van vandaag heeft IT-management zich snel moeten richten op een v
 
 Door licenties voor Adobe-producten te verlenen via NUL (Named User Licensing) kunnen IT-beheerders eenvoudig Adobe-tools implementeren en beheren met behulp van de Admin Console en krijgen eindgebruikers toegang tot creatieve en productiviteitsapps van wereldklasse en Adobe Cloud-services, zelfs als de volledige medewerkers niet beschikbaar zijn.
 
-Als uw organisatie niet NUL gebruikt en nog steeds Serialized implementatie voor Adobe-producten gebruikt, kunnen uw serienummers binnenkort verlopen. Om verstoring van de service te voorkomen, is het belangrijk dat u de migratie naar NUL plant voordat u [serienummers verlopen](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration).
+Als uw organisatie niet NUL gebruikt en nog steeds Serialized implementatie voor Adobe-producten gebruikt, kunnen uw serienummers binnenkort verlopen. Om verstoring van de service te voorkomen, is het belangrijk dat u uw migratie naar NUL plant voordat uw serienummers verlopen.
 
 ## Informatie over licenties op naam
 
