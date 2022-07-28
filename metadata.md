@@ -1,7 +1,7 @@
 ---
 cloud: Creative Cloud
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/creative-cloud-enterprise-learn.nl-NL
+git-repo: https://github.com/AdobeDocs/creative-cloud-enterprise-learn.nl-NL
 solution: Creative Cloud
 index: true
 source-git-commit: 1f3b82b031beb84a1adba932fccf678c257164c2
