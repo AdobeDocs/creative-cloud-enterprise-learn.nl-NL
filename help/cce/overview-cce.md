@@ -4,9 +4,9 @@ description: Tutorials om u te helpen snel aan de slag te gaan met de Creative C
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
+source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1419'
 ht-degree: 0%
 
 ---
@@ -230,8 +230,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Elimineer het medium en bespaar veel tijd door Handelingen in Photoshop te gebruiken</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Werk slimmer, niet harder, met Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
@@ -260,11 +258,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Groen scherm is niet alleen voor video (PDF)</strong></a>
     </div>
     <em>U kunt het groene scherm in een fotostudio gebruiken en After Effects gebruiken om het fotogebruik in Photoshop voor te bereiden</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>  
@@ -396,6 +389,16 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 
 <table  style="table-layout:fixed">
 <tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="Angst voor gamingtype" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>Angst voor type games (PDF)</strong></a>
+    </div>
+    <em>Leer hoe u meer dan 20.000 professioneel ontworpen lettertypen in Creative Cloud benadert en gebruikt</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="Creëer prachtige typografie met Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
@@ -426,12 +429,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Met de indeling OpenType kan een lettertype maximaal 65.536 glyphs bevatten</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### InDesign
