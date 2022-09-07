@@ -4,10 +4,10 @@ description: Tutorials om u te helpen snel aan de slag te gaan met de Creative C
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
 workflow-type: tm+mt
-source-wordcount: '1390'
-ht-degree: 1%
+source-wordcount: '1401'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,21 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat for Content Creators (PDF)</strong></a>
     </div>
     <em>Meer informatie over de Acrobat-tools waarmee je creatieve workflows kunt stroomlijnen</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -66,6 +81,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -81,7 +101,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Een presentatie toevoegen aan uw Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Express biedt een aantal fantastische en gebruiksvriendelijke lay-outcomponenten die je webverhalen tot leven brengen</em>
+    <em>Adobe Spark biedt een aantal fantastische en gebruiksvriendelijke lay-outcomponenten die je webverhalen tot leven brengen</em>
     <br>
   </td>
   <td>
@@ -91,7 +111,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Uw merk maken in Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Met Adobe Express kun je eenvoudig je merk definiëren</em>
+    <em>Met Adobe Spark kun je eenvoudig je merk definiëren</em>
     <br>
   </td>
   <td>
@@ -101,7 +121,12 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Maak kennis met je nieuwe productieartiest: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Express leert van u terwijl u lay-outs maakt, kleuren definieert, illustraties importeert en elementen rangschikt binnen uw composities</em>
+    <em>Adobe Spark leert van u terwijl u lay-outs maakt, kleuren definieert, illustraties importeert en elementen rangschikt in uw composities</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -111,7 +136,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 
 <table style="table-layout:fixed">
 <tr>
-   <td>
+  <td>
     <a href="alphabetsoup.md">
       <img alt="Het alfabetsoep van grafische indelingen decoderen" src="assets/Alphabetsoup.png" />
     </a>
@@ -141,9 +166,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>In deze stapsgewijze videozelfstudie voor een workshop maakt u een levende foto door video van Adobe te combineren [!DNL Stock] met slimme maskertechnieken in Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.pdf">
       <img alt="Opmerkelijke belichting toevoegen aan een foto met Photoshop en After Effects" src="assets/AddRemarkableLightingtoaPhotowithPhotoshopandAfterEffects.jpg" />
     </a>
@@ -152,8 +175,10 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     </div>
     <em>Leer het effect Lichtexplosie in Adobe After Effects gebruiken om een foto drastisch te verbeteren</em>
     <br>
-   </td>
-   <td>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
       <img alt="Creëer in een mum van tijd Cinemagraps met Photoshop en Adobe [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
@@ -163,7 +188,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Zoeken naar video's die naadloos worden herhaald op Adobe [!DNL Stock] voor het snel samenstellen van opvallende bioscopen in Photoshop</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf">
       <img alt="Een levende foto maken met Photoshop — Deel 1" src="assets/CreatingaLivingPhotographwithPhotoshopPart1.jpg" />
     </a>
@@ -173,9 +198,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Met Adobe Photoshop kun je snel je korte video’s omzetten in levende foto’s die je doelgroep op elk social-mediaplatform fascineren</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart2.pdf">
       <img alt="Een levende foto maken met Photoshop — Deel 2" src="assets/CreatingaLivingPhotographwithPhotoshopPart2.jpg" />
     </a>
@@ -195,6 +218,8 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>In dit praktijkgerichte, stapsgewijze laboratorium, combineer Photoshop met After Effects om verbluffende beelden en gevolgen tot stand te brengen geschikt voor gebruik in om het even welk middel</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
       <img alt="Snel uw Instagram-foto's voorzien van Adobe Photoshop-handelingen" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
@@ -207,7 +232,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   </td>
 </tr>
 <tr>
-    <td>
+  <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Werk slimmer, niet harder, met Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
     </a>
@@ -217,7 +242,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Wijzigingen in Photoshop kunnen tijdrovend zijn, maar hoeven niet</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.pdf">
       <img alt="Iedereen kan creatief zijn met Adobe Creative Cloud" src="assets/AnyoneCanBeCreativewithAdobeCreativeCloud.jpg" />
     </a>
@@ -235,6 +260,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Groen scherm is niet alleen voor video (PDF)</strong></a>
     </div>
     <em>U kunt het groene scherm in een fotostudio gebruiken en After Effects gebruiken om het fotogebruik in Photoshop voor te bereiden</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>  
@@ -264,6 +294,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -281,7 +316,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Uw beste werk delen met Adobe Portfolio is een effectieve manier om uw succes te delen en nieuw creatief talent aan te trekken</em>
     <br>
   </td>
-   <td>
+  <td>
    <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
       <img alt="Lightroom en Bēhance aansluiten op uw Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
    </a>
@@ -299,6 +334,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Uw beste werk tonen met Adobe Portfolio (PDF)</strong></a>
     </div>
     <em>Met Adobe Portfolio kun je je werk uploaden, ordenen en delen met potentiële medewerkers en klanten over de hele wereld</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
  </tr>
@@ -339,8 +379,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Creative Cloud Libraries biedt een ingebouwd merksysteem waarmee ontwerpers merkassets kunnen delen met verschillende creatieve teams</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
       <img alt="Tekststijlen delen vanuit Illustrator met Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
@@ -349,16 +387,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Tekststijlen delen vanuit Illustrator met Creative Cloud-bibliotheken (PDF)</strong></a>
     </div>
     <em>Werk slimmer, niet harder in Illustrator</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -398,6 +426,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Met de indeling OpenType kan een lettertype maximaal 65.536 glyphs bevatten</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -435,9 +468,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Wist u dat u de kracht van InDesign kunt benutten voor het uitvoeren van HTML- en webafbeeldingen?</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
       <img alt="Interactieve PDF: Bladwijzers en gekoppelde inhoudsopgave's van InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
@@ -447,7 +478,9 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Leer hoe u met de functie Inhoudsopgave in InDesign bladwijzers en hyperlinks genereert waarmee uw lezers snel informatie in uw PDF-bestanden kunnen vinden</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
       <img alt="Interactieve PDF: Grafische hyperlinks en geneste stramienpagina's in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
@@ -455,6 +488,16 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interactieve PDF: Grafische hyperlinks en geneste stramienpagina's in InDesign (PDF)</strong></a>
     </div>
     <em>Door hyperlinks toe te passen op stramienpagina's kunt u snel een navigatiesysteem beheren op al uw pagina's</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -499,6 +542,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Illustrator biedt ongeëvenaarde ondersteuning voor de SVG-indeling, waaronder de mogelijkheid om symbolen, groepen, id's en exacte vectordefinities van uw illustraties te maken</em>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -514,6 +562,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiseer uw product in een realistische omgeving (PDF)</strong></a>
     </div>
     <em>Als je wilt zien hoe je producten eruitzien in de echte wereld, Adobe [!DNL Dimension] is uw startende app</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
