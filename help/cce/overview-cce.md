@@ -4,10 +4,10 @@ description: Tutorials om u te helpen snel aan de slag te gaan met de Creative C
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 0%
+source-wordcount: '1390'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,23 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 
 
 ## Klik om een productzelfstudie te bekijken
+
+### Adobe Acrobat
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf">
+      <img alt="Acrobat for Content Creators" src="assets/AcrobatforContentCreators.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat for Content Creators (PDF)</strong></a>
+    </div>
+    <em>Meer informatie over de Acrobat-tools waarmee je creatieve workflows kunt stroomlijnen</em>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud voor ondernemingen
 
@@ -53,7 +70,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 </table>
 
 
-### Spark
+### Adobe Express (voorheen Adobe Spark)
 
 <table style="table-layout:fixed">
 <tr>
@@ -64,7 +81,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Een presentatie toevoegen aan uw Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Spark Page biedt een aantal fantastische en gebruiksvriendelijke lay-outcomponenten die je webverhalen tot leven brengen</em>
+    <em>Adobe Express biedt een aantal fantastische en gebruiksvriendelijke lay-outcomponenten die je webverhalen tot leven brengen</em>
     <br>
   </td>
   <td>
@@ -74,7 +91,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Uw merk maken in Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Met Adobe Spark kun je eenvoudig je merk definiëren</em>
+    <em>Met Adobe Express kun je eenvoudig je merk definiëren</em>
     <br>
   </td>
   <td>
@@ -84,7 +101,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Maak kennis met je nieuwe productieartiest: Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Spark leert van u terwijl u lay-outs maakt, kleuren definieert, illustraties importeert en elementen rangschikt in uw composities</em>
+    <em>Adobe Express leert van u terwijl u lay-outs maakt, kleuren definieert, illustraties importeert en elementen rangschikt binnen uw composities</em>
     <br>
   </td>
 </tr>
