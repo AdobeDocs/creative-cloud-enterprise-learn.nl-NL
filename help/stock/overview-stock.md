@@ -4,9 +4,9 @@ description: Tutorials om u te helpen snel aan de slag te gaan met Adobe [!DNL S
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
+source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud Hero-afbeelding](../assets/Stock.jpg)
 
-Creatieve medewerkers staan onder druk om snel nieuwe, visueel aantrekkelijke content te leveren die de aandacht trekt en vasthoudt. Adobe [!DNL Stock] voor ondernemingen biedt creatieve teams toegang tot meer dan 200 miljoen afbeeldingen, video&#39;s, sjablonen, illustraties, audiobestanden en 3D-assets - allemaal vanuit de creatieve Adobe-apps die ze dagelijks gebruiken.
-
+Creatieve medewerkers staan onder druk om snel aansprekende visuele content te leveren. Adobe Stock geeft creatieve teams toegang tot meer dan 300 miljoen royaltyvrije afbeeldingen, video&#39;s, audiobestanden, sjablonen, illustraties en 3D-assets - binnen de Creative Cloud-apps die ze dagelijks gebruiken. Krijg onbeperkte toegang tot Adobe Stock-standaardassets met Creative Cloud Pro Edition. Ontdek de nieuwste verzamelingen op stock.adobe.com
 
 ## Klik om een Adobe weer te geven [!DNL Stock] zelfstudie
 
