@@ -4,7 +4,7 @@ description: Tutorials om u te helpen snel aan de slag te gaan met de Creative C
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b529575f0c128b55509cadafc07fe3d008c987a3
+source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -316,11 +316,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="assets/TamingTypeAnxiety.pdf">
+   <a href="Taming-font-anxiety.md">
       <img alt="Angst voor gamingtype" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="assets/TamingTypeAnxiety.pdf"><strong>Angst voor type games (PDF)</strong></a>
+   <a href="Taming-font-anxiety.md"><strong>Angst voor type games (PDF)</strong></a>
     </div>
     <em>Leer hoe u meer dan 20.000 professioneel ontworpen lettertypen in Creative Cloud benadert en gebruikt</em>
     <br>
