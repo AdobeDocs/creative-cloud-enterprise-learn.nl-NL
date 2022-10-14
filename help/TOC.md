@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Bekijk zelfstudies en korte naslaggidsen die zijn gericht op Creative Cloud voor ondernemingen.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
+source-git-commit: c649360eab0566ef15df295d8ad09a5c0d2ec5c9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 8%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 8%
    + [Overzicht](cce/overview-cce.md)
    + Zelfstudies {#ccetutorials}
       + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
+      + [CC-workflows verbeteren met CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Creative Cloud-bibliotheken maken voor teams](cce/ccteamlibraries.md)
       + [Branding-assets delen met Creative Cloud Libraries voor teams](cce/sharecclibraries.md)
       + [Unieke composities maken met Adobe [!DNL Stock] en Photoshop voor iPad](cce/compositepsipad.md)
