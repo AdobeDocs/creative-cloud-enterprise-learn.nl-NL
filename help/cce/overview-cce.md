@@ -1,12 +1,12 @@
 ---
-title: Zelfstudies voor Creative Cloud voor ondernemingen
+title: Creative Cloud voor ondernemingen Tutorials
 description: Tutorials om u te helpen snel aan de slag te gaan met de Creative Cloud voor Enterprise-producten
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
+source-git-commit: eb461cadf0dc4c2122e3772e6d8f082516fd14f0
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1423'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze zelfstudies helpen u nieuwe functies in Creative Cloud te leren - vanuit het perspectief van de onderneming.
 
 
-## Klik om een productzelfstudie te bekijken
+## Klik om een productzelfstudie weer te geven (weergegeven in alfabetische volgorde)
 
 ### Adobe Acrobat
 
@@ -47,6 +47,137 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Adobe Express (voorheen Adobe Spark)
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
+      <img alt="Een presentatie toevoegen aan uw Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
+   </a>
+    <div>
+   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Een presentatie toevoegen aan uw Spark Page (PDF)</strong></a>
+    </div>
+    <em>Adobe Spark biedt een aantal fantastische en gebruiksvriendelijke lay-outcomponenten die je webverhalen tot leven brengen</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Uw merk maken in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Uw merk maken in Adobe Spark (PDF)</strong></a>
+    </div>
+    <em>Met Adobe Spark kun je eenvoudig je merk definiëren</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
+      <img alt="Maak kennis met je nieuwe productieartiest: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
+   </a>
+    <div>
+   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Maak kennis met je nieuwe productieartiest: Adobe Spark Post (PDF)</strong></a>
+    </div>
+    <em>Adobe Spark leert van u terwijl u lay-outs maakt, kleuren definieert, illustraties importeert en elementen rangschikt in uw composities</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Adobe Portfolio
+
+<table  style="table-layout:fixed">
+<tr>
+   <td>
+   <a href="assets/GettingStartedWithAdobePortfolio.pdf">
+      <img alt="Aan de slag met Adobe Portfolio" src="assets/GettingStartedWithAdobePortfolio.jpg" />
+   </a>
+    <div>
+   <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Aan de slag met Adobe Portfolio (PDF)</strong></a>
+    </div>
+    <em>Uw beste werk delen met Adobe Portfolio is een effectieve manier om uw succes te delen en nieuw creatief talent aan te trekken</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
+      <img alt="Lightroom en Bēhance aansluiten op uw Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
+   </a>
+    <div>
+   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Lightroom en Bēhance aansluiten op uw Adobe Portfolio (PDF)</strong></a>
+    </div>
+    <em>Bēhance-projecten gebruiken als pagina's in uw portfolio</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
+      <img alt="Toon uw beste werk met Adobe Portfolio" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
+   </a>
+    <div>
+   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Uw beste werk tonen met Adobe Portfolio (PDF)</strong></a>
+    </div>
+    <em>Met Adobe Portfolio kun je je werk uploaden, ordenen en delen met potentiële medewerkers en klanten over de hele wereld</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+ </tr>
+ </table>
+
+### CC Libraries
+
+<table  style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="ccteamlibraries.md">
+      <img alt="Creative Cloud-bibliotheken maken voor teams" src="assets/CCTeamLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="ccteamlibraries.md"><strong>Creative Cloud-bibliotheken maken voor teams</strong></a>
+    </div>
+    <em>Leer hoe je assets deelt binnen een groep of team met behulp van Creative Cloud Libraries voor teams</em>
+    <br>
+  </td>
+  <td>
+   <a href="sharecclibraries.md">
+      <img alt="Branding-assets delen met Creative Cloud Libraries voor teams" src="assets/ShareLibraries_1280.jpg" />
+   </a>
+   <div>
+   <a href="sharecclibraries.md"><strong>Branding-assets delen met Creative Cloud Libraries voor teams</strong></a>
+    </div>
+    <em>Leer hoe je branding-assets voor je groep of team creëert, gebruikt en deelt met Creative Cloud Libraries voor teams</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
+      <img alt="Creëer, voeg en deel je merkassets met Creative Cloud Libraries" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Creëer, voeg en deel je merkassets met Creative Cloud Libraries (PDF)</strong></a>
+    </div>
+    <em>Creative Cloud Libraries biedt een ingebouwd merksysteem waarmee ontwerpers merkassets kunnen delen met verschillende creatieve teams</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
+      <img alt="Tekststijlen delen vanuit Illustrator met Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
+   </a>
+    <div>
+   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Tekststijlen delen vanuit Illustrator met Creative Cloud-bibliotheken (PDF)</strong></a>
+    </div>
+    <em>Werk slimmer, niet harder in Illustrator</em>
     <br>
   </td>
 </tr>
@@ -89,43 +220,226 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 </tr>
 </table>
 
+### [!DNL Dimension]
 
-### Adobe Express (voorheen Adobe Spark)
-
-<table style="table-layout:fixed">
+<table  style="table-layout:fixed">
 <tr>
- <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Een presentatie toevoegen aan uw Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
+   <td>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
+      <img alt="Visualiseer uw product in een realistische omgeving" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
    </a>
     <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Een presentatie toevoegen aan uw Spark Page (PDF)</strong></a>
+   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiseer uw product in een realistische omgeving (PDF)</strong></a>
     </div>
-    <em>Adobe Spark biedt een aantal fantastische en gebruiksvriendelijke lay-outcomponenten die je webverhalen tot leven brengen</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Uw merk maken in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Uw merk maken in Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Met Adobe Spark kun je eenvoudig je merk definiëren</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="Maak kennis met je nieuwe productieartiest: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Maak kennis met je nieuwe productieartiest: Adobe Spark Post (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark leert van u terwijl u lay-outs maakt, kleuren definieert, illustraties importeert en elementen rangschikt in uw composities</em>
+    <em>Als je wilt zien hoe je producten eruitzien in de echte wereld, Adobe [!DNL Dimension] is uw startende app</em>
     <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Fresco
+
+<table>
+<tr>
+ <td>
+   <a href="frescoworkshop.md">
+      <img alt="Probeer uw hand op Fresco op de iPad (en iPhone)" src="assets/Fresco.png" />
+   </a>
+    <div>
+   <a href="frescoworkshop.md"><strong>Probeer uw hand op Fresco op de iPad (en iPhone)</strong></a>
+    </div>
+    <em>Ontdek een hele nieuwe wereld van digitaal tekenen en schilderen met Adobe Fresco in deze praktische workshop van 15 minuten</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Fonts
+
+<table  style="table-layout:fixed">
+<tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="Angst voor gamingtype" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>Angst voor type games (PDF)</strong></a>
+    </div>
+    <em>Leer hoe u meer dan 20.000 professioneel ontworpen lettertypen in Creative Cloud benadert en gebruikt</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
+      <img alt="Creëer prachtige typografie met Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creëer prachtige typografie met Creative Cloud (PDF)</strong></a>
+    </div>
+    <em>Leer de geavanceerde typografische besturingselementen van uw favoriete ontwerptools te benutten</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
+      <img alt="Lettertypen met Creative Cloud ontdekken" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
+   </a>
+    <div>
+   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Lettertypen ontdekken met Creative Cloud (PDF)</strong></a>
+    </div>
+    <em>Het vinden van het juiste lettertype voor een project kan soms overweldigend lijken. Met verschillende Creative Cloud-apps en -services is het nu leuk en inspirerend om het juiste lettertype te vinden</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
+      <img alt="Verborgen OpenTypen ontgrendelen in lettertypen" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
+   </a>
+    <div>
+   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>Verborgen OpenTypen ontgrendelen in lettertypen (PDF)</strong></a>
+    </div>
+    <em>Met de indeling OpenType kan een lettertype maximaal 65.536 glyphs bevatten</em>
+    <br>
+  </td>
+</table>
+
+### Illustrator
+
+<table  style="table-layout:fixed">
+<tr>
+   <td>
+   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf">
+      <img alt="Kennismaken met afbeeldingsstijlen in Illustrator" src="assets/GettoKnowGraphicStylesinIllustrator.jpg" />
+   </a>
+    <div>
+   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Kennismaken met afbeeldingsstijlen in Illustrator (PDF)</strong></a>
+    </div>
+    <em>Illustrator biedt je de mogelijkheid om illustraties op dezelfde manier op te maken als je tekst opmaakt</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
+      <img alt="Werk slimmer, niet moeilijker, met Adobe Illustrator CC" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
+   </a>
+    <div>
+   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Werk slimmer, niet moeilijker, met Adobe Illustrator CC (PDF)</strong></a>
+    </div>
+    <em>Versnel je vectortekeningen in Illustrator</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
+      <img alt="Illustrator-symbolen + lagen = Perfecte structuur voor responsieve SVG!" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
+   </a>
+    <div>
+   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator-symbolen + lagen = Perfecte structuur voor responsieve SVG! (PDF)</strong></a>
+    </div>
+    <em>Illustrator biedt ongeëvenaarde ondersteuning voor de SVG-indeling, waaronder de mogelijkheid om symbolen, groepen, id's en exacte vectordefinities van uw illustraties te maken</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### InDesign
+
+<table  style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
+      <img alt="Interactieve PDF maken vanaf InDesign" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Interactieve PDF maken vanaf InDesign (PDF)</strong></a>
+    </div>
+    <em>InDesign bevat veel functies waarmee u de inhoud in uw documenten kunt opmaken, opmaken, beheren en bijhouden</em>
+    <br>
+  </td>
+   <td>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
+      <img alt="Eenvoudig ontwerpfeedback verzamelen en opnemen met Adobe Acrobat en InDesign" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Eenvoudig ontwerpfeedback verzamelen en opnemen met Adobe Acrobat en InDesign (PDF)</strong></a>
+    </div>
+    <em>Belanghebbenden kunnen Acrobat gebruiken om gedetailleerde opmerkingen en annotaties toe te voegen. Vervolgens kunt u deze markeringen snel terugbrengen naar Adobe InDesign om ze te zien in de context van uw layout</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/StyleWebContentwithInDesign.pdf">
+      <img alt="Webinhoud met Adobe InDesign CC opmaken" src="assets/StyleWebContentwithInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Webinhoud opmaken met Adobe InDesign CC (PDF)</strong></a>
+    </div>
+    <em>Wist u dat u de kracht van InDesign kunt benutten voor het uitvoeren van HTML- en webafbeeldingen?</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
+      <img alt="Interactieve PDF: Bladwijzers en gekoppelde inhoudsopgave's van InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interactieve PDF: Bladwijzers en gekoppelde inhoudsopgave's uit InDesign (PDF)</strong></a>
+    </div>
+    <em>Leer hoe u met de functie Inhoudsopgave in InDesign bladwijzers en hyperlinks genereert waarmee uw lezers snel informatie in uw PDF-bestanden kunnen vinden</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
+      <img alt="Interactieve PDF: Grafische hyperlinks en geneste stramienpagina's in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
+   </a>
+    <div>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interactieve PDF: Grafische hyperlinks en geneste stramienpagina's in InDesign (PDF)</strong></a>
+    </div>
+    <em>Door hyperlinks toe te passen op stramienpagina's kunt u snel een navigatiesysteem beheren op al uw pagina's</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -237,7 +551,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf"><strong>Werk slimmer, niet harder, met Photoshop (PDF)</strong></a>
     </div>
-    <em>Wijzigingen in Photoshop kunnen tijdrovend zijn, maar hoeven niet</em>
+    <em>Wijzigingen in Photoshop kunnen tijdrovend zijn, maar dat hoeft niet</em>
     <br>
   </td>
   <td>
@@ -261,320 +575,4 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <br>
   </td>
 </tr>  
-</table>
-
-### Fresco
-
-<table>
-<tr>
- <td>
-   <a href="frescoworkshop.md">
-      <img alt="Probeer uw hand op Fresco op de iPad (en iPhone)" src="assets/Fresco.png" />
-   </a>
-    <div>
-   <a href="frescoworkshop.md"><strong>Probeer uw hand op Fresco op de iPad (en iPhone)</strong></a>
-    </div>
-    <em>Ontdek een hele nieuwe wereld van digitaal tekenen en schilderen met Adobe Fresco in deze praktische workshop van 15 minuten</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Portfolio
-
-<table  style="table-layout:fixed">
-<tr>
-   <td>
-   <a href="assets/GettingStartedWithAdobePortfolio.pdf">
-      <img alt="Aan de slag met Adobe Portfolio" src="assets/GettingStartedWithAdobePortfolio.jpg" />
-   </a>
-    <div>
-   <a href="assets/GettingStartedWithAdobePortfolio.pdf"><strong>Aan de slag met Adobe Portfolio (PDF)</strong></a>
-    </div>
-    <em>Uw beste werk delen met Adobe Portfolio is een effectieve manier om uw succes te delen en nieuw creatief talent aan te trekken</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf">
-      <img alt="Lightroom en Bēhance aansluiten op uw Adobe Portfolio" src="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.jpg" />
-   </a>
-    <div>
-   <a href="assets/ConnectingLightroomandBehancetoYourAdobePortfolio.pdf"><strong>Lightroom en Bēhance aansluiten op uw Adobe Portfolio (PDF)</strong></a>
-    </div>
-    <em>Bēhance-projecten gebruiken als pagina's in uw portfolio</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf">
-      <img alt="Toon uw beste werk met Adobe Portfolio" src="assets/ShowYourBestWorkwithAdobePortfolio.jpg" />
-   </a>
-    <div>
-   <a href="assets/ShowYourBestWorkwithAdobePortfolio.pdf"><strong>Uw beste werk tonen met Adobe Portfolio (PDF)</strong></a>
-    </div>
-    <em>Met Adobe Portfolio kun je je werk uploaden, ordenen en delen met potentiële medewerkers en klanten over de hele wereld</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
- </tr>
- </table>
-
-
-### CC Libraries
-
-<table  style="table-layout:fixed">
-<tr>
-  <td>
-   <a href="ccteamlibraries.md">
-      <img alt="Creative Cloud-bibliotheken maken voor teams" src="assets/CCTeamLibraries_1280.jpg" />
-   </a>
-   <div>
-   <a href="ccteamlibraries.md"><strong>Creative Cloud-bibliotheken maken voor teams</strong></a>
-    </div>
-    <em>Leer hoe je assets deelt binnen een groep of team met behulp van Creative Cloud Libraries voor teams</em>
-    <br>
-  </td>
-  <td>
-   <a href="sharecclibraries.md">
-      <img alt="Branding-assets delen met Creative Cloud Libraries voor teams" src="assets/ShareLibraries_1280.jpg" />
-   </a>
-   <div>
-   <a href="sharecclibraries.md"><strong>Branding-assets delen met Creative Cloud Libraries voor teams</strong></a>
-    </div>
-    <em>Leer hoe je branding-assets voor je groep of team creëert, gebruikt en deelt met Creative Cloud Libraries voor teams</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf">
-      <img alt="Creëer, voeg en deel je merkassets met Creative Cloud Libraries" src="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreateAddandShareYourBrandAssetswithCreativeCloudLibraries.pdf"><strong>Creëer, voeg en deel je merkassets met Creative Cloud Libraries (PDF)</strong></a>
-    </div>
-    <em>Creative Cloud Libraries biedt een ingebouwd merksysteem waarmee ontwerpers merkassets kunnen delen met verschillende creatieve teams</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
-      <img alt="Tekststijlen delen vanuit Illustrator met Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
-   </a>
-    <div>
-   <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Tekststijlen delen vanuit Illustrator met Creative Cloud-bibliotheken (PDF)</strong></a>
-    </div>
-    <em>Werk slimmer, niet harder in Illustrator</em>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Fonts
-
-<table  style="table-layout:fixed">
-<tr>
-<td>
-   <a href="assets/TamingTypeAnxiety.pdf">
-      <img alt="Angst voor gamingtype" src="assets/TamingTypeAnxiety.jpg" />
-   </a>
-    <div>
-   <a href="assets/TamingTypeAnxiety.pdf"><strong>Angst voor type games (PDF)</strong></a>
-    </div>
-    <em>Leer hoe u meer dan 20.000 professioneel ontworpen lettertypen in Creative Cloud benadert en gebruikt</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
-      <img alt="Creëer prachtige typografie met Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf"><strong>Creëer prachtige typografie met Creative Cloud (PDF)</strong></a>
-    </div>
-    <em>Leer de geavanceerde typografische besturingselementen van uw favoriete ontwerptools te benutten</em>
-    <br>
-  </td>
-   <td>
-   <a href="assets/DiscoveringFontswithCreativeCloud.pdf">
-      <img alt="Lettertypen met Creative Cloud ontdekken" src="assets/DiscoveringFontswithCreativeCloud.jpg" />
-   </a>
-    <div>
-   <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Lettertypen ontdekken met Creative Cloud (PDF)</strong></a>
-    </div>
-    <em>Het vinden van het juiste lettertype voor een project kan soms overweldigend lijken. Met verschillende Creative Cloud-apps en -services is het nu leuk en inspirerend om het juiste lettertype te vinden</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf">
-      <img alt="Verborgen OpenTypen ontgrendelen in lettertypen" src="assets/UnleashHiddenGemsinOpenTypefonts.jpg" />
-   </a>
-    <div>
-   <a href="assets/UnleashHiddenGemsinOpenTypefonts.pdf"><strong>Verborgen OpenTypen ontgrendelen in lettertypen (PDF)</strong></a>
-    </div>
-    <em>Met de indeling OpenType kan een lettertype maximaal 65.536 glyphs bevatten</em>
-    <br>
-  </td>
-</table>
-
-### InDesign
-
-<table  style="table-layout:fixed">
-<tr>
-  <td>
-   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
-      <img alt="Interactieve PDF maken vanaf InDesign" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Interactieve PDF maken vanaf InDesign (PDF)</strong></a>
-    </div>
-    <em>InDesign bevat veel functies waarmee u de inhoud in uw documenten kunt opmaken, opmaken, beheren en bijhouden</em>
-    <br>
-  </td>
-   <td>
-   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf">
-      <img alt="Eenvoudig ontwerpfeedback verzamelen en opnemen met Adobe Acrobat en InDesign" src="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/EasilyGatherandIncorporateDesignFeedbackwithAdobeAcrobatandInDesign.pdf"><strong>Eenvoudig ontwerpfeedback verzamelen en opnemen met Adobe Acrobat en InDesign (PDF)</strong></a>
-    </div>
-    <em>Belanghebbenden kunnen Acrobat gebruiken om gedetailleerde opmerkingen en annotaties toe te voegen. Vervolgens kunt u deze markeringen snel terugbrengen naar Adobe InDesign om ze te zien in de context van uw layout</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/StyleWebContentwithInDesign.pdf">
-      <img alt="Webinhoud met Adobe InDesign CC opmaken" src="assets/StyleWebContentwithInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Webinhoud opmaken met Adobe InDesign CC (PDF)</strong></a>
-    </div>
-    <em>Wist u dat u de kracht van InDesign kunt benutten voor het uitvoeren van HTML- en webafbeeldingen?</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
-      <img alt="Interactieve PDF: Bladwijzers en gekoppelde inhoudsopgave's van InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interactieve PDF: Bladwijzers en gekoppelde inhoudsopgave's uit InDesign (PDF)</strong></a>
-    </div>
-    <em>Leer hoe u met de functie Inhoudsopgave in InDesign bladwijzers en hyperlinks genereert waarmee uw lezers snel informatie in uw PDF-bestanden kunnen vinden</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
-      <img alt="Interactieve PDF: Grafische hyperlinks en geneste stramienpagina's in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
-   </a>
-    <div>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interactieve PDF: Grafische hyperlinks en geneste stramienpagina's in InDesign (PDF)</strong></a>
-    </div>
-    <em>Door hyperlinks toe te passen op stramienpagina's kunt u snel een navigatiesysteem beheren op al uw pagina's</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Illustrator
-
-<table  style="table-layout:fixed">
-<tr>
-   <td>
-   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf">
-      <img alt="Kennismaken met afbeeldingsstijlen in Illustrator" src="assets/GettoKnowGraphicStylesinIllustrator.jpg" />
-   </a>
-    <div>
-   <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Kennismaken met afbeeldingsstijlen in Illustrator (PDF)</strong></a>
-    </div>
-    <em>Illustrator biedt je de mogelijkheid om illustraties op dezelfde manier op te maken als je tekst opmaakt</em>
-    <br>
-  </td>
-   <td>
-   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf">
-      <img alt="Werk slimmer, niet moeilijker, met Adobe Illustrator CC" src="assets/WorkSmarterNotHarderwithIllustrator.jpg" />
-   </a>
-    <div>
-   <a href="assets/WorkSmarterNotHarderwithIllustrator.pdf"><strong>Werk slimmer, niet moeilijker, met Adobe Illustrator CC (PDF)</strong></a>
-    </div>
-    <em>Versnel je vectortekeningen in Illustrator</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf">
-      <img alt="Illustrator-symbolen + lagen = Perfecte structuur voor responsieve SVG!" src="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.jpg" />
-   </a>
-    <div>
-   <a href="assets/IllustratorSymbolsandLayersequalsPerfectStructureforResponsiveSVG.pdf"><strong>Illustrator-symbolen + lagen = Perfecte structuur voor responsieve SVG! (PDF)</strong></a>
-    </div>
-    <em>Illustrator biedt ongeëvenaarde ondersteuning voor de SVG-indeling, waaronder de mogelijkheid om symbolen, groepen, id's en exacte vectordefinities van uw illustraties te maken</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### [!DNL Dimension]
-
-<table  style="table-layout:fixed">
-<tr>
-   <td>
-   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf">
-      <img alt="Visualiseer uw product in een realistische omgeving" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
-   </a>
-    <div>
-   <a href="assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiseer uw product in een realistische omgeving (PDF)</strong></a>
-    </div>
-    <em>Als je wilt zien hoe je producten eruitzien in de echte wereld, Adobe [!DNL Dimension] is uw startende app</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>

@@ -4,9 +4,9 @@ description: Tutorials om u te helpen snel aan de slag te gaan met de Creative C
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
+source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
 workflow-type: tm+mt
-source-wordcount: '1200'
+source-wordcount: '1208'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,39 @@ ht-degree: 0%
 Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze korte naslaggidsen helpen u nieuwe functies in Creative Cloud te leren kennen.
 
 
-## Klik om een PDF van de korte naslaggids te downloaden
+## Klik om een PDF van de snelle naslaggids te downloaden (producten in alfabetische volgorde)
+
+### Adobe Express (voorheen Adobe Spark)
+
+<table>
+<tr>
+ <td>
+   <a href="CreateEditandShareaWebPagewithSpark.pdf">
+      <img alt="Een webpagina maken, bewerken en delen met Spark" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Een webpagina maken, bewerken en delen met Spark (PDF)</strong></a>
+    </div>
+    <em>Maak een interactief, responsief en lichtbakvriendelijk fotoraster voor uw webpagina met eenvoudige, intuïtieve tools in Adobe Spark en prachtige afbeeldingen van Adobe [!DNL Stock]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud voor ondernemingen
 
@@ -54,7 +86,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Ontdek de verbluffende functies van Lightroom op je mobiele apparaat om het beste in je afbeeldingen naar voren te brengen</em>
     <br>
   </td>
-</tr>
   <td>
    <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf">
       <img alt="Schets, comp en voltooi een brochure-lay-out met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
@@ -65,32 +96,95 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Verken snel lay-outideeën voor drukwerk, het web, mobiele apparaten of social media op je mobiele apparaat met Adobe Comp</em>
     <br>
   </td>
+</tr>
+</table>
+
+### Fonts
+
+<table>
+<tr>
   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
+      <img alt="Creëer prachtige typografie met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Onbeperkte Adobe Fonts bij uw vingertoppen (PDF)</strong></a>
+    </div>
+    <em>[!DNL Capture] interessante lettertypen in de echte wereld met Adobe [!DNL Capture] op uw mobiele apparaat, en activeer en sla vergelijkbare lettertypen op met Adobe Fonts en Creative Cloud-bibliotheken</em>
+    <br>
+  </td>
+   <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-
-### Adobe Express (voorheen Adobe Spark)
+### Fresco
 
 <table>
 <tr>
  <td>
-   <a href="CreateEditandShareaWebPagewithSpark.pdf">
-      <img alt="Een webpagina maken, bewerken en delen met Spark" src="../assets/acrobat_PDF_96.png" />
+   <a href="Frescoworkshop.pdf">
+      <img alt="Probeer uw hand op Fresco op de iPad (en iPhone)" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="CreateEditandShareaWebPagewithSpark.pdf"><strong>Een webpagina maken, bewerken en delen met Spark (PDF)</strong></a>
+   <a href="Frescoworkshop.pdf"><strong>Probeer uw hand op Fresco op de iPad (en iPhone) (PDF)</strong></a>
     </div>
-    <em>Maak een interactief, responsief en lichtbakvriendelijk fotoraster voor uw webpagina met eenvoudige, intuïtieve tools in Adobe Spark en prachtige afbeeldingen van Adobe [!DNL Stock]</em>
+    <em>Ontdek een hele nieuwe wereld van digitaal tekenen en schilderen met Adobe Fresco in deze praktische workshop van 15 minuten</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+### Illustrator
+
+<table>
+<tr>
+   <td>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
+      <img alt="Een samenstelling maken met afbeeldingen en vormen met Illustrator for iPad" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Een samenstelling maken met afbeeldingen en vormen met Illustrator for iPad (PDF)</strong></a>
+    </div>
+    <em>Illustrator biedt je de mogelijkheid om illustraties op dezelfde manier op te maken als je tekst opmaakt</em>
+    <br>
+  </td>
+   <td>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
+      <img alt="Responsieve en geanimeerde SVG met XD, Illustrator en CSS" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsieve en geanimeerde SVG met XD, Illustrator en CSS (PDF)</strong></a>
+    </div>
+    <em>Voeg wat animatie toe aan uw SVG-bestanden met slechts een paar regels CSS</em>
     <br>
   </td>
   <td>
@@ -140,8 +234,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Een levende foto maken door video van Adobe te combineren [!DNL Stock] met slimme maskertechnieken in Photoshop. Breng je afbeeldingen tot leven met beweging en een strategisch luspunt</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="CreateJaw-DroppingGraphicswithPhotoshopAfterEffects.pdf">
       <img alt="Creëer fantastische afbeeldingen met Photoshop + After Effects" src="../assets/acrobat_PDF_96.png" />
@@ -152,6 +244,8 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Gebruik een gangbare videotechniek in After Effects om snel een achtergrondkleur in een foto te verwijderen om een unieke fotocompositie te maken voor uw ontwerpprojecten</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="GettoknowPhotoshopontheiPad.pdf">
       <img alt="Photoshop leren kennen op de iPad" src="../assets/acrobat_PDF_96.png" />
@@ -167,93 +261,17 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
-</table>
-
-### Fresco
-
-<table>
-<tr>
- <td>
-   <a href="Frescoworkshop.pdf">
-      <img alt="Probeer uw hand op Fresco op de iPad (en iPhone)" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="Frescoworkshop.pdf"><strong>Probeer uw hand op Fresco op de iPad (en iPhone) (PDF)</strong></a>
-    </div>
-    <em>Ontdek een hele nieuwe wereld van digitaal tekenen en schilderen met Adobe Fresco in deze praktische workshop van 15 minuten</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### XD
-
-<table>
-<tr>
-   <td>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf">
-      <img alt="Adobe XD: Advanced Voice Prototyping" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: Advanced Voice Prototyping (PDF)</strong></a>
-    </div>
-    <em>Maak een interactief prototype dat kan reageren op klik-, aanraak- en audio-invoer van uw gebruikers</em>
-    <br>
-  </td>
-   <td>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
-      <img alt="Coediting: Real-Time Design Collaboration Using Adobe XD" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>Coediting: Real-Time Design Collaboration Using Adobe XD (PDF)</strong></a>
-    </div>
-    <em>Leer met uw collega's, klanten en ontwikkelaars samen te werken aan een interactief prototype met de één-van-een-type-tools voor delen die zijn ingebouwd in Adobe XD en Creative Cloud</em>
-    <br>
-  </td>
-  <td>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf">
-      <img alt="Ontwerp en maak een prototype van Interactieve Projecten met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Ontwerp en maak een prototype van Interactieve Projecten met Creative Cloud (PDF)</strong></a>
-    </div>
-    <em>Creëer in slechts een paar minuten een volledig interactieve en geanimeerde gebruikerservaring door Adobe XD te combineren met een breed scala aan unieke en veelzijdige assets op Adobe- [!DNL Stock]</em>
-    <br>
-  </td>
- </tr>
- <tr>
-  <td>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
-      <img alt="Laten we XD - Zie Ontwerpen, Prototype maken en Afleveren aan teams" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Laten we XD - Zie Ontwerpen, Prototype maken en Overhandigen aan teams (PDF)</strong></a>
-    </div>
-    <em>Componenten bieden u een ongekende flexibiliteit voor het toepassen van zowel snelheid als consistentie op uw ontwerpworkflow</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### [!DNL Stock]
@@ -290,8 +308,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>[!DNL Capture] de aandacht van je doelgroepen, op elk scherm, door fotografie te combineren met video van Adobe [!DNL Stock]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf">
       <img alt="Toon je data met Adobe [!DNL Stock] Bewegingsafbeeldingssjablonen" src="../assets/acrobat_PDF_96.png" />
@@ -302,6 +318,8 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Vertegenwoordig je data op een meer invloedrijke manier door beweging en ontwerp toe te voegen met een sjabloon voor bewegende beelden van Adobe [!DNL Stock]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf">
       <img alt="Laat je ontwerpwerk zien in de echte wereld" src="../assets/acrobat_PDF_96.png" />
@@ -322,58 +340,9 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Combineer statische afbeeldingen en video in Photoshop om een boeiend, geanimeerd GIF voor je campagne te creëren dat geschikt is voor een groot aantal e-mailtoepassingen van klanten</em>
     <br>
   </td>
-</tr>
-</table>
-
-### Fonts
-
-<table>
-<tr>
-  <td>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf">
-      <img alt="Creëer prachtige typografie met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="UnlimitedAdobeFontsatyourFingertips.pdf"><strong>Onbeperkte Adobe Fonts bij uw vingertoppen (PDF)</strong></a>
-    </div>
-    <em>[!DNL Capture] interessante lettertypen in de echte wereld met Adobe [!DNL Capture] op uw mobiele apparaat, en activeer en sla vergelijkbare lettertypen op met Adobe Fonts en Creative Cloud-bibliotheken</em>
-    <br>
-  </td>
-   <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Illustrator
-
-<table>
-<tr>
-   <td>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf">
-      <img alt="Een samenstelling maken met afbeeldingen en vormen met Illustrator for iPad" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf"><strong>Een samenstelling maken met afbeeldingen en vormen met Illustrator for iPad (PDF)</strong></a>
-    </div>
-    <em>Illustrator biedt je de mogelijkheid om illustraties op dezelfde manier op te maken als je tekst opmaakt</em>
-    <br>
-  </td>
-   <td>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf">
-      <img alt="Responsieve en geanimeerde SVG met XD, Illustrator en CSS" src="../assets/acrobat_PDF_96.png" />
-   </a>
-    <div>
-   <a href="ResponsiveandAnimatedSVGwithXDIllustratorandCSS.pdf"><strong>Responsieve en geanimeerde SVG met XD, Illustrator en CSS (PDF)</strong></a>
-    </div>
-    <em>Voeg wat animatie toe aan uw SVG-bestanden met slechts een paar regels CSS</em>
     <br>
   </td>
   <td>
@@ -406,6 +375,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    <a href="SkiptheShootGettheShot.pdf"><strong>De opname overslaan — De opname ophalen (PDF)</strong></a>
     </div>
     <em>Pas een 3D-model aan en merk het op in [!DNL Dimension] met materialen, milieu-eigenschappen, belichting en fotografie, om fotorealistische afbeeldingen te maken voor elk ontwerpproject</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -450,7 +424,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Vertel een boeiend verhaal op social media door video en afbeeldingen in Premiere Pro te combineren</em>
     <br>
   </td>
-<tr>
   <td>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf">
       <img alt="Foto's met Creative Cloud maken, bewerken en publiceren" src="../assets/acrobat_PDF_96.png" />
@@ -461,15 +434,52 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <em>Combineer video’s en bewegende beelden om een boeiend verhaal voor social media te vertellen met gebruiksvriendelijke bewerkingstools en bewegende afbeeldingssjablonen in Premiere [!DNL Rush]</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/GrayBanner_Spacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
+</table>
+
+### XD
+
+<table>
+<tr>
+   <td>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf">
+      <img alt="Adobe XD: Advanced Voice Prototyping" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="AdobeXDAdvancedVoicePrototyping.pdf"><strong>Adobe XD: Advanced Voice Prototyping (PDF)</strong></a>
+    </div>
+    <em>Maak een interactief prototype dat kan reageren op klik-, aanraak- en audio-invoer van uw gebruikers</em>
+    <br>
+  </td>
+   <td>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf">
+      <img alt="Coediting: Real-Time Design Collaboration Using Adobe XD" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf"><strong>Coediting: Real-Time Design Collaboration Using Adobe XD (PDF)</strong></a>
+    </div>
+    <em>Leer met uw collega's, klanten en ontwikkelaars samen te werken aan een interactief prototype met de één-van-een-type-tools voor delen die zijn ingebouwd in Adobe XD en Creative Cloud</em>
+    <br>
+  </td>
+  <td>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf">
+      <img alt="Ontwerp en maak een prototype van Interactieve Projecten met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf"><strong>Ontwerp en maak een prototype van Interactieve Projecten met Creative Cloud (PDF)</strong></a>
+    </div>
+    <em>Creëer in slechts een paar minuten een volledig interactieve en geanimeerde gebruikerservaring door Adobe XD te combineren met een breed scala aan unieke en veelzijdige assets op Adobe- [!DNL Stock]</em>
+    <br>
+  </td>
+  <td>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf">
+      <img alt="Laten we XD - Zie Ontwerpen, Prototype maken en Afleveren aan teams" src="../assets/acrobat_PDF_96.png" />
+   </a>
+    <div>
+   <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf"><strong>Laten we XD - Bekijk hoe je kunt ontwerpen, prototypen maakt en hoe je kunt werken met teams (PDF)</strong></a>
+    </div>
+    <em>Componenten bieden u een ongekende flexibiliteit voor het toepassen van zowel snelheid als consistentie op uw ontwerpworkflow</em>
+    <br>
+  </td>
+ </tr>
 </table>

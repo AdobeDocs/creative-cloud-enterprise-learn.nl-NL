@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Bekijk zelfstudies en korte naslaggidsen die zijn gericht op Creative Cloud voor ondernemingen.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
+source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '374'
 ht-degree: 8%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 8%
 + CCE {#cceoverview}
    + [Overzicht](cce/overview-cce.md)
    + Zelfstudies {#ccetutorials}
+      + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
       + [Creative Cloud-bibliotheken maken voor teams](cce/ccteamlibraries.md)
       + [Branding-assets delen met Creative Cloud Libraries voor teams](cce/sharecclibraries.md)
       + [Unieke composities maken met Adobe [!DNL Stock] en Photoshop voor iPad](cce/compositepsipad.md)
@@ -51,10 +52,6 @@ ht-degree: 8%
       + [Een animatie op het laadscherm aanpassen met Adobe [!DNL Stock] en XD](stock/loadingscreen.md)
       + [Een Adobe aanpassen [!DNL Stock] presentatiesjabloon om er professioneel uit te zien](stock/presentationtemplate.md)
       + [De kleuren in een Adobe aanpassen [!DNL Stock] vectorillustratie](stock/customizecolors.md)
-+ XD {#xdoverview}
-   + [Overzicht](xd/overview-xd.md)
-   + Zelfstudies {#xdtutorials}
-   + [Ga vertrouwd met [!UICONTROL Componenten] in Adobe XD](xd/components.md)
 + 3D en VR {#3doverview}
    + [Overzicht](3di/overview-3di.md)
    + Zelfstudies {#3dtutorials}
@@ -62,7 +59,14 @@ ht-degree: 8%
       + [Fotorealistische virtuele fotografie maken met 3D-rendering en -composities](3di/photorealistic.md)
       + [Pas een 3D-model aan en merk het op met [!DNL Dimension] en Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Video {#videooverview}
-   + [Zelfstudies](dva/overview-dva.md)
+   + [Overzicht](dva/overview-dva.md)
+   + Zelfstudies {#videotutorials}
+      + [Video-revisie met Frame.io](dva/video-review-frame-io.md)
+   + [Snelle naslaggidsen](dva/overview-dva-ref.md)
++ XD {#xdoverview}
+   + [Overzicht](xd/overview-xd.md)
+   + Zelfstudies {#xdtutorials}
+   + [Ga vertrouwd met [!UICONTROL Componenten] in Adobe XD](xd/components.md)
 + Implementeren en beheren {#deploy}
    + [Overzicht](deploy/overview-deploy.md)
    + [Verlopen serienummer](deploy/cceserial.md)
