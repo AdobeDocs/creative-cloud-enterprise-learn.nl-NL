@@ -4,9 +4,9 @@ description: Tutorials om u te helpen snel aan de slag te gaan met Adobe [!DNL S
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
+source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '1212'
 ht-degree: 0%
 
 ---
@@ -259,9 +259,7 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
     <em>Voeg je project mooier toe met een fantastische illustratie. Vind de perfecte vector in Adobe [!DNL Stock]en past vervolgens de kleuren met Adobe Illustrator aan die in het palet van uw project</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
          <img alt="Beweging toevoegen aan stilstaande beelden met Adobe [!DNL Stock] en Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
@@ -303,8 +301,6 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <em>Breng twee verschillende afbeeldingen samen om een geheel nieuwe scène voor uw ontwerpprojecten te maken. Adobe [!DNL Stock] en Adobe Photoshop maakt het gemakkelijk</em>
       <br>
    </td>
-</tr>
-<tr>
    <td>
       <a href="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.pdf" target="_blank">
          <img alt="Een Halloween-filmfragment maken met Photoshop CC en Adobe [!DNL Stock]" src="assets/CreatingaHalloweenCinemagraphwithPhotoshopCCandAdobeStock.jpg" />
@@ -315,6 +311,8 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <em>Een filmfragment maken door video's, illustraties en foto's samen te stellen met Adobe Photoshop</em>
       <br>
   </td>
+</tr>
+<tr>
    <td>
       <a href="assets/PutyourDatainMotionwithAdobeStockandPremierePro.pdf" target="_blank">
          <img alt="Zet je data in beweging met Adobe [!DNL Stock] en Premiere Pro" src="assets/PutyourDatainMotionwithAdobeStockandPremierePro.jpg" />
@@ -345,9 +343,7 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <em>Ga als volgt te werk om uw werk te tonen in een realistisch uitziende Adobe [!DNL Stock] sjabloon met Adobe Photoshop</em>
       <br>
   </td>
- </tr> 
- <tr>
-   <td>
+  <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
          <img alt="Ontdek verbluffende details in Adobe [!DNL Stock] afbeeldingen met Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
@@ -357,6 +353,8 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <em>Ontdek de kracht van Lightroom op je mobiele apparaat om het beste uit je afbeeldingen te halen</em>
       <br>
   </td>
+ </tr> 
+ <tr>
    <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
          <img alt="Visualiseer posterontwerpen in de echte wereld met Adobe [!DNL Stock] en Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
@@ -368,12 +366,17 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
