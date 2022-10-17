@@ -1,21 +1,21 @@
 ---
-title: Zelfstudies
-description: Welkom bij de Creative Cloud for enterprise Learning Hub
+title: Creative Cloud voor Enterprise Tutorials
+description: Welkom bij de hub Creative Cloud for enterprise learning
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: cdb318618d08ab0eab1ec88c3faa3354e11f2fab
+source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
-# Creative Cloud voor ondernemingen Tutorials
+# Zelfstudies voor Creative Cloud voor ondernemingen
 
 ![Creative Cloud Hero-afbeelding](assets/hero_cce.jpg)
 
-Welkom bij de Creative Cloud for enterprise Learning Hub. Je zult een breed scala aan leerervaringen vinden die zijn gericht op Creative Cloud voor ondernemingen. Onze tutorials, webinars en gebruiksscenario’s zijn ontworpen om zowel beginners als beheerders snel op de Creative Cloud voor bedrijfsproducten te kunnen zetten.
+Welkom bij de hub Creative Cloud for enterprise learning. Hier vind je een breed scala aan leerervaringen gericht op Creative Cloud voor ondernemingen. Onze tutorials, webinars en gebruiksscenario’s zijn ontworpen om zowel beginners als beheerders snel op de Creative Cloud voor bedrijfsproducten te kunnen zetten.
 
 ## Door onderwerpen bladeren
 
@@ -42,18 +42,6 @@ Welkom bij de Creative Cloud for enterprise Learning Hub. Je zult een breed scal
     <br>
   </td>
   <td>
-    <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
-    </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>Gebruikerservaringen ontwerpen, prototypen maken en delen</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D en VR" src="assets/Dimenio.jpg" />
     </a>
@@ -63,6 +51,8 @@ Welkom bij de Creative Cloud for enterprise Learning Hub. Je zult een breed scal
     <em>Maak fotorealistische 3D-afbeeldingen voor branding, productafbeeldingen en verpakkingsontwerp</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe Video" src="assets/CCEbanner-DVA.png" />
@@ -71,6 +61,16 @@ Welkom bij de Creative Cloud for enterprise Learning Hub. Je zult een breed scal
    <a href="dva/overview-dva.md"><strong>Adobe Video</strong></a>
     </div>
     <em>Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewegende beelden, visuele effecten, animatie en meer</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd/overview-xd.md">
+      <img alt="Adobe XD" src="assets/XD.jpg" />
+    </a>
+    <div>
+   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
+    </div>
+    <em>Gebruikerservaringen ontwerpen, prototypen maken en delen</em>
     <br>
   </td>
   <td>

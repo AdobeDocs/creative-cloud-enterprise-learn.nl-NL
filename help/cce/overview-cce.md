@@ -4,7 +4,7 @@ description: Tutorials om u te helpen snel aan de slag te gaan met de Creative C
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
+source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 ![Creative Cloud Hero-afbeelding](../assets/CCEbanner.png)
 
 Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze zelfstudies helpen u nieuwe functies in Creative Cloud te leren - vanuit het perspectief van de onderneming.
-
 
 ## Klik om een productzelfstudie weer te geven (weergegeven in alfabetische volgorde)
 
@@ -316,11 +315,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="Taming-font-anxiety.md">
+   <a href="taming-type-anxiety.md">
       <img alt="Angst voor gamingtype" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="Taming-font-anxiety.md"><strong>Angst voor type games (PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>Angst voor type games (PDF)</strong></a>
     </div>
     <em>Leer hoe u meer dan 20.000 professioneel ontworpen lettertypen in Creative Cloud benadert en gebruikt</em>
     <br>

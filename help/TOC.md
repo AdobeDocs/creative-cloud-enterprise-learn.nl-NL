@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Zelfstudies en korte naslaggidsen met de focus op Creative Cloud voor ondernemingen weergeven
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '393'
 ht-degree: 9%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 9%
 # Zelfstudies voor Creative Cloud voor ondernemingen {#cce-learning-hub}
 
 + [Overzicht](overview.md)
-+ CCE {#cceoverview}
++ Creative Cloud voor ondernemingen {#cceoverview}
    + [Overzicht](cce/overview-cce.md)
    + Zelfstudies {#ccetutorials}
       + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
       + [CC-workflows verbeteren met CC Libraries](cce/cc-workflows-cc-libraries.md)
-      + [Angst voor games](cce/Taming-font-anxiety.md)
+      + [Angst voor games](cce/taming-type-anxiety.md)
       + [Creative Cloud-bibliotheken maken voor teams](cce/ccteamlibraries.md)
       + [Branding-assets delen met Creative Cloud Libraries voor teams](cce/sharecclibraries.md)
       + [Unieke composities maken met Adobe [!DNL Stock] en Photoshop voor iPad](cce/compositepsipad.md)
@@ -28,8 +28,8 @@ ht-degree: 9%
       + [Het alfabetsoep van grafische indelingen decoderen](cce/alphabetsoup.md)
       + [Probeer uw hand op Fresco op de iPad en iPhone](cce/frescoworkshop.md)
    + Snelle verwijzingshulplijnen {#ccerefguides}
-   + [Lijst met producten](quick-reference/overview-ref.md)
-+ [!DNL Stock] {#stockoverview}
+   + [Hulplijnen CCE](quick-reference/overview-ref.md)
++ [!DNL Adobe Stock] {#stockoverview}
    + [Overzicht](stock/overview-stock.md)
    + Zelfstudies {#stocktutorials}
       + [Adobe zoeken [!DNL Stock] licentiegeschiedenis](stock/searchstock.md)
@@ -55,19 +55,19 @@ ht-degree: 9%
       + [Een animatie op het laadscherm aanpassen met Adobe [!DNL Stock] en XD](stock/loadingscreen.md)
       + [Een Adobe aanpassen [!DNL Stock] presentatiesjabloon om er professioneel uit te zien](stock/presentationtemplate.md)
       + [De kleuren in een Adobe aanpassen [!DNL Stock] vectorillustratie](stock/customizecolors.md)
-+ 3D en VR {#3doverview}
++ Adobe 3D en VR {#3doverview}
    + [Overzicht](3di/overview-3di.md)
    + Zelfstudies {#3dtutorials}
       + [Tips en technieken voor het beheersen van 3D-belichting in CGI](3di/mastering3dlighting.md)
       + [Fotorealistische virtuele fotografie maken met 3D-rendering en -composities](3di/photorealistic.md)
       + [Pas een 3D-model aan en merk het op met [!DNL Dimension] en Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Video {#videooverview}
++ Adobe Video {#videooverview}
    + [Overzicht](dva/overview-dva.md)
    + Zelfstudies {#videotutorials}
       + [Video-revisie met Frame.io](dva/video-review-frame-io.md)
-   + Snelle verwijzingshulplijnen {#stockrefguides}
-      + [Handleidingen](dva/overview-dva-ref.md)
-+ XD {#xdoverview}
+   + Snelle verwijzingshulplijnen {#videorefguides}
+      + [Videohulplijnen](dva/overview-dva-ref.md)
++ Adobe XD {#xdoverview}
    + [Overzicht](xd/overview-xd.md)
    + Zelfstudies {#xdtutorials}
    + [Ga vertrouwd met [!UICONTROL Componenten] in Adobe XD](xd/components.md)
