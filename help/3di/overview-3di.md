@@ -4,9 +4,9 @@ description: Tutorials om u te helpen snel aan de slag te gaan met Adobe 3D en V
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Creative Cloud Hero-afbeelding](../assets/Dimenio.jpg)
 
-Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en belichting. [!DNL Dimension] maakt het eenvoudig om merkvisualisaties, illustraties, productmodellen, verpakkingsontwerpen en ander creatief werk te bouwen.
-
-## Klik om een Adobe 3D- en VR-zelfstudie te bekijken
+Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en belichting. [!DNL Dimension] maakt het eenvoudig om merkvisualisaties, illustraties, productmodellen, verpakkingsontwerpen en ander creatief werk te bouwen. Selecteer een afbeelding om een zelfstudie weer te geven.
 
 <table>
 <tr>
@@ -51,9 +49,7 @@ Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en 
     <em>Als je wilt zien hoe je producten eruitzien in de echte wereld, Adobe [!DNL Dimension] is uw startende app</em>
     <br>
   </td>
-</tr>
-   <tr>
- <td>
+  <td>
    <a href="mastering3dlighting.md">
       <img alt="Tips en technieken voor het beheersen van 3D-belichting in CGI" src="assets/Mastering3dlighting_1.gif" />
    </a>
@@ -63,6 +59,8 @@ Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en 
     <em>Leer meer over 3D-belichting en hoe u verschillende lichtomstandigheden kunt maken waarmee een door de computer gegenereerde scène en de weergave van objecten in deze scène volledig kunnen worden gewijzigd</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="Fotorealistische virtuele fotografie maken met 3D-rendering en -composities" src="assets/Photorealistic_TOC.png" />
@@ -81,6 +79,16 @@ Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en 
    <a href="3ddimensionstock.md"><strong>Pas een 3D-model aan en merk het op met [!DNL Dimension] en Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Pas een 3D-model aan en merk het op in [!DNL Dimension] met materialen, milieu-eigenschappen, belichting en fotografie, om fotorealistische afbeeldingen te maken voor elk ontwerpproject</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
     <br>
   </td>
 </tr>
