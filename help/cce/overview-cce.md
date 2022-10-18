@@ -4,7 +4,7 @@ description: Tutorials om u te helpen snel aan de slag te gaan met de Creative C
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
+source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -25,10 +25,10 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
  <td>
    <a href="acrobat-content-creators.md">
-      <img alt="Acrobat for Content Creators" src="assets/AcrobatforContentCreators.jpg" />
+      <img alt="Acrobat voor makers van inhoud" src="assets/AcrobatforContentCreators.jpg" />
    </a>
     <div>
-   <a href="acrobat-content-creators.md"><strong>Acrobat for Content Creators (PDF)</strong></a>
+   <a href="acrobat-content-creators.md"><strong>Acrobat for content creators (PDF)</strong></a>
     </div>
     <em>Meer informatie over de Acrobat-tools waarmee je creatieve workflows kunt stroomlijnen</em>
     <br>
