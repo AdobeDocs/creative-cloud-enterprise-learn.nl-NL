@@ -4,7 +4,7 @@ description: Tutorials om u te helpen snel aan de slag te gaan met de Creative C
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 079372e8ba0d139fc9b3fac171e8af62f580c483
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -141,7 +141,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="CC-workflows verbeteren met CC Libraries" src="assets/Improveccworkflowswithcclibraries.jpg" />
+      <img alt="CC-workflows verbeteren met CC Libraries" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>CC-workflows verbeteren met CC Libraries</strong></a>
@@ -316,7 +316,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Angst voor gamingtype" src="assets/TamingTypeAnxiety.jpg" />
+      <img alt="Angst voor gamingtype" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>Angst voor type games (PDF)</strong></a>
