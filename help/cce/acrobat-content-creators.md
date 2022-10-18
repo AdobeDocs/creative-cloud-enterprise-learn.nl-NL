@@ -4,9 +4,9 @@ description: Meer informatie over belangrijke tools in Adobe Acrobat die helpen 
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: e64a8848737b8fa2d8105b652368f9aa78063bed
+source-git-commit: eb08bfc60b0072022821260a9dd2015d416b27e4
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ Als contentmaker genereert u waarschijnlijk PDF en bekijkt u die PDF-bestanden v
 
 <br> 
 
-[![Afbeelding van eerste pagina van zelfstudie](assets/Acrobatforcontentcreators.png)](assets/AcrobatforContentCreators.pdf)
+[![Afbeelding van eerste pagina van zelfstudie](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](assets/AcrobatforContentCreators.pdf){target=&quot;blank&quot;}
