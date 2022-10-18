@@ -4,9 +4,9 @@ description: Leer hoe u meer dan 20.000 professioneel ontworpen lettertypen in C
 role: User
 level: Beginner, Intermediate
 thumb: KT-10963.jpg
-source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
+source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Een van de vele risico&#39;s van een Adobe Creative Cloud-lidmaatschap is gratis toegang tot meer dan 20.000 professioneel ontworpen en beheerde lettertypen van Adobe Fonts. Adobe Fonts, oorspronkelijk ook wel Typekit genoemd, is beschikbaar via één licentieovereenkomst die ontwerpers een onbeperkt creatief gebruik biedt voor persoonlijke of commerciële projecten.
 
-**Selecteer de onderstaande afbeelding om angst voor games te downloaden (PDF).**
+Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![Zelfstudie voor tekst](assets/TamingTypeAnxiety_400.jpg)](assets/TamingTypeAnxiety.pdf)
+[![Afbeelding van eerste pagina van zelfstudie](assets/TamingTypeAnxiety.jpg){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}
