@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Zelfstudies en korte naslaggidsen met de focus op Creative Cloud voor ondernemingen weergeven
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '396'
 ht-degree: 9%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 9%
 + [!DNL Adobe Stock] {#stockoverview}
    + [Overzicht](stock/overview-stock.md)
    + Zelfstudies {#stocktutorials}
+      + [Verbluffende digitale assets](stock/stunning-digital-assets.md)
       + [Adobe zoeken [!DNL Stock] licentiegeschiedenis](stock/searchstock.md)
       + [Voeg een handgetekende esthetiek toe aan Adobe [!DNL Stock] afbeeldingen](stock/handdrawn.md)
       + [Flitser toevoegen aan typografie met maskers en animatie](stock/flairtypography.md)
