@@ -4,9 +4,9 @@ description: Tutorials om u te helpen snel aan de slag te gaan met Adobe DVA-pro
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -20,18 +20,23 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
 <table>
 <tr>
  <td>
+   <a href="motion-graphics-templates.md">
+      <img alt="Sjablonen voor professionele bewegende beelden" src="assets/MORGTs.png" />
+   </a>
+    <div>
+   <a href="motion-graphics-templates.md"><strong>Sjablonen voor professionele bewegende beelden</strong></a>
+    </div>
+    <em>Sjablonen voor bewegende beelden (.mogrt) vormen een samenwerkingsvriendelijke en efficiënte manier om aanpasbare pakketten voor bewegende beelden te maken: titels, logo-animaties, minder derden, en deze te delen met redactieteams</em>
+    <br>
+  </td>
+  <td>
    <a href="video-review-frame-io.md">
       <img alt="Video-revisie met Frame-io" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
    <a href="video-review-frame-io.md"><strong>Video-revisie met Frame.io (PDF)</strong></a>
     </div>
-    <em>Ontdek hoe je met de Frame.io-extensie voor Adobe Premiere Pro assets kunt centraliseren en delen, realtime opmerkingen kunt ontvangen, revisies kunt bijhouden en snellere goedkeuringen kunt krijgen - zonder de tijdlijn te verlaten </em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
+    <em>Ontdek hoe je met de Frame.io-extensie voor Adobe Premiere Pro assets kunt centraliseren en delen, realtime opmerkingen kunt ontvangen, revisies kunt bijhouden en snellere goedkeuringen kunt krijgen - zonder de tijdlijn te verlaten</em>
     <br>
   </td>
   <td>

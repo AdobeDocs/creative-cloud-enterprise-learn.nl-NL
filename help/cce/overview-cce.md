@@ -4,9 +4,9 @@ description: Tutorials om u te helpen snel aan de slag te gaan met de Creative C
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1530'
 ht-degree: 0%
 
 ---
@@ -156,10 +156,10 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="CC-workflows verbeteren met CC Libraries (PDF)" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="CC-workflows verbeteren met CC Libraries" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>CC-workflows verbeteren met CC Libraries (PDF)</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>CC-workflows verbeteren met CC Libraries</strong></a>
     </div>
     <em>Leer hoe Creative Cloud Libraries ontwerpelementen bij elkaar houden - om projectconsistentie voor ontwerpers en teams te verzekeren</em>
     <br>
@@ -331,10 +331,10 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Angst voor type games (PDF)" src="assets/TamingTypeAnxiety.png" />
+      <img alt="Angst voor gamingtype" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
-   <a href="taming-type-anxiety.md"><strong>Angst voor type games (PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>Angst voor gamingtype</strong></a>
     </div>
     <em>Leer hoe u meer dan 20.000 professioneel ontworpen lettertypen in Creative Cloud benadert en gebruikt</em>
     <br>

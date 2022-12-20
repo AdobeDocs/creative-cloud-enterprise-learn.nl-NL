@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Zelfstudies en korte naslaggidsen met de focus op Creative Cloud voor ondernemingen weergeven
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '415'
 ht-degree: 9%
 
 ---
@@ -61,12 +61,14 @@ ht-degree: 9%
 + Adobe 3D en VR {#3doverview}
    + [Overzicht](3di/overview-3di.md)
    + Zelfstudies {#3dtutorials}
+      + [3D-ontwerp en -rendering](3di/substance-3d-stager.md)
       + [Tips en technieken voor het beheersen van 3D-belichting in CGI](3di/mastering3dlighting.md)
       + [Fotorealistische virtuele fotografie maken met 3D-rendering en -composities](3di/photorealistic.md)
       + [Pas een 3D-model aan en merk het op met [!DNL Dimension] en Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Adobe Video {#videooverview}
    + [Overzicht](dva/overview-dva.md)
    + Zelfstudies {#videotutorials}
+      + [Sjablonen voor professionele bewegende beelden](dva/motion-graphics-templates.md)
       + [Video-revisie met Frame.io](dva/video-review-frame-io.md)
    + Snelle verwijzingshulplijnen {#videorefguides}
       + [Videohulplijnen](dva/overview-dva-ref.md)
