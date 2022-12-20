@@ -4,9 +4,9 @@ description: Tutorials om u te helpen snel aan de slag te gaan met Adobe DVA-pro
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: a9ac2b3752113ae5ae722a091e8f1242de0273e7
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
       <img alt="Video-revisie met Frame-io" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
-   <a href="video-review-frame-io.md"><strong>Video-revisie met Frame.io (PDF)</strong></a>
+   <a href="video-review-frame-io.md"><strong>Video-revisie met Frame.io</strong></a>
     </div>
     <em>Ontdek hoe je met de Frame.io-extensie voor Adobe Premiere Pro assets kunt centraliseren en delen, realtime opmerkingen kunt ontvangen, revisies kunt bijhouden en snellere goedkeuringen kunt krijgen - zonder de tijdlijn te verlaten</em>
     <br>
