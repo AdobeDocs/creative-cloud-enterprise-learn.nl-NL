@@ -4,9 +4,9 @@ description: Tutorials om u te helpen snel aan de slag te gaan met de Creative C
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,26 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="adobe-express-content-that-stands-out.md">
+      <img alt="Adobe Express: Content die opvalt" src="assets/Adobe-Express-content-that-stands-out.png" />
+   </a>
+    <div>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Content die opvalt</strong></a>
+    </div>
+    <em> Creëer binnen enkele minuten prachtige graphics, webpagina’s en videoverhalen met Adobe Express</em>
+    <br>
+  </td>
+  <td>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
+      <img alt="Uw merk maken in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
+   </a>
+    <div>
+   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Uw merk maken in Adobe Spark (PDF)</strong></a>
+    </div>
+    <em>Met Adobe Spark kun je eenvoudig je merk definiëren</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
       <img alt="Een presentatie toevoegen aan uw Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
    </a>
@@ -83,11 +103,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Maak kennis met je nieuwe productieartiest: Adobe Spark Post (PDF)</strong></a>
     </div>
     <em>Adobe Spark leert van u terwijl u lay-outs maakt, kleuren definieert, illustraties importeert en elementen rangschikt in uw composities</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -214,6 +229,16 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <table style="table-layout:fixed">
 <tr>
  <td>
+   <a href="collaboration-the-future-of-creativity.md">
+      <img alt="Samenwerking: De toekomst van creativiteit" src="assets/Collaboration-The-Future-of-Creativity.png" />
+   </a>
+    <div>
+   <a href="collaboration-the-future-of-creativity.md"><strong>Samenwerking: De toekomst van creativiteit</strong></a>
+    </div>
+    <em>Een van de vele risico's van een Adobe Creative Cloud-lidmaatschap is gratis toegang tot meer dan 20.000 professioneel ontworpen en beheerde lettertypen van Adobe Fonts</em>
+    <br>
+  </td>
+  <td>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf">
       <img alt="Van Hand Lettering naar Illustrator via Creative Cloud" src="assets/FromHandLetteringtoIllustratorviaCreativeCloud.jpg" />
    </a>
@@ -231,16 +256,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Van Lightroom Web naar InDesign via Creative Cloud (PDF)</strong></a>
     </div>
     <em>Til je creativiteit van de camera naar het uiteindelijke ontwerp met Creative Cloud-bestanden en -bibliotheken</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>

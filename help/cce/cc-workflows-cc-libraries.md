@@ -4,7 +4,8 @@ description: Leer hoe Creative Cloud Libraries ontwerpelementen bij elkaar houde
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
+exl-id: 358e0681-b722-4a58-b1eb-0eb2c813d50f
+source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # CC-workflows verbeteren met CC Libraries
 
-Leer hoe Creative Cloud Libraries ontwerpelementen bij elkaar houden, zodat ontwerpers en teams in deze praktische tutorials consistent kunnen werken met projecten.
+Leer hoe Creative Cloud Libraries ontwerpelementen bij elkaar houden - en in deze praktische tutorials zorg je voor projectconsistentie voor ontwerpers en teams.
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
