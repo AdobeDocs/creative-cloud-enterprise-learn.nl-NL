@@ -4,9 +4,9 @@ description: Werken met het verlopen van serienummers voor Creative Cloud voor o
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -93,4 +93,4 @@ Voor alle volgende pogingen om Acrobat te starten, wordt de eindgebruiker gevraa
 Als u vragen hebt over het gebruik van de [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) of hebt u hulp nodig bij het migreren van serienummerimplementatie naar een benoemde gebruiker. U hebt een aantal opties:
 * Stuur een e-mail naar het Adobe Enterprise Onboarding-team - **entonb@adobe.com**
 * Open een ondersteuningsticket in [Admin Console](https://adminconsole.adobe.com/support)
-* Bereik uw Adobe Account Manager of Customer Success Manager
+* Bereik uw Adobe Account Team
