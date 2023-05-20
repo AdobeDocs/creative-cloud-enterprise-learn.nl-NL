@@ -31,7 +31,7 @@ Het proces voor het maken van een 3D-renderbewerking is nooit helemaal hetzelfde
 1. Objecten maken of ophalen
 1. Scèneverzameling
 1. De scène omvormen
-1. **Belichting**
+1. **Verlichting**
 1. Materiaal maken of toewijzen
 1. Renderen
 

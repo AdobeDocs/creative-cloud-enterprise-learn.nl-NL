@@ -7,7 +7,7 @@ exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 6%
+ht-degree: 23%
 
 ---
 
@@ -80,7 +80,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Online video's overal maken en delen</em>
+    <em>Creëer en deel overal online video’s</em>
     <br>
   </td>
 </tr>
@@ -151,7 +151,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <a href="photoshopipad.md"><strong>Photoshop op iPad</strong></a>
     </div>
-    <em>Bewerk, construeer en creëer prachtige afbeeldingen, graphics en kunstwerken op desktop en iPad</em>
+    <em>Prachtige afbeeldingen, illustraties en kunstwerken maken, bewerken en combineren op desktop en iPad</em>
     <br>
   </td>
   <td>
@@ -186,7 +186,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Creative Cloud desktop-app" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud Desktop-app</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud desktop-app</strong></a>
     </div>
     <em>De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!</em>
     <br>

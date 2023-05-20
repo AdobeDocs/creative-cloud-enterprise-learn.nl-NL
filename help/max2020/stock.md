@@ -1,5 +1,5 @@
 ---
-title: '"[!DNL Stock]"'
+title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] voor ondernemingen geeft creatieve teams toegang tot meer dan 200 miljoen afbeeldingen, video's, sjablonen, illustraties, audiobestanden en 3D-assets
 role: User
 level: Beginner, Intermediate

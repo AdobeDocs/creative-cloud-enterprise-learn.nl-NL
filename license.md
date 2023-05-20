@@ -2,12 +2,12 @@
 source-git-commit: f40eae6df76b779be9d338243ca4f19e0ab957db
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 # MIT-licentie
 
-© Copyright 2021 Adobe. all rights reserved.
+© Copyright 2021 Adobe. All rights reserved.
 
 Er wordt hierbij gratis toestemming verleend aan eenieder die een kopie van deze software en de bijbehorende documentatiebestanden (de &quot;Software&quot;) ontvangt, om zonder beperkingen in de Software te handelen, met inbegrip van de rechten om kopieën van de Software te gebruiken, te kopiëren, te wijzigen, samen te voegen, te publiceren, te distribueren, sublicentiëren en/of te verkopen, en om personen aan wie de Software wordt geleverd, toe te staan dit te doen, onder de volgende voorwaarden:
 

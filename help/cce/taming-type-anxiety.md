@@ -7,7 +7,7 @@ thumb: KT-10963.jpg
 exl-id: 376359d9-9eaf-4e8e-8b60-fae07fc69908
 source-git-commit: 4b8f03e9c38f0cf5b403db8da050dc339ed1311a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ Een van de vele risico&#39;s van een Adobe Creative Cloud-lidmaatschap is gratis
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![Afbeelding van eerste pagina van zelfstudie](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target=&quot;blank&quot;}
+[![Afbeelding van eerste pagina van zelfstudie](assets/TamingTypeAnxiety.png){&quot;width=680&quot;}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}

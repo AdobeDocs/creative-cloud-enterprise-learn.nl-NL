@@ -6,7 +6,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ In deze zelfstudie leert u hoe u:
 
 **Klik op Afbeelding om Leerontwerp te downloaden om PDF af te drukken**
 
-[![Leer hoe je kunt afdrukken](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![Ontwerpen leren afdrukken](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **Gepresenteerd door:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)

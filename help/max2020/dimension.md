@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Dimension]"'
-description: '"[!DNL Dimension] maakt het eenvoudig om merkvisualisaties, illustraties, productmodellen, verpakkingsontwerpen en ander creatief werk te bouwen"'
+title: "[!DNL Dimension]"
+description: "[!DNL Dimension] maakt het eenvoudig om merkvisualisaties, illustraties, productmodellen, verpakkingsontwerpen en ander creatief werk te bouwen"
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b

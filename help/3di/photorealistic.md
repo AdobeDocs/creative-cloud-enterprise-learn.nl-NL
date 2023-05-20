@@ -75,7 +75,7 @@ Plaats uw camera van 360° in het algemene midden van het gebied waar u zich op 
 
 ![Een panorama van 360 graden vastleggen met de Ricoh Theta](assets/Photorealistic_10.png)
 
-### Kleur
+### Color
 
 ![Een HDR-panorama van 360 graden van een kantoorruimte met een kleurgrafiek op de voorgrond](assets/Photorealistic_11.png)
 
