@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Zelfstudies en korte naslaggidsen met de focus op Creative Cloud voor ondernemingen weergeven
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,8 @@ ht-degree: 10%
       + [Probeer uw hand op Fresco op de iPad en iPhone](cce/frescoworkshop.md)
    + Snelle verwijzingshulplijnen {#ccerefguides}
       + [Hulplijnen CCE](quick-reference/overview-ref.md)
++ [!DNL Adobe Firefly] {#fireflyoverview}
+   + [Overzicht](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Overzicht](stock/overview-stock.md)
    + Zelfstudies {#stocktutorials}
