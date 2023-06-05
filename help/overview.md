@@ -4,9 +4,9 @@ description: Welkom bij de hub Creative Cloud for enterprise learning
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
+source-git-commit: 715226411355dce6411212f6d51043afc77998be
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 9%
 
 ---
@@ -32,6 +32,26 @@ Welkom bij de hub Creative Cloud for enterprise learning. Hier vind je een breed
     <br>
   </td>
   <td>
+    <a href="express/overview-express.md">
+      <img alt="Adobe Express" src="assets/Express.png" />
+    </a>
+    <div>
+   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+    </div>
+    <em>Een gebruiksvriendelijke creatieve tool, zonder ervaring</em>
+    <br>
+  </td>
+  <td>
+    <a href="firefly/overview-firefly.md">
+      <img alt="Adobe Firefly" src="assets/firefly.png" />
+    </a>
+    <div>
+   <a href="firefly/overview-firefly.md"><strong>Adobe Firefly</strong></a>
+    </div>
+    <em>De nieuwe familie van creatieve generatieve AI-modellen die naar Adobe-producten komen</em>
+    <br>
+  </td>
+  <td>
     <a href="stock/overview-stock.md">
       <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
@@ -41,6 +61,7 @@ Welkom bij de hub Creative Cloud for enterprise learning. Hier vind je een breed
     <em>Hoogwaardige digitale afbeeldingen, illustraties, video's, audio, sjablonen en meer</em>
     <br>
   </td>
+</tr>
   <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D en VR" src="assets/Dimenio.jpg" />
@@ -51,8 +72,6 @@ Welkom bij de hub Creative Cloud for enterprise learning. Hier vind je een breed
     <em>Maak fotorealistische 3D-afbeeldingen voor branding, productafbeeldingen en verpakkingsontwerp</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Adobe Video" src="assets/CCEbanner-DVA.png" />

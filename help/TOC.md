@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Zelfstudies en korte naslaggidsen met de focus op Creative Cloud voor ondernemingen weergeven
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
+source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '470'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,26 @@ ht-degree: 10%
       + [Probeer uw hand op Fresco op de iPad en iPhone](cce/frescoworkshop.md)
    + Snelle verwijzingshulplijnen {#ccerefguides}
       + [Hulplijnen CCE](quick-reference/overview-ref.md)
++ [!DNL Adobe Express] {#expressoverview}
+   + [Overzicht](express/overview-express.md)
+   + Zelfstudies {#expresstutorials}
+      + [Aan de slag met Adobe Express](express/get-started.md)
+      + [Adobe Express voor beginners](express/adobe-express-beginners.md)
+      + [Snel inspiratie opdoen](express/get-inspiration.md)
+      + [Sjablonen maken](express/create-templates.md)
+      + [Ontwerpelementen toevoegen](express/add-design-assets.md)
+      + [Objecten groeperen](express/group-objects.md)
+      + [Lagen selecteren en verplaatsen](express/layers.md)
+      + [Meerdere pagina&#39;s maken](express/multiple-pages.md)
+      + [Ongedaan maken en opnieuw uitvoeren](express/undo-redo.md)
+      + [CC-bibliotheken gebruiken](express/cc-libraries.md)
+      + [Uw merk toepassen](express/brand.md)
+      + [Integratie met Google Drive](express/google-drive.md)
+      + [Achtergrond verwijderen](express/remove-background.md)
+      + [Een uitsnede verfijnen](express/refine-cutout.md)
+      + [Teksteffecten gebruiken](express/text-effects.md)
+      + [Afbeeldingseffecten gebruiken](express/image-effects.md)
+      + [Curve tekst maken](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Overzicht](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
