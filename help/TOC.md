@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Zelfstudies en korte naslaggidsen met de focus op Creative Cloud voor ondernemingen weergeven
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
+source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 10%
+source-wordcount: '476'
+ht-degree: 9%
 
 ---
 
@@ -36,6 +36,8 @@ ht-degree: 10%
    + Zelfstudies {#expresstutorials}
       + [Aan de slag met Adobe Express](express/get-started.md)
       + [Adobe Express voor beginners](express/adobe-express-beginners.md)
+      + [Sociale berichten plannen](express/schedule.md)
+      + [Projectdeelnemers uitnodigen](express/collaborate.md)
       + [Snel inspiratie opdoen](express/get-inspiration.md)
       + [Sjablonen maken](express/create-templates.md)
       + [Ontwerpelementen toevoegen](express/add-design-assets.md)

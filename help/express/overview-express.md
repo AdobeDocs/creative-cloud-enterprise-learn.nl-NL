@@ -3,9 +3,9 @@ title: Adobe [!DNL Express] Overzicht
 description: Ga snel aan de slag op Adobe [!DNL Express]
 role: User
 level: Beginner
-source-git-commit: b443f7a315bb2239fcdde197d28af0d013d29851
+source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,18 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
       </a>
   </td>
   <td>
+      <a href="schedule.md">
+         <img alt="Sociale berichten plannen" src="assets/schedule.png" />
+      </a>
+  </td>
+  <td>
+   <a href="collaborate.md">
+      <img alt="Projectdeelnemers uitnodigen" src="assets/collaborate.png" />
+   </a>
+  </td>
+</tr>
+<tr>
+   <td>
       <a href="get-inspiration.md">
          <img alt="Snel inspiratie opdoen" src="assets/inspiration.png" />
       </a>
@@ -48,9 +60,7 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
       <img alt="Sjablonen maken" src="assets/templates.png" />
    </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="add-design-assets.md">
          <img alt="Ontwerpelementen toevoegen" src="assets/design-assets.png" />
       </a>
@@ -60,20 +70,19 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
          <img alt="Objecten groeperen" src="assets/group-objects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="layers.md">
          <img alt="Lagen selecteren en verplaatsen" src="assets/layers.png" />
       </a>
   </td>
   <td>
       <a href="multiple-pages.md">
-         <img alt="Meerdere pagina's maken" src="assets/multiple-pages.png" />
+         <img alt="Meerdere pagina&apos;s maken" src="assets/multiple-pages.png" />
       </a>
-      <div>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="undo-redo.md">
          <img alt="Ongedaan maken en opnieuw uitvoeren" src="assets/undo-redo.png" />
       </a>
@@ -83,7 +92,9 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
          <img alt="CC-bibliotheken gebruiken" src="assets/cc-libraries.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="brand.md">
          <img alt="Uw merk toepassen" src="assets/brand.png" />
       </a>
@@ -93,9 +104,7 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
          <img alt="Integratie met Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
-    <td>
+   <td>
       <a href="remove-background.md">
          <img alt="Achtergrond verwijderen" src="assets/background.png" />
       </a>
@@ -105,6 +114,7 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
          <img alt="Een uitsnede verfijnen" src="assets/cutouts.png" />
       </a>
   </td>
+</tr>
   <td>
       <a href="text-effects.md">
          <img alt="Teksteffecten gebruiken" src="assets/text-effects.png" />
@@ -115,21 +125,10 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
          <img alt="Afbeeldingseffecten gebruiken" src="assets/image-effects.png" />
       </a>
   </td>
-</tr>
   <td>
       <a href="create-curved-text.md">
          <img alt="Curve tekst maken" src="assets/curved-text.png" />
       </a>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
