@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D-belichting, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
+source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
 workflow-type: tm+mt
-source-wordcount: '2739'
+source-wordcount: '2733'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Leer meer over 3D-belichting en hoe u verschillende lichtomstandigheden kunt mak
 
 We zien de wereld om ons heen met onze zintuigen: we horen, voelen, ruiken, zien. We kunnen zien omdat onze ogen informatie oppikken die ons wordt gebracht door elementaire deeltjes die fotonen worden genoemd. Deze informatie wordt verwerkt door onze hersenen om een beeld te produceren. Wat we interpreteren als een objectkleur, glans, transparantie of metaalkwaliteit zijn allemaal producten van de interactie tussen de fotonen en het oppervlak van het object.
 
-Lichtmechanica in een door de computer gegenereerde 3D-scène volgt hetzelfde natuurlijke principe van fotonscattering, via een proces dat [raytracering](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Hiermee stuitert u vormen af en communiceert u met de materialen ervan. Zo definieert u in feite hoe objecten in de uiteindelijke afbeelding worden weergegeven. Lichten geven de dimensionaliteit weer van alles wat in een 3D-scène bestaat.
+Lichtmechanica in een door de computer gegenereerde 3D-scène volgt hetzelfde natuurlijke principe van fotonscattering, via een proces dat raytracering wordt genoemd. Hiermee stuitert u vormen af en communiceert u met de materialen ervan. Zo definieert u in feite hoe objecten in de uiteindelijke afbeelding worden weergegeven. Lichten geven de dimensionaliteit weer van alles wat in een 3D-scène bestaat.
 
 Sommige materialen zijn gevoeliger voor belichtingsomstandigheden dan andere. Neem bijvoorbeeld metalen: een chroomobject reflecteert alles om het object heen . Als een licht wordt verplaatst, helderder of groter wordt, is al die informatie direct zichtbaar op het chroomoppervlak in bijna spiegelend detail, zodat kan het volledig verschillend van één lichtvoorwaarde aan andere lijken.
 
@@ -39,11 +39,11 @@ Wanneer u aan de verlichtingsfase komt, is het ideaal om uw lichten op te zetten
 
 ![CGI-woonkamer geeft vergelijking met neutraal grijs matte-materiaal aan de linkerkant in vergelijking met voltooide materialen aan de rechterkant](assets/Mastering3dlighting_2.jpg)
 
-Het is het beste om één voor één aan de lichten te werken. Het actieve licht moet het enige zijn dat zichtbaar is in de scène, terwijl alle andere lichten tijdelijk moeten worden uitgeschakeld. Op deze manier kunt u zien hoe een bepaald licht de scène beïnvloedt en dat wijzigen door te werken aan de eigenschappen, zoals de positie, de richting, de intensiteit, enzovoort.
+Het is het beste om één voor één aan de lichten te werken. Het actieve licht moet het enige zijn dat zichtbaar is in de scène, terwijl alle andere lichten tijdelijk moeten worden uitgeschakeld. Op deze manier kun je zien hoe een specifiek licht de scène beïnvloedt, en dat veranderen door te werken aan de eigenschappen ervan, zoals de positie, de richting, de intensiteit, enzovoort.
 
 ![Voorbeeld van drie lichten die een 3D-automodel afzonderlijk belichten en alle drie samen werken](assets/Mastering3dlighting_3.gif)
 
-Een andere handige truc is om een bol te maken met glanzend metaal (een chroom of een spiegel). Deze &#39;spiegelbal&#39; reflecteert in feite de hele scène eromheen, zodat je gemakkelijk de positie, richting of grootte van het licht kunt bepalen. Als de omgeving licht doet, kunt u de reflectie zien in de spiegelbal, zodat u de oriëntatie in de ruimte kunt instellen.
+Een andere handige truc is om een bol te maken met glanzend metaal (een chroom of een spiegel). Deze &#39;spiegelbal&#39; reflecteert in feite de hele scène eromheen, zodat je gemakkelijk de positie, richting of grootte van het licht kunt bepalen. In het geval van de omgevingslichten kun je de reflectie zien in de spiegelbal, wat helpt om de oriëntatie in de ruimte in te stellen.
 
 ![Een spiegelbal (bol met metallische structuur) gebruiken om het omgevingslicht in een 3D-scène te zien en te oriënteren](assets/Mastering3dlighting_4.gif)
 
@@ -91,7 +91,7 @@ U kunt de kleur en de intensiteit van de richtingslichten wijzigen en de vorm va
 
 ![De vorm van een gericht licht wijzigen in Adobe [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
 
-Als u de lichtbron kleiner maakt dan het object, worden de schaduwen scherper met een scherpere omtrek, omdat de stralen niet voorbij het verlichte object kunnen komen. Grotere lichtbronnen produceren zachtere schaduwen, omdat in dit geval de stralen uit alle zijden van het object komen (rood gemarkeerd in de afbeelding hieronder), waardoor een array van schaduwen ontstaat. Deze schaduwen worden verzacht door de stralen die uit de tegenovergestelde richting komen.
+Als u de lichtbron kleiner maakt dan het object, worden de schaduwen scherper, met een scherpere omtrek, omdat de stralen niet voorbij het verlichte object kunnen komen. Grotere lichtbronnen produceren zachtere schaduwen, omdat in dit geval de stralen uit alle zijden van het object komen (rood gemarkeerd in de afbeelding hieronder), waardoor een array van schaduwen ontstaat. Deze schaduwen worden verzacht door de stralen die uit de tegenovergestelde richting komen.
 
 ![Diagram dat het effect illustreert van de intensiteit, richting en grootte van de belichting op de manier waarop een 3D-object wordt belicht en de schaduw die het werpt](assets/Mastering3dlighting_13.jpg)
 
@@ -147,7 +147,7 @@ Deze instelling bestaat uit drie lichten:
 
    ![Voorbeeld van een velglicht dat een 3D-hoofdtelefoonmodel belicht](assets/Mastering3dlighting_23.jpg)
 
-1. **Vullicht:** minder intensief en als u donkere gebieden wilt vullen, wordt dit gebruikt voor gebieden die de vorige twee lichten niet bereiken.
+1. **Vullicht:** minder intensief en als aanvulling op donkere gebieden, wordt dit gebruikt voor gebieden die de vorige twee lichten niet bereiken.
 
    ![Voorbeeld van een vullicht dat een 3D-hoofdtelefoonmodel belicht](assets/Mastering3dlighting_24.jpg)
 
