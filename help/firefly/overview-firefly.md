@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] Overzicht
 description: Ga snel aan de slag op Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
+source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-Firefly is de nieuwe productreeks creatieve generatieve AI-modellen die producten van de Adobe bereiken, waarbij de nadruk in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te identificeren, te creëren en te communiceren, terwijl het tegelijkertijd aanzienlijk verbetert.
+Ten vijfde, de nieuwe productreeks creatieve generatieve AI-modellen die naar Adobe-producten komen, waarbij de focus in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te bepalen, te maken en te communiceren, terwijl je tegelijkertijd de creatieve workflows aanzienlijk verbetert.
 
 <br> 
 
@@ -52,6 +52,11 @@ Firefly is de nieuwe productreeks creatieve generatieve AI-modellen die producte
       <a href="webinar-experimenting.md">
          <img alt="Experimenteren met Adobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
+      <div>
+      <a href="webinar-experimenting.md"><strong>Experimenteren met webinar over Fireflys</strong></a>
+      </div>
+      <em>Join Howard Pinsky duikt in de bèta van de Firefly in dit webinar</em>
+      <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
