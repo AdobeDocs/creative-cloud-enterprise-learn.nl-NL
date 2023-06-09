@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] Overzicht
 description: Ga snel aan de slag op Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 7299bb82c2f481aeadee348d262a136a3f9945b5
+source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-Ten vijfde, de nieuwe productreeks creatieve generatieve AI-modellen die naar Adobe-producten komen, waarbij de focus in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te identificeren, te creëren en te communiceren, terwijl het tegelijkertijd aanzienlijk verbetert.
+Firefly is de nieuwe productreeks creatieve generatieve AI-modellen die producten van de Adobe bereiken, waarbij de nadruk in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te identificeren, te creëren en te communiceren, terwijl het tegelijkertijd aanzienlijk verbetert.
 
 <br> 
 
@@ -45,13 +45,13 @@ Ten vijfde, de nieuwe productreeks creatieve generatieve AI-modellen die naar Ad
       <div>
       <a href="https://www.adobe.com/sensei/generative-ai/firefly.html" target="_blank"><strong>Firefly ontdekken in Photoshop</strong></a>
       </div>
-      <em>Firefre is nu in Photoshop en de manier waarop je creëert zal nooit meer hetzelfde zijn</em>
+      <em>Firefly is nu in Photoshop en de manier waarop je creëert zal nooit hetzelfde zijn</em>
       <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="webinar-experimenting.md">
+         <img alt="Experimenteren met Adobe Firefly" src="assets/webinar-experimenting.png" />
+      </a>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
