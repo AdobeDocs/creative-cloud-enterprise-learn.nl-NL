@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Zelfstudies en korte naslaggidsen met de focus op Creative Cloud voor ondernemingen weergeven
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 579283730f25cc367a97810a34e2f883659b4d9b
+source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '492'
 ht-degree: 9%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 9%
       + [Curve tekst maken](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Overzicht](firefly/overview-firefly.md)
+   + [Zelfstudies] {#firefly-tutorials}
+      + [Generatieve vulling in Photoshop](firefly/generative-fill.md)
    + Webinars {#firefly-webinars}
       + [Experimenteren met Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
