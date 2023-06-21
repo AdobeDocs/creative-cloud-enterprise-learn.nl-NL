@@ -3,9 +3,10 @@ title: Adobe [!DNL Firefly] Overzicht
 description: Ga snel aan de slag op Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
+exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
+source-git-commit: 36effc4e0896ef572130bf3fee4b5059c481f23c
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 ![Firefly Hero Image](../assets/firefly.png)
 
-Ten vijfde, de nieuwe productreeks creatieve generatieve AI-modellen die naar Adobe-producten komen, waarbij de focus in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te identificeren, te creëren en te communiceren, terwijl het tegelijkertijd aanzienlijk verbetert.
+Firefly is de nieuwe productreeks creatieve generatieve AI-modellen die producten van de Adobe bereiken, waarbij de nadruk in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te identificeren, te creëren en te communiceren, terwijl het tegelijkertijd aanzienlijk verbetert.
 
 <br> 
 
@@ -30,10 +31,10 @@ Ten vijfde, de nieuwe productreeks creatieve generatieve AI-modellen die naar Ad
 <tr>
    <td>
       <a href="https://firefly.adobe.com/" target="_blank">
-         <img alt="Adobe Firefly (bèta)" src="assets/firefly-beta.png" />
+         <img alt="Adobe Firefly (Bèta)" src="assets/firefly-beta.png" />
       </a>
       <div>
-      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly (bèta)</strong></a>
+      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly (Bèta)</strong></a>
       </div>
       <em>Word lid van het Adobe Firefly Beta-programma.</em>
       <br>
@@ -69,4 +70,30 @@ Ten vijfde, de nieuwe productreeks creatieve generatieve AI-modellen die naar Ad
       <br>
   </td>
 </tr>
+<tr>
+   <td>
+      <a href="web-banner-ad.md">
+         <img alt="Banner en variaties in Photoshop" src="assets/banner-ad-variations.png" />
+      </a>
+      <div>
+      <a href="web-banner-ad.md"><strong>Banner en variaties in Photoshop</strong></a>
+      </div>
+      <em>Leer hoe u Generative Fill kunt gebruiken om het creëren van webadvertentiebanners te versnellen</em>
+      <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </table>
