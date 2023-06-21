@@ -4,7 +4,7 @@ description: Ga snel aan de slag op Adobe [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: f2885238c7a57953b176881f352afd541d9ce7b7
+source-git-commit: aa256d67dcc64f9bc96ccb2cb6bf0c4059a81d20
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -51,12 +51,12 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
   </td>
 </tr>
 <tr>
-  <td>
+ <td>
       <a href="schedule.md">
          <img alt="Sociale berichten plannen" src="assets/schedule.png" />
       </a>
   </td>
- <td>
+   <td>
    <a href="collaborate.md">
       <img alt="Projectdeelnemers uitnodigen" src="assets/collaborate.png" />
    </a>
@@ -95,12 +95,12 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
   </td>
 </tr>
 <tr>
-  <td>
+   <td>
       <a href="undo-redo.md">
          <img alt="Ongedaan maken en opnieuw uitvoeren" src="assets/undo-redo.png" />
       </a>
-  </td>
- <td>
+   </td>
+  <td>
       <a href="cc-libraries.md">
          <img alt="CC-bibliotheken gebruiken" src="assets/cc-libraries.png" />
       </a>
@@ -116,12 +116,13 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
       </a>
   </td>
 </tr>
-  <td>
+<tr>
+   <td>
       <a href="remove-background.md">
          <img alt="Achtergrond verwijderen" src="assets/background.png" />
       </a>
   </td>
-  <td>
+   <td>
       <a href="refine-cutout.md">
          <img alt="Een uitsnede verfijnen" src="assets/cutouts.png" />
       </a>
@@ -138,13 +139,11 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
   </td>
 </tr>
 <tr>
-
-<td>
-      <a href="create-curved-text.md">
-         <img alt="Curve tekst maken" src="assets/curved-text.png" />
-      </a>
-  </td>
   <td>
+   <a href="create-curved-text.md">
+      <img alt="Curve tekst maken" src="assets/curved-text.png" />
+   </a>
+  </td>
   <td>
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
