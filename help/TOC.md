@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Zelfstudies en korte naslaggidsen met de focus op Creative Cloud voor ondernemingen weergeven
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: e0d7d7951b1a6faadfe77151952e68eedda8bf4e
+source-git-commit: b9d3493d2596d724970e79e0fa0920bd110fb59a
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '500'
 ht-degree: 9%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 9%
       + [Aan de slag met Adobe Express](express/get-started.md)
       + [Adobe Express voor beginners](express/adobe-express-beginners.md)
       + [Sociale posters met Firefly maken](express/create-social-posters.md)
+      + [Webinar-posters met Firefly maken](express/create-webinar-poster.md)
       + [Sociale berichten plannen](express/schedule.md)
       + [Projectdeelnemers uitnodigen](express/collaborate.md)
       + [Snel inspiratie opdoen](express/get-inspiration.md)
