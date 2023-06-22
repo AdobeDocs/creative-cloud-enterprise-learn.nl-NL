@@ -4,18 +4,18 @@ description: Ga snel aan de slag op Adobe [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
+source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] overzicht
 
-![Firefly Hero Image](../assets/firefly.png)
+![Firefly hoofdafbeelding](../assets/firefly.png)
 
-Firefly is de nieuwe productreeks creatieve generatieve AI-modellen die producten van de Adobe bereiken, waarbij de nadruk in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te bepalen, te maken en te communiceren, terwijl je tegelijkertijd de creatieve workflows aanzienlijk verbetert.
+Ten vijfde, de nieuwe productreeks creatieve generatieve AI-modellen die naar Adobe-producten komen, waarbij de focus in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te bepalen, te maken en te communiceren, terwijl je tegelijkertijd de creatieve workflows aanzienlijk verbetert.
 
 <br> 
 
@@ -56,7 +56,7 @@ Firefly is de nieuwe productreeks creatieve generatieve AI-modellen die producte
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Generatieve vulling in Photoshop" src="assets/generative-fill.png" />
       </a>
@@ -67,9 +67,9 @@ Firefly is de nieuwe productreeks creatieve generatieve AI-modellen die producte
       </a>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="text-effects.md">
+         <img alt="Teksteffecten" src="assets/text-effects.png" />
+      </a>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
