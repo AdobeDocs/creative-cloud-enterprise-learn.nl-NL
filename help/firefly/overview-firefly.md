@@ -3,19 +3,20 @@ title: Adobe [!DNL Firefly] Overzicht
 description: Ga snel aan de slag op Adobe [!DNL Firefly]
 role: User
 level: Beginner
+jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
+source-git-commit: 83825707e568f91dab3ead2cfe7f02c7c78d0abf
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] overzicht
 
-![Firefly hoofdafbeelding](../assets/firefly.png)
+![Firefly Hero Image](../assets/firefly.png)
 
-Ten vijfde, de nieuwe productreeks creatieve generatieve AI-modellen die naar Adobe-producten komen, waarbij de focus in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te bepalen, te maken en te communiceren, terwijl je tegelijkertijd de creatieve workflows aanzienlijk verbetert.
+Ten vijfde, de nieuwe productreeks creatieve generatieve AI-modellen die naar Adobe-producten komen, waarbij de focus in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te identificeren, te creëren en te communiceren, terwijl het tegelijkertijd aanzienlijk verbetert.
 
 <br> 
 
@@ -72,9 +73,9 @@ Ten vijfde, de nieuwe productreeks creatieve generatieve AI-modellen die naar Ad
       </a>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-recolor.md">
+         <img alt="Generatief opnieuw kleuren in Illustrator" src="assets/firefly-recolor.png" />
+      </a>
   </td>
 </tr>
 </table>
