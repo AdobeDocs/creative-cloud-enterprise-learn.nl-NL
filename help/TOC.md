@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud voor ondernemingen
 user-guide-description: Zelfstudies en korte naslaggidsen met de focus op Creative Cloud voor ondernemingen weergeven
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 15ead51dd12bd972513ddabdfac1730484558b81
+source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '516'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 9%
       + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
       + [CC-workflows verbeteren met CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Angst voor games](cce/taming-type-anxiety.md)
-      + [Adobe Express: Content die opvalt](cce/adobe-express-content-that-stands-out.md)
+      + [Adobe Express: Content die eruit springt](cce/adobe-express-content-that-stands-out.md)
       + [Samenwerking: De toekomst van creativiteit](cce/collaboration-the-future-of-creativity.md)
       + [Creative Cloud-bibliotheken maken voor teams](cce/ccteamlibraries.md)
       + [Branding-assets delen met Creative Cloud Libraries voor teams](cce/sharecclibraries.md)
@@ -30,12 +30,13 @@ ht-degree: 9%
       + [Het alfabetsoep van grafische indelingen decoderen](cce/alphabetsoup.md)
       + [Probeer uw hand op Fresco op de iPad en iPhone](cce/frescoworkshop.md)
    + Snelle verwijzingshulplijnen {#ccerefguides}
-      + [Hulplijnen CCE](quick-reference/overview-ref.md)
+      + [Hulplijnen voor CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [Overzicht](express/overview-express.md)
    + Zelfstudies {#expresstutorials}
       + [Aan de slag met Adobe Express](express/get-started.md)
       + [Adobe Express voor beginners](express/adobe-express-beginners.md)
+      + [Grafische inhoud voor blogs met Firefly maken](express/create-blog-graphics.md)
       + [Sociale posters met Firefly maken](express/create-social-posters.md)
       + [Webinar-posters met Firefly maken](express/create-webinar-poster.md)
       + [Sociale berichten plannen](express/schedule.md)
@@ -60,7 +61,7 @@ ht-degree: 9%
    + Zelfstudies {#firefly-tutorials}
       + [Overzicht van de Adobe Firefly](firefly/overview-of-firefly.md)
       + [Banner en variaties in [!DNL Photoshop]](firefly/web-banner-ad.md)
-      + [Generieke vulling in [!DNL Photoshop]](firefly/generative-fill.md)
+      + [Generatieve invulling in [!DNL Photoshop]](firefly/generative-fill.md)
       + [Teksteffecten](firefly/text-effects.md)
       + [Generatief opnieuw kleuren in [!DNL Illustrator]](firefly/generative-recolor.md)
    + Webinars {#firefly-webinars}
@@ -70,7 +71,7 @@ ht-degree: 9%
    + Zelfstudies {#stocktutorials}
       + [Verbluffende digitale assets](stock/stunning-digital-assets.md)
       + [Adobe zoeken [!DNL Stock] licentiegeschiedenis](stock/searchstock.md)
-      + [Voeg een handgetekende esthetiek toe aan Adobe [!DNL Stock] afbeeldingen](stock/handdrawn.md)
+      + [Voeg een met de hand getekend estheticum toe aan Adobe [!DNL Stock] afbeeldingen](stock/handdrawn.md)
       + [Flitser toevoegen aan typografie met maskers en animatie](stock/flairtypography.md)
       + [Een Adobe animeren [!DNL Stock] vectorillustratie in Photoshop](stock/animatevector.md)
       + [Beginnen met uw jaarverslag met een video die is gemaakt met Adobe [!DNL Stock] en Spark Video](stock/annualreport.md)
@@ -85,7 +86,7 @@ ht-degree: 9%
       + [Een interactieve productconfigurator maken met Adobe [!DNL Stock]](stock/productconfigurator.md)
       + [Een interactieve toeristische foto maken met Adobe [!DNL Stock] en XD](stock/interactivetourismphoto.md)
       + [Animaties maken voor e-mail met Adobe [!DNL Stock] en Photoshop](stock/animationemail.md)
-      + [Creëer coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets](stock/brandgradients.md)
+      + [Maak coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets](stock/brandgradients.md)
       + [Maak aansprekende webafbeeldingen door Adobe te combineren [!DNL Stock] afbeeldingen met CSS](stock/webgraphics.md)
       + [Creëer in een mum van tijd inspirerende stemmingsborden met Adobe [!DNL Stock]](stock/moodboard.md)
       + [Maak realistische fotocomposities met Adobe [!DNL Stock] afbeeldingen](stock/realisticcomposite.md)
@@ -112,7 +113,7 @@ ht-degree: 9%
    + [Ga vertrouwd met [!UICONTROL Componenten] in Adobe XD](xd/components.md)
 + Implementeren en beheren {#deploy}
    + [Overzicht](deploy/overview-deploy.md)
-   + [Verlopen serienummer](deploy/cceserial.md)
+   + [Vervaldatum serienummer](deploy/cceserial.md)
    + [Gebruikerslicenties op naam](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [Overzicht](max/overview-max.md)
