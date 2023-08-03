@@ -1,11 +1,11 @@
 ---
 title: Creëer recruiting en on-boarding content met Firefly
-description: Leer hoe je unieke illustraties maakt voor werving en onboarding van medewerkers
+description: Leer hoe je met Text to Image, aangedreven door Adobe Firefly, in Adobe Express unieke illustraties maakt voor werving en onboardingcontent voor medewerkers
 role: User
 level: Beginner
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '90'
 ht-degree: 3%
 
 ---
