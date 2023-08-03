@@ -4,10 +4,10 @@ description: Welkom bij de hub Creative Cloud for enterprise learning
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 2d9140f3143aa8ff3fe2ec940e32930441fbdc5e
+source-git-commit: bb4661c032e0c39218f075502bb6224dc41574b5
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 9%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 
@@ -23,84 +23,44 @@ Welkom bij de hub Creative Cloud for enterprise learning. Hier vind je een breed
 <tr>
   <td>
     <a href="cce/overview-cce.md">
-      <img alt="Creative Cloud voor ondernemingen" src="assets/CCEbanner.png" />
+      <img alt="Creative Cloud voor ondernemingen" src="assets/CCecard.png" />
     </a>
-    <div>
-   <a href="cce/overview-cce.md"><strong>Creative Cloud voor ondernemingen</strong></a>
-    </div>
-    <em>Meer informatie over nieuwe functies in de nieuwste release van Creative Cloud—vanuit het perspectief van een onderneming</em>
-    <br>
   </td>
   <td>
     <a href="express/overview-express.md">
-      <img alt="Adobe Express" src="assets/Express.png" />
+      <img alt="Adobe Express" src="assets/Expresscard.png" />
     </a>
-    <div>
-   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
-    </div>
-    <em>Een gebruiksvriendelijke creatieve tool, zonder ervaring</em>
-    <br>
   </td>
   <td>
     <a href="firefly/overview-firefly.md">
-      <img alt="Adobe Firefly" src="assets/firefly.png" />
+      <img alt="Adobe Firefly" src="assets/Fireflycard.png" />
     </a>
-    <div>
-   <a href="firefly/overview-firefly.md"><strong>Adobe Firefly</strong></a>
-    </div>
-    <em>De nieuwe familie van creatieve generatieve AI-modellen die naar Adobe-producten komen</em>
-    <br>
   </td>
   <td>
     <a href="stock/overview-stock.md">
-      <img alt="Adobe Stock" src="assets/Stock.jpg" />
+      <img alt="Adobe Stock" src="assets/Stockcard.png" />
     </a>
-    <div>
-   <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
-    </div>
-    <em>Hoogwaardige digitale afbeeldingen, illustraties, video's, audio, sjablonen en meer</em>
-    <br>
   </td>
 </tr>
   <td>
    <a href="3di/overview-3di.md">
-      <img alt="Adobe 3D en VR" src="assets/Dimenio.jpg" />
+      <img alt="Adobe 3D en VR" src="assets/3Dcard.png" />
     </a>
-    <div>
-   <a href="3di/overview-3di.md"><strong>Adobe 3D en VR</strong></a>
-    </div>
-    <em>Maak fotorealistische 3D-afbeeldingen voor branding, productafbeeldingen en verpakkingsontwerp</em>
-    <br>
   </td>
   <td>
   <a href="dva/overview-dva.md">
-      <img alt="Adobe Video" src="assets/CCEbanner-DVA.png" />
+      <img alt="Adobe Video" src="assets/Videocard.png" />
     </a>
-    <div>
-   <a href="dva/overview-dva.md"><strong>Adobe Video</strong></a>
-    </div>
-    <em>Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewegende beelden, visuele effecten, animatie en meer</em>
-    <br>
   </td>
   <td>
     <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
+      <img alt="Adobe XD" src="assets/XDcard.png" />
     </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>Gebruikerservaringen ontwerpen, prototypen maken en delen</em>
-    <br>
   </td>
   <td>
     <a href="max/overview-max.md">
-      <img alt="MAX 2020 — de Enterprise Sessions" src="assets/MAX.jpg" />
+      <img alt="Adobe MAX" src="assets/Maxcard.png" />
     </a>
-    <div>
-   <a href="max/overview-max.md"><strong>MAX 2020 — de Enterprise Sessions</strong></a>
-    </div>
-    <em>Meer informatie over de MAX 2020 Enterprise Sessions</em>
-    <br>
   </td>
 </tr>
 </table>
