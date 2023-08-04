@@ -1,10 +1,11 @@
 ---
 title: MAX 2020-Tutorials
 description: Deze zelfstudies helpen u nieuwe functies te leren in de 2021-versie van Creative Cloud, vanuit het perspectief van de onderneming
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 23%
@@ -178,7 +179,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <a href="aem.md"><strong>AEM Assets &amp; Asset Link</strong></a>
     </div>
-    <em>Digital asset management van de volgende generatie</em>
+    <em>Digitaal assetmanagement van de volgende generatie</em>
     <br>
   </td>
   <td>
@@ -231,7 +232,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 </tr>
 </table>
 
-### Hands-on project: Uw eigen gezichtsmasker maken
+### Hands-on project: Maak uw eigen gezichtsmasker
 
 <table style="table-layout:fixed">
 <tr>

@@ -1,10 +1,11 @@
 ---
 title: Fresco
 description: Adobe Fresco is een platformonafhankelijke app voor het maken van tekeningen en schilderijen met behulp van penseelgebaseerde methoden waarbij vector- en rasterworkflows worden gecombineerd met clouddocumenten
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -62,7 +63,7 @@ In deze zelfstudie leert u hoe u:
 * Overal creëren met de nieuwe Fresco-app voor iPhone
 * Uw werk exporteren naar verschillende indelingen voor gebruik in andere mobiele apps en desktopapps
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Liz Tanonis, Solutions Consultant (Digital Media)
 
 ## Gestructureerde illustratie maken - Fresco naar Illustrator (4:10) {#tutorial2}
@@ -77,7 +78,7 @@ In deze zelfstudie leert u hoe u:
 * Het gereedschap Afbeeldingen overtrekken in Illustrator gebruiken om illustraties om te zetten in vectoren
 * Met de hand gemaakte structuren toepassen op vectorillustraties in Illustrator
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Liz Tanonis, Solutions Consultant (Digital Media)
 
 ![Fresco-logo](../assets/fr_appicon_96.png)

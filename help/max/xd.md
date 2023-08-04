@@ -1,10 +1,11 @@
 ---
 title: XD
 description: Adobe XD is een tool voor het ontwerpen en prototypen van gebruikerservaringen voor het ontwerpen van websites, apps, spraakinterfaces, games en andere soorten digitale ervaringen.
+feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%
@@ -119,7 +120,7 @@ In deze zelfstudie leert u hoe u:
 * Wijzigingen aanbrengen in een hoofdbroncomponent en deze wijzigingen worden automatisch doorgevoerd in alle instanties van die component
 * Gebruik componenten voor consistentie, tijdbesparing, minder klikken
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 ## Een herhalingsraster maken en vullen (2:57) {#tutorial2}
@@ -134,7 +135,7 @@ In deze zelfstudie leert u hoe u:
 * Importeer echte content en data en XD plaatst alle afbeeldingen en tekst op een magische manier op je raster
 * Breng eenmalig wijzigingen aan en pas deze toe waar u wilt, in elke richting
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 ## Werken met stapels (5:33) {#tutorial3}
@@ -148,7 +149,7 @@ In deze zelfstudie leert u hoe u:
 * Zorg dat de uitlijning en tussenruimte tussen objecten op uw canvas behouden blijven, zelfs als uw ontwerp verandert
 * Nieuwe objecten invoegen of objecten in een stapel opnieuw ordenen en alles automatisch aanpassen
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 ## Een prototype maken: ankerkoppelingen en scrollgroepen (9:55) {#tutorial4}
@@ -163,7 +164,7 @@ In deze zelfstudie leert u hoe u:
 * Maak activiteitenfeeds, afbeeldingscarrousels, productlijsten en meer door gebieden te definiëren die onafhankelijk van de rest van je ontwerpen schuiven
 * Groepen maken die verticaal, horizontaal of beide schuiven
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 ## Een prototype maken: interactieve componentstatussen (8:55) {#tutorial5}
@@ -177,7 +178,7 @@ In deze zelfstudie leert u hoe u:
 * Creëer een niet-lineaire interactieve en geanimeerde gebruikerservaring zonder extra tekengebieden
 * Auteur meerdere prototype- of interactiestromen in één XD-document en publiceer unieke deelbare koppelingen voor elke flow
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 ## E-mail - Een herhalingsraster maken en vullen (4:45) {#tutorial6}
@@ -192,7 +193,7 @@ In deze zelfstudie leert u hoe u:
 * Importeer echte content en data en XD plaatst alle afbeeldingen en tekst op een magische manier op je raster
 * Breng eenmalig wijzigingen aan en pas deze toe waar u wilt, in elke richting
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Victoria Torres, Solutions Consultant (Digital Media)
 
 ## E-mail - Werken met stapels (3:38) {#tutorial7}
@@ -206,10 +207,10 @@ In deze zelfstudie leert u hoe u:
 * Zorg dat de uitlijning en tussenruimte tussen objecten op uw canvas behouden blijven, zelfs als uw ontwerp verandert
 * Nieuwe objecten invoegen of objecten in een stapel opnieuw ordenen en alles automatisch aanpassen
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Victoria Torres, Solutions Consultant (Digital Media)
 
-![XD](../assets/xd_appicon_96.png)
+![XD logo](../assets/xd_appicon_96.png)
 
 **XD bronnen**
 

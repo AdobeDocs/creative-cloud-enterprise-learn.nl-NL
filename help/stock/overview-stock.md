@@ -3,8 +3,9 @@ title: Adobe [!DNL Stock] zelfstudies
 description: Tutorials om u te helpen snel aan de slag te gaan met Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
+jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '1242'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 ![Creative Cloud Hero-afbeelding](../assets/Stock.jpg)
 
-Creatieve medewerkers staan onder druk om snel aansprekende visuele content te leveren. Adobe Stock geeft creatieve teams toegang tot meer dan 300 miljoen royaltyvrije afbeeldingen, video&#39;s, audiobestanden, sjablonen, illustraties en 3D-assets - binnen de Creative Cloud-apps die ze dagelijks gebruiken. Krijg onbeperkte toegang tot Adobe Stock-standaardassets met Creative Cloud Pro Edition. Ontdek de nieuwste verzamelingen op stock.adobe.com. Selecteer een afbeelding om een zelfstudie weer te geven.
+Creatieve medewerkers staan onder druk om snel aansprekende visuele content te leveren. Adobe Stock geeft creatieve teams toegang tot meer dan 300 miljoen royaltyvrije afbeeldingen, video&#39;s, audiobestanden, sjablonen, illustraties en 3D-assets - binnen de Creative Cloud-apps die ze dagelijks gebruiken. Krijg onbeperkte toegang tot Adobe Stock-standaardassets met Creative Cloud Pro Edition. Bekijk de nieuwste verzamelingen op stock.adobe.com. Selecteer een afbeelding om een zelfstudie weer te geven.
 
 <table>
 <tr>
@@ -41,10 +42,10 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
   </td>
   <td>
       <a href="handdrawn.md">
-         <img alt="Voeg een handgetekende esthetiek toe aan Adobe [!DNL Stock] afbeeldingen" src="assets/handdrawn.jpg" />
+         <img alt="Voeg een met de hand getekend estheticum toe aan Adobe [!DNL Stock] afbeeldingen" src="assets/handdrawn.jpg" />
       </a>
       <div>
-      <a href="handdrawn.md"><strong>Voeg een handgetekende esthetiek toe aan Adobe [!DNL Stock] afbeeldingen</strong></a>
+      <a href="handdrawn.md"><strong>Voeg een met de hand getekend estheticum toe aan Adobe [!DNL Stock] afbeeldingen</strong></a>
       </div>
       <em>Breid je creatieve marketing uit met unieke technieken die diepte en dimensie toevoegen aan je afbeeldingen met Photoshop for iPad</em>
       <br>
@@ -199,10 +200,10 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
   </td>
   <td>
       <a href="brandgradients.md">
-         <img alt="Creëer coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets" src="assets/brandgradients.jpg" />
+         <img alt="Maak coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets" src="assets/brandgradients.jpg" />
       </a>
       <div>
-      <a href="brandgradients.md"><strong>Creëer coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets</strong></a>
+      <a href="brandgradients.md"><strong>Maak coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets</strong></a>
       </div>
       <em>Creëer merkeenheid met verschillende afbeeldingen door kleuren en verlopen te combineren in je reclamecampagne</em>
       <br>

@@ -1,10 +1,11 @@
 ---
 title: Photoshop
 description: Een lijst met Photoshop-zelfstudies
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -62,7 +63,7 @@ In deze zelfstudie leert u hoe u:
 * Penselen kunnen verschillende vormen zijn voor betere resultaten
 * Adobe Sensei helpt kunstmatige intelligentie te benutten voor alledaagse taken
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 A.J Wood, Senior Solutions Consultant (Digital Media)
 
 ## Lucht selecteren en vervangen (2:16) {#tutorial2}
@@ -74,10 +75,10 @@ Selecteer automatisch de lucht in een afbeelding en vervang deze door een hemel 
 
 In deze zelfstudie leert u hoe u:
 * Sky Replacement biedt een oplossing met één klik om uw luchten in uw afbeeldingen direct om te wisselen
-* Bij Lucht vervangen wordt de uitvoer opgeslagen als een laaggroep met elk masker, elke aanpassing en elke afbeelding, zodat deze verder kan worden verfijnd
+* Bij Lucht vervangen wordt de uitvoer opgeslagen als een laaggroep met elk masker, elke aanpassing en elke afbeelding om verder te worden verfijnd
 
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 A.J Wood, Senior Solutions Consultant (Digital Media)
 
 ![Photoshop-logo](../assets/ps_appicon_96.png)

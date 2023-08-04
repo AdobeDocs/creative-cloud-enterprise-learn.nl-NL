@@ -1,8 +1,9 @@
 ---
 title: Webinar Posters met Firefly maken
 description: Leer hoe u met Tekst naar afbeelding, aangedreven door Adobe Firefly, in Adobe Express een webinar-poster voor een virtual reality-gebeurtenis kunt maken
+feature: Image Editing
 level: Beginner
-source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 4%

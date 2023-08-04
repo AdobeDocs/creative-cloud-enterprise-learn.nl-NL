@@ -1,10 +1,11 @@
 ---
 title: CC Libraries
 description: Houd je assets en je projecten merkgericht
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
@@ -60,7 +61,7 @@ In deze zelfstudie leert u hoe u:
 * Houd je assets en je projecten merkgericht
 * Nieuw! Volledige integratie met Adobe XD
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 ## CC-bibliotheken delen (4:14) {#tutorial2}
@@ -74,14 +75,14 @@ In deze zelfstudie leert u hoe u:
 * Houd je assets en je projecten merkgericht
 * Eenvoudig samenwerken aan projecten, rechtstreeks vanuit je favoriete apps
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 ![Logo CC Libraries](../assets/cc_appicon_96.png)
 
 **Bronnen voor CC Libraries**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/creative-cloud/help/libraries.html) Dit is het middelpunt voor aanvullende zelfstudies, nieuwe functies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/creative-cloud/help/libraries.html) Dit is uw hub voor extra zelfstudies, nieuwe functies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

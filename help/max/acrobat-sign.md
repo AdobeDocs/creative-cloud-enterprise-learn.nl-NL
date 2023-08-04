@@ -1,10 +1,11 @@
 ---
 title: Acrobat & Sign
 description: Een lijst met zelfstudies voor Acrobat en Adobe Sign
+feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -97,7 +98,7 @@ In deze zelfstudie leert u hoe u:
 
 [![Vergelijkingsafbeelding](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Dan Armstrong, Solutions Consultant (Digital Media) Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
 ## Online Waiver Forms maken met Adobe Sign (5:19) {#tutorial2}
@@ -112,7 +113,7 @@ In deze zelfstudie leert u hoe u:
 * Digitale formulieren op uw website plaatsen waar klanten ze kunnen openen vanaf hun eigen apparaat
 * Ingevulde formulieren worden automatisch gearchiveerd voor uw administratie
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Taylor Kobey, Solutions Consultant (Digital Media) Emily Palmer, Solutions Consultant (Digital Media)
 
 ## Een handtekening aanvragen bij Adobe Sign (3:21) {#tutorial3}
@@ -125,10 +126,10 @@ Ga van Word naar PDF en verzend documenten ter ondertekening met Adobe Sign.
 In deze zelfstudie leert u hoe u:
 * Gebruik de tools die je dagelijks gebruikt om digitale documenten ter ondertekening te verzenden
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Rick Borstein, Senior Manager Solution Consulting (Digital Media)
 
-## Menu&#39;s weergeven op mobiel met vloeiende modus (2:57) {#tutorial4}
+## Menu&#39;s weergeven op mobiele apparaten met vloeiende modus (2:57) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
@@ -138,12 +139,12 @@ Gebruik de vloeiende modus om de lezerervaring van PDF op mobiele apparaten te v
 In deze zelfstudie leert u hoe u:
 * PDF-bestanden responsief maken voor mobiele apparaten
 * Verbeter je PDF-lay-out
-* Voeg direct functies toe om u te helpen documenten gemakkelijk te lezen op uw telefoon en tablet
+* Voeg direct functies toe om documenten gemakkelijk te kunnen lezen op je telefoon en tablet
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
-## Documenten vanaf uw mobiele telefoon naar PDF scannen (5:53) {#tutorial5}
+## Scan documenten naar PDF vanaf je mobiele telefoon (5:53) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
@@ -152,10 +153,10 @@ Met Adobe Scan kun je eenvoudig documenten, formulieren, visitekaartjes en white
 
 In deze zelfstudie leert u hoe u:
 * Gebruik je mobiele telefoon om documenten, formulieren, visitekaartjes en whiteboards vast te leggen en om te zetten in hoogwaardige Adobe PDF-
-* Automatisch handgeschreven of afgedrukte tekst herkennen en verscherpen, terwijl u elementen die u niet wilt verwijderen, zoals schittering en schaduw
+* Automatisch handgeschreven of afgedrukte tekst herkennen en verscherpen, terwijl elementen die je niet wilt verwijderen, zoals schittering en schaduw
 * Open de gescande PDF in Acrobat Reader om notities en opmerkingen te maken en deze te reviseren met uw team
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 ![DC-logo](../assets/Doc-Cloud-256.png)

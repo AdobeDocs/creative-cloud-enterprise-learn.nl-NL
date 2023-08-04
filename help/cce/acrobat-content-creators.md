@@ -1,11 +1,12 @@
 ---
 title: Acrobat for Content Creators
 description: Meer informatie over belangrijke tools in Adobe Acrobat die helpen creatieve workflows te stroomlijnen
+feature: Share
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
 exl-id: 5c935d0b-0ed6-4e87-ab24-1ded0326aa96
-source-git-commit: 6cca086e375f882cf822d2cbd2811e253a4c4b74
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%

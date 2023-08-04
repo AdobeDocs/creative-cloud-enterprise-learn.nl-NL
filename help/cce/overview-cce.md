@@ -1,10 +1,12 @@
 ---
 title: Creative Cloud voor ondernemingen Tutorials
 description: Tutorials om u te helpen snel aan de slag te gaan met de Creative Cloud voor Enterprise-producten
+feature: Image Editing, Collaboration, Graphic Design, Integrations
 role: User
 level: Beginner, Intermediate
+jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: a2319e107b620cc2e0f997dde8cf7235fd5e6779
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '1529'
 ht-degree: 1%
@@ -57,10 +59,10 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
  <td>
    <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express: Content die opvalt" src="assets/Adobe-Express-content-that-stands-out.png" />
+      <img alt="Adobe Express: Content die eruit springt" src="assets/Adobe-Express-content-that-stands-out.png" />
    </a>
     <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Content die opvalt</strong></a>
+   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Content die eruit springt</strong></a>
     </div>
     <em> Creëer binnen enkele minuten prachtige graphics, webpagina’s en videoverhalen met Adobe Express</em>
     <br>
@@ -356,7 +358,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Lettertypen ontdekken met Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Het vinden van het juiste lettertype voor een project kan soms overweldigend lijken. Met verschillende Creative Cloud-apps en -services is het nu leuk en inspirerend om het juiste lettertype te vinden</em>
+    <em>Het vinden van het juiste lettertype voor een project kan soms overweldigend lijken. Met verschillende Creative Cloud-apps en -services vind je het juiste lettertype leuk en inspirerend</em>
     <br>
   </td>
   <td>
@@ -382,7 +384,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/GettoKnowGraphicStylesinIllustrator.pdf"><strong>Kennismaken met afbeeldingsstijlen in Illustrator (PDF)</strong></a>
     </div>
-    <em>Illustrator biedt je de mogelijkheid om illustraties op dezelfde manier op te maken als je tekst opmaakt</em>
+    <em>Illustrator geeft je de mogelijkheid om illustraties op dezelfde manier te vormgeven als je tekst</em>
     <br>
   </td>
    <td>
@@ -449,10 +451,10 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   </td>
   <td>
    <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf">
-      <img alt="Interactieve PDF: Bladwijzers en gekoppelde inhoudsopgave's van InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
+      <img alt="Interactieve PDF: bladwijzers en gekoppelde inhoudsopgave&apos;s uit InDesign" src="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interactieve PDF: Bladwijzers en gekoppelde inhoudsopgave's uit InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFBookmarksandLinkedTOCsfromInDesign.pdf"><strong>Interactieve PDF: bladwijzers en gekoppelde inhoudsopgave's uit InDesign (PDF)</strong></a>
     </div>
     <em>Leer hoe u met de functie Inhoudsopgave in InDesign bladwijzers en hyperlinks genereert waarmee uw lezers snel informatie in uw PDF-bestanden kunnen vinden</em>
     <br>
@@ -461,10 +463,10 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
   <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
-      <img alt="Interactieve PDF: Grafische hyperlinks en geneste stramienpagina's in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
+      <img alt="Interactieve PDF: grafische hyperlinks en geneste stramienpagina&apos;s in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interactieve PDF: Grafische hyperlinks en geneste stramienpagina's in InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interactieve PDF: grafische hyperlinks en geneste stramienpagina's in InDesign (PDF)</strong></a>
     </div>
     <em>Door hyperlinks toe te passen op stramienpagina's kunt u snel een navigatiesysteem beheren op al uw pagina's</em>
     <br>
@@ -508,7 +510,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <a href="compositepsipad.md"><strong>Unieke composities maken met Adobe [!DNL Stock] en Photoshop voor iPad</strong></a>
     </div>
-    <em>Benut de kracht van Photoshop binnen handbereik. Leer hoe je een van je favoriete Creative Cloud-applicaties op een geheel nieuwe manier gebruikt, met een vernieuwde, aanraakgebaseerde interface</em>
+    <em>Maak kennis met de kracht van Photoshop. Leer hoe je een van je favoriete Creative Cloud-applicaties op een geheel nieuwe manier gebruikt, met een vernieuwde touch-interface</em>
     <br>
   </td>
   <td>
@@ -550,7 +552,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <a href="assets/CreatingaLivingPhotographwithPhotoshopPart1.pdf"><strong>Een levende foto maken met Photoshop — Deel 1 (PDF)</strong></a>
     </div>
-    <em>Met Adobe Photoshop kun je snel je korte video’s omzetten in levende foto’s die je doelgroep op elk social-mediaplatform fascineren</em>
+    <em>Met Adobe Photoshop kun je snel je korte video’s omzetten in levende foto’s die je doelgroep op elk social platform fascineren</em>
     <br>
   </td>
   <td>
@@ -577,7 +579,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
   <td>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf">
-      <img alt="Snel uw Instagram-foto's voorzien van Adobe Photoshop-handelingen" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
+      <img alt="Snel uw Instagram-foto&apos;s voorzien van Adobe Photoshop-handelingen" src="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.jpg" />
     </a>
     <div>
     <a href="assets/QuicklyBrandYourInstagramPhotoswithAdobePhotoshopActions.pdf"><strong>Snel uw Instagram-foto's voorzien van Adobe Photoshop-handelingen (PDF)</strong></a>

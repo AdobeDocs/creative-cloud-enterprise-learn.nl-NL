@@ -1,10 +1,11 @@
 ---
 title: Creative Cloud desktop-app
 description: De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!
+feature: Workspace, Collaboration
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 8%
@@ -23,10 +24,10 @@ De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -servic
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Ontdek de CC Desktop-app: Uw hub voor Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Ontdek de CC Desktop App: Uw Hub voor Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Ontdek de CC Desktop-app: Uw hub voor Creative Cloud</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Ontdek de CC Desktop App: Uw Hub voor Creative Cloud</strong></a>
     </div>
     <em>De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!</em>
     <br>
@@ -44,7 +45,7 @@ De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -servic
 </tr>
 </table>
 
-## Ontdek de CC Desktop-app: Uw hub voor Creative Cloud (2:50) {#tutorial1}
+## Ontdek de CC Desktop App: Uw Hub voor Creative Cloud (2:50) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327095?hidetitle=true)
 
@@ -59,5 +60,5 @@ In deze zelfstudie leert u hoe u:
 * Zelfstudies ontdekken
 * Uw werk delen op Behance
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)

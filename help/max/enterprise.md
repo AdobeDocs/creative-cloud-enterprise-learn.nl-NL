@@ -1,10 +1,11 @@
 ---
 title: Enterprise Administration
 description: Beheer rechten op Adobe en assets binnen je hele organisatie
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 5%
@@ -54,7 +55,7 @@ Ontdek de bijna 200 families in Adobe Fonts en het gebruiksgemak van de Adobe Fo
 
 In deze zelfstudie leert u hoe u:
 * Gebruik de krachtige bladerinterface om snel en eenvoudig het juiste lettertype te vinden
-* Bespaar tijd en geld door native Creative Cloud-integraties te gebruiken
+* Bespaar tijd en geld met native Creative Cloud-integraties
 * Al uw lettertypen op één locatie in de Adobe Admin Console beheren
 
 **Gepresenteerd door:**

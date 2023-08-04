@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Dimension]"
 description: "[!DNL Dimension] maakt het eenvoudig om merkvisualisaties, illustraties, productmodellen, verpakkingsontwerpen en ander creatief werk te bouwen"
+feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -54,7 +55,7 @@ Substance-materialen ondersteunen duizenden patronen en ontwerpen in één mater
 In deze zelfstudie leert u hoe u:
 * Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en belichting
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Jim Babbage, Senior Solutions Consultant (Digital Media)
 
 ![Dimension-logo](../assets/dn_appicon_96.png)

@@ -1,10 +1,12 @@
 ---
 title: Adobe XD-zelfstudies
 description: Tutorials om u te helpen snel aan de slag te gaan met Adobe XD
+feature: UI Design
 role: User
 level: Beginner, Intermediate
+jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -86,7 +88,7 @@ Adobe XD is een tool voor het ontwerpen en prototypen van gebruikerservaringen v
       <img alt="Geef je XD project een vliegende start vanuit een Photoshop-bestand (PSD)" src="assets/JumpstartyourXDProjectfromaPhotoshopFile.jpg" />
    </a>
     <div>
-   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf" target="_blank"><strong>Geef uw XD een vliegende start vanuit een Photoshop-bestand (PSD) (PDF)</strong></a>
+   <a href="assets/JumpstartyourXDProjectfromaPhotoshopFile.pdf" target="_blank"><strong>Start je XD-project vanuit een Photoshop-bestand (PSD) (PDF)</strong></a>
     </div>
     <em>Adobe XD biedt enkele fantastische interactieve ontwerptools die samenwerken met je bestaande workflow, waardoor je je interactieve ontwerpvisie naar een hoger plan kunt tillen</em>
     <br>
@@ -115,7 +117,7 @@ Adobe XD is een tool voor het ontwerpen en prototypen van gebruikerservaringen v
   </td>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
-      <img alt="Het herhalingsraster overladen in XD met externe tekst en afbeeldingen" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
+      <img alt="Het herhalingsraster XD met externe tekst en afbeeldingen" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Het herhalingsraster opladen in XD met externe tekst en afbeeldingen (PDF)</strong></a>

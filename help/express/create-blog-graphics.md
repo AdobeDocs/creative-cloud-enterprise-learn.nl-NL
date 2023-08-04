@@ -1,10 +1,11 @@
 ---
 title: Afbeeldingsinhoud voor blogs met Firefly maken
 description: Leer hoe u met Text to Image, aangedreven door Adobe Firefly, in Adobe Express unieke grafische inhoud voor een blog kunt maken
+feature: Image Editing
 role: User
 level: Beginner
 jira: KT-13744
-source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 4%

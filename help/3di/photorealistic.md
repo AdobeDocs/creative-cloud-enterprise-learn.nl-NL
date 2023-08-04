@@ -1,11 +1,12 @@
 ---
 title: Fotorealistische virtuele fotografie maken met 3D-rendering en -composities
 description: Leer hoe je verbluffend bedrieglijke, fotorealistische virtuele fotografie creëert met 3D-beeldcompositie en -rendering in Adobe [!DNL Dimension]
+feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: virtuele fotografie, 100 wereldwijde MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '2367'
 ht-degree: 0%
@@ -20,12 +21,12 @@ Als je de afbeeldingen hierboven bekijkt, zou je vergeven worden dat alles wat j
 
 ![Een scène uit de Abyss van James Cameron waarin Mary Mastrantonio zich uitstrekt om de CGI watertentakel aan te raken](assets/Photorealistic_2.jpg)
 
-Deze techniek, waarbij 3D-modellen in lagen of &#39;samenstellen&#39; in een afbeelding of video worden geplaatst, is niet nieuw en de oorsprong ervan gaat terug naar de vroege dagen van VFX (tot in de jaren tachtig). Wat nieuw en spannend is, is dat deze techniek een krachtig instrument is geworden voor [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) gebruikers en een intrigerende nieuwe workflow voor fotografen.
+Deze techniek, van het in lagen plaatsen of het &#39;samenstellen&#39; van 3D-modellen in een afbeelding of video, is niet nieuw en de oorsprong ervan gaat terug naar de vroege dagen van VFX (tot in de jaren tachtig). Nieuw en spannend is dat deze techniek een krachtig instrument is geworden voor [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) gebruikers en een intrigerende nieuwe workflow voor fotografen.
 
 
 ## De technologie achter het maken van samengestelde afbeeldingen in Adobe [!DNL Dimension]
 
-![Het vlak van een metalen bol in een Adobe bewerken [!DNL Dimension] composiet](assets/Photorealistic_3.png)
+![Het vlak van een metalen bol in een Adobe bewerken [!DNL Dimension] samengesteld](assets/Photorealistic_3.png)
 
 Adobe [!DNL Dimension] heeft gebruikers in staat gesteld 2D- en 3D-elementen naadloos te combineren rechtstreeks in de app met behulp van de door Adobe Sensei aangestuurde functie voor matchafbeeldingen. Het belangrijkste voordeel van het op deze manier samenstellen van elementen is dat het turbo het proces van het creëren van een realistisch kijkend beeld door een volledig gerealiseerde 3D scène met een achtergrondbeeld te vervangen, dat van werkelijkheid kan worden gevangen.
 
@@ -37,7 +38,7 @@ Maar hoe zit het met alles wat niet is vastgelegd in het kader van de camera?  D
 
 ![Een fotorealistische 3D-samengestelde afbeelding van een brommer in een woonkamer](assets/Photorealistic_5.png)
 
-Met Identiek aan afbeelding wordt geprobeerd de belichtingsomgeving waarin een achtergrondafbeelding is gemaakt, te &#39;hallucineren&#39;. Het levert een indrukwekkend werk op dat in korte volgorde uitstekende resultaten zal opleveren, maar het vastleggen van het milieu samen met het achtergrondbeeld zal nog realistischer resultaten opleveren. Dit is zelfs de methode die wordt gebruikt om de Adobe Sensei-functie te trainen om het zelf te doen.
+Met Afbeelding afstemmen wordt geprobeerd de belichtingsomgeving waarin een achtergrondafbeelding is gemaakt, te &#39;hallucineren&#39;. Het levert een indrukwekkend werk op dat in korte volgorde uitstekende resultaten zal opleveren, maar het vastleggen van het milieu samen met het achtergrondbeeld zal nog realistischer resultaten opleveren. Dit is zelfs de methode die wordt gebruikt om de Adobe Sensei-functie te trainen om het zelf te doen.
 
 ![Een HDR-panorama van 360 graden van kantoorruimte](assets/Photorealistic_6.png)
 
@@ -51,9 +52,9 @@ Camera&#39;s als de Ricoh Theta, Gopro MAX en Insta 360 kunnen 360 panorama&#39;
 
 ### [!DNL Capture]
 
-Om aan de slag te gaan met het vastleggen van omgevingen voor composities, hebt u twee hoofdelementen nodig. een achtergrondafbeelding of -afbeeldingen van hoge kwaliteit en een HDR-panorama van 360° in de omgeving waarin deze is genomen.
+Om de compositie van omgevingen te beginnen, hebt u twee hoofdelementen nodig: een achtergrondafbeelding of -afbeeldingen van hoge kwaliteit en een HDR-panorama van 360° van de omgeving waarin deze is gemaakt.
 
-Een van de belangrijkste aspecten van het effectief vastleggen van dit type inhoud is om te profiteren van de bestaande vaardigheden en tools van een fotograaf. Om een prachtige achtergrondafbeelding te maken, hebt u oog nodig voor de compositie en de aandacht voor details. De achtergrondafbeeldingen vereisen ook een speciale denkwijze om iets te maken dat handig is om 3D-elementen samen te stellen.
+Een van de belangrijkste aspecten van het effectief vastleggen van dit type inhoud is om gebruik te maken van de bestaande vaardigheden en tools van een fotograaf. Om een prachtige achtergrondafbeelding te maken, hebt u oog nodig voor de compositie en de aandacht voor details. De achtergrondafbeeldingen vereisen ook een speciale denkwijze om iets te maken dat handig is om 3D-elementen samen te stellen.
 
 ### Een locatie kiezen
 
@@ -65,7 +66,7 @@ Bij het vastleggen van de achtergrondafbeelding moet u er rekening mee houden da
 
 ![Pictogrammen geven de optimale lichtrichting en het focuspunt aan voor een virtuele fotoachtergrond](assets/Photorealistic_9.png)
 
-Even belangrijk is de belichtingssituatie in de afbeelding, omdat dit van grote invloed is op de samengestelde 3D-inhoud. Het licht moet in de opname komen vanaf de schouder of de zijkant. Dit levert de beste resultaten op, omdat het een belangrijk licht is wanneer 3D-objecten in de scène worden geplaatst. Het kan verleidelijk zijn om naar het licht te schieten als er geen scherpstellingselement is, maar onthoud dat dit zal resulteren in inhoud die altijd achteruitgaat. Het toevoegen van een tijdelijk, inzetobject aan de scène kan handig zijn voor het samenstellen en beoordelen van de belichting.
+Even belangrijk is de belichtingssituatie in de afbeelding, omdat dit van grote invloed is op de samengestelde 3D-inhoud. Het licht moet in de opname komen vanaf de schouder of de zijkant. Dit levert de beste resultaten op, omdat het een belangrijk licht is wanneer 3D-objecten in de scène worden geplaatst. Het kan verleidelijk zijn om naar het licht te schieten als er geen scherpstellingselement in beeld is, maar onthoud dat dit zal resulteren in inhoud die altijd achteruitgaat. Het toevoegen van een tijdelijk, inzetobject aan de scène kan handig zijn voor het samenstellen en beoordelen van de belichting.
 
 ## Het HDR-pano vastleggen
 
@@ -79,13 +80,13 @@ Plaats uw camera van 360° in het algemene midden van het gebied waar u zich op 
 
 ![Een HDR-panorama van 360 graden van een kantoorruimte met een kleurgrafiek op de voorgrond](assets/Photorealistic_11.png)
 
-Het is heel belangrijk dat de kleuren behouden blijven tussen de camera waarmee de omgeving is gemaakt en de camera waarmee de achtergrond is gemaakt, omdat de afbeeldingen samen worden gebruikt. Hier hebben we zowel de kleurtemperatuur van de camera&#39;s ingesteld op 5000 k als een foto van een kleurenkaart met beide camera&#39;s voor verdere uitlijning in de post.
+Het is heel belangrijk dat de kleuren behouden blijven tussen de camera waarmee de omgeving is gemaakt en de camera waarmee de achtergrond is gemaakt, omdat de afbeeldingen samen worden gebruikt. Hier hebben we zowel de kleurtemperatuur van de camera&#39;s ingesteld op 5000 k als een foto van een kleurengrafiek met beide camera&#39;s voor verdere uitlijning in de post.
 
 ### Gescheurde belichtingswaarden
 
 Om een HDR-omgeving te creëren met de 360°-camera, moeten verschillende EV&#39;s worden vastgelegd om te worden gecombineerd in een HDR-afbeelding. De hoeveelheid EV&#39;s is niet gestandaardiseerd, maar doorgaans wilt u dat het hogere uiteinde van het belichtingsbereik uitkomt op een punt waar de schaduwen en het onderste uiteinde van het belichtingsbereik geen informatie meer bevatten, zodat er geen informatie meer is in de hooglichten.
 
-Idealiter heeft de 360°-camera een automatische bracketing-functie waarmee de verschillende belichtingen in een batch door de camera kunnen worden geplaatst. De ideale instellingen zijn om de laagste ISO-waarde te gebruiken die beschikbaar is om ruis te voorkomen en een hoge lenswaarde voor scherpte te gebruiken. Belichtingswaarden kunnen vervolgens worden gevarieerd aan de hand van de sluitersnelheid en worden opgesplitst naar stops; de belichting te halveren of te verdubbelen.
+Idealiter heeft de 360°-camera een automatische bracketing-functie waarmee de verschillende belichtingen in een batch door de camera kunnen worden geplaatst. De ideale instellingen zijn om de laagste ISO-waarde te gebruiken die beschikbaar is om ruis te voorkomen en een hoge lenswaarde voor scherpte te gebruiken. De belichtingswaarden kunnen vervolgens worden gevarieerd aan de hand van de sluitersnelheid en worden opgesplitst in stops; de belichting wordt gehalveerd of verdubbeld.
 
 ![Een reeks belichtingswaarden met vierkante haakjes van een HDR-panorama van 360 graden van een kantoorruimte](assets/Photorealistic_12.png)
 
@@ -111,7 +112,7 @@ Nadat u de kleuren van de EV&#39;s hebt aangepast, kunnen deze tijdelijk worden 
 
 ![De configuratie-instellingen Samenvoegen tot HDR Pro in Adobe Photoshop](assets/Photorealistic_15.png)
 
-Zorg ervoor dat Modus is ingesteld op 32 bits. Met ‘schimmen verwijderen’ kunt u details verwijderen die zijn gewijzigd tussen de verschillende eV&#39;s, maar deze niet gebruiken als u ze niet nodig hebt. De schuifregelaar onder het histogram heeft alleen invloed op de belichting van de voorvertoning, dus negeert u deze. Schakel &#39;Volledige kleurtinten in Adobe Camera Raw&#39; uit en druk op OK.
+Zorg ervoor dat Modus is ingesteld op 32 bits. Het gebruik van &#39;verwijder schimmen&#39; kan helpen details te verwijderen die tussen de EVs veranderen, maar gebruik het niet als u het niet nodig hebt. De schuifregelaar onder het histogram heeft alleen invloed op de belichting van de voorvertoning, dus negeert u deze. Schakel &#39;Volledige kleurtinten in Adobe Camera Raw&#39; uit en druk op OK.
 
 ![Een HDR-panorama van 360 graden van een kantoorruimte met schaduwen die zichtbaar zijn op de nadir](assets/Photorealistic_16.png)
 
@@ -135,7 +136,7 @@ Wanneer het vastleggen is voltooid, moeten de afbeeldingen na verwerking worden 
 
 ## Samengestelde afbeelding samenstellen in [!DNL Dimension]
 
-Deze elementen zijn verzameld en voltooid en kunnen nu worden samengevoegd in een scène in Adobe [!DNL Dimension]. Dit is net zo eenvoudig als het slepen van de achtergrond naar de scène, waar deze vervolgens op de achtergrond wordt toegepast; Voeg vervolgens het HDR-deelvenster toe aan de sleuf voor de afbeelding van het omgevingslicht.
+Deze elementen zijn verzameld en voltooid en kunnen nu worden samengevoegd in een scène in Adobe [!DNL Dimension]. Dit is net zo eenvoudig als het slepen van de achtergrond naar de scène, waarna deze wordt toegepast op de achtergrond. Voeg vervolgens het HDR-deelvenster toe aan de sleuf voor de afbeelding van het achtergrondlicht.
 
 Sleep de achtergrondafbeelding naar een leeg gedeelte van het canvas of selecteer de omgeving in het deelvenster Scène en voeg de afbeelding toe aan de achtergrondinvoer.
 
@@ -157,14 +158,14 @@ Om de richting en belichting van het HDR-pano snel te kunnen bepalen ten opzicht
 
 Om de richting en belichting van het HDR-pano snel te kunnen bepalen ten opzichte van de achtergrond, is een bol primitief met een metaal materiaal, genomen uit het deelvenster met vrije elementen in [!DNL Dimension]kan in de scène worden geplaatst. De rotatie van het omgevingslicht kan vervolgens worden geplaatst, zodat de reflecties er correct uitzien. Als de belichting van het HDR-panorama boven of onder de bol valt, moet de belichting van het HDR-panorama worden verhoogd of verlaagd ter compensatie.
 
-## Het eindresultaat: Een fotorealistische samengestelde afbeelding
+## Het eindresultaat: een fotorealistische samengestelde afbeelding
 
-![Een time-lapse van 3D-compositie en -rendering voor een foto van een virtueel product in Adobe [!DNL Dimension]](assets/Photorealistic_24.gif)
+![Een time-lapse van 3D-compositie en -rendering voor een virtuele productfoto in Adobe [!DNL Dimension]](assets/Photorealistic_24.gif)
 
-Zodra de scène is voltooid, is de workflow voor de eindgebruiker eenvoudig. Je hoeft alleen maar je eigen model of een ander model te slepen [Adobe [!DNL Stock] 3D](https://stock.adobe.com/3d-assets) rechtstreeks in de afbeelding om deze weer te geven alsof deze er was toen de foto werd gemaakt. Dit opent nieuwe mogelijkheden voor het creëren van zeer realistische advertentie-inhoud, of de mogelijkheid om op ontwerpen binnen vele verschillende contexten te herhalen.
+Zodra de scène is voltooid, is de workflow voor de eindgebruiker eenvoudig. Je kunt gewoon je eigen model of een ander model slepen [Adobe [!DNL Stock] 3D](https://stock.adobe.com/3d-assets) rechtstreeks in de afbeelding om deze weer te geven alsof deze er was toen de foto werd gemaakt. Dit opent nieuwe mogelijkheden voor het creëren van zeer realistische advertentie-inhoud, of de mogelijkheid om op ontwerpen binnen vele verschillende contexten te herhalen.
 
 ![Fotorealistische virtuele foto van 3D-apparaten die zijn samengesteld in een keukentoonbank](assets/Photorealistic_25.png)
 
 Het eindresultaat is een overtuigende combinatie van realiteit en 3D waarmee eindgebruikers het doel van het maken van fotorealistische afbeeldingen met minimale inspanningen kunnen bereiken. Probeer het zelf met een paar [gratis [!DNL Dimension] scènes](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338) hebben we gemaakt om de workflow te demonstreren.
 
-[Download de nieuwste release](https://creativecloud.adobe.com/apps/download/dimension) van [!DNL Dimension] en maak je fotorealistische afbeeldingen.
+[Download de nieuwste release](https://creativecloud.adobe.com/apps/download/dimension) van [!DNL Dimension] en maak nu je fotorealistische afbeeldingen.

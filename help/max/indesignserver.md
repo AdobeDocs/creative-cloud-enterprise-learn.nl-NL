@@ -1,12 +1,13 @@
 ---
 title: InDesign Server
-description: De Adobe Adobe® InDesign® Server-software van de levert een robuuste en schaalbare engine die gebruikmaakt van het ontwerp, de lay-out en de typografische mogelijkheden van InDesign, zodat u programmatisch aansprekende, geautomatiseerde documenten kunt maken
+description: Adobe Adobe &reg; InDesign&reg; serversoftware biedt een robuuste en schaalbare engine die gebruikmaakt van het ontwerp, de lay-out en de typografische mogelijkheden van InDesign, zodat u programmatisch aansprekende, geautomatiseerde documenten kunt maken
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '272'
 ht-degree: 1%
 
 ---
@@ -28,7 +29,7 @@ Adobe InDesign® Server-software biedt een krachtige en schaalbare engine die ge
     <div>
    <a href="indesignserver.md#tutorial1"><strong>Gegevensgestuurde InDesign Server-inhoud</strong></a>
     </div>
-    <em>Datagestuurde ontwerpen kunnen via programmacode worden gemaakt met InDesign Server</em>
+    <em>Datagestuurd ontwerp kan via programmacode worden bereikt met InDesign Server</em>
     <br>
   </td>
   <td>
@@ -56,7 +57,7 @@ In deze zelfstudie leert u hoe u:
 * Stroom in externe datagestuurde content voor een snellere personalisatie van content
 * Steunfunctie-PDF genereren of vastzetten in andere AEM uitvoerindelingen van uw lay-out
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 ## Aanvullende bronnen voor InDesign Server
@@ -70,7 +71,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server: Koopgids</strong></a>
     </div>
-    <em>Bronnen beschikbaar voor interne ontwikkelaars of partners</em>
+    <em>Informatiebronnen beschikbaar voor interne ontwikkelaars of partners</em>
     <br>
   </td>
   <td>
@@ -95,7 +96,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 **InDesign Server-bronnen**
 
-[Meer informatie en ondersteuning](https://www.adobe.com/products/indesignserver.html) Dit is het middelpunt voor aanvullende zelfstudies, nieuwe functies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://www.adobe.com/products/indesignserver.html) Dit is uw hub voor extra zelfstudies, nieuwe functies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

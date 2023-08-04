@@ -1,10 +1,11 @@
 ---
 title: MAX 2020 — de Enterprise Sessions
 description: Demo-elementen
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 1%
@@ -66,7 +67,7 @@ In deze zelfstudie leert u hoe u:
 
 Ashley Dvorin, Senior Solutions Consultant (Digital Media) Emily Palmer, Solutions Consultant (Digital Media)
 
-## Over de Demo Assets: LOKAAL
+## Over de Demo Assets: LOCAL
 
 Het team benaderde het maken van de demo-elementen als een onderneming. We hebben een campagne opgezet en assets gecreëerd voor verschillende kanalen. We hebben ook een CC-bibliotheek met merkelementen gemaakt ter ondersteuning van samenwerking en consistentie.
 

@@ -1,11 +1,12 @@
 ---
 title: Een 3D-collage maken voor een poster met Adobe [!DNL Stock] afbeeldingen
 description: Een collage ontwerpen in Adobe Illustrator met een opvallend 3D-effect van afbeeldingen in Adobe [!DNL Stock]
+feature: Licensable Assets, 3D
 role: User
 level: Beginner, Intermediate
 thumbnail: 331805.jpg
 exl-id: 500c88f5-1313-49b5-a3ca-38535e172640
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

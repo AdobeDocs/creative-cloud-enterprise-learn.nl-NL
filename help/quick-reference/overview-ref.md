@@ -3,8 +3,9 @@ title: Creative Cloud voor ondernemingen - Snelle naslaggidsen
 description: Tutorials om u te helpen snel aan de slag te gaan met de Creative Cloud voor Enterprise-producten
 role: User
 level: Beginner, Intermediate
+jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
@@ -60,7 +61,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="GettingStartedwithCloudDocuments.pdf" target="_blank"><strong>Aan de slag met clouddocumenten (PDF)</strong></a>
     </div>
-    <em>Maak een document van het ene apparaat en ga verder met het document op een ander apparaat. Leer hoe u uw documenten naar de cloud verplaatst en vervolgens kunt openen wanneer of waar u maar wilt</em>
+    <em>Maak een document van het ene apparaat en ga verder met het document op een ander apparaat. Leer hoe u uw documenten naar de cloud verplaatst en vervolgens kunt openen wanneer of waar u wilt</em>
     <br>
   </td>
   <td>
@@ -75,7 +76,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   </td>
  <td>
    <a href="ShootEditPublishyourPhotoswithCreativeCloud.pdf" target="_blank">
-      <img alt="Foto's met Creative Cloud maken, bewerken en publiceren" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Foto&apos;s met Creative Cloud maken, bewerken en publiceren" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="ShootEditPublishyourPhotoswithCreativeCloud.pdf" target="_blank"><strong>Foto's met Creative Cloud maken, bewerken en publiceren (PDF)</strong></a>
@@ -107,7 +108,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="UnlimitedAdobeFontsatyourFingertips.pdf" target="_blank"><strong>Onbeperkte Adobe Fonts bij uw vingertoppen (PDF)</strong></a>
     </div>
-    <em>[!DNL Capture] interessante lettertypen in de echte wereld met Adobe [!DNL Capture] op uw mobiele apparaat, en activeer en sla vergelijkbare lettertypen op met Adobe Fonts en Creative Cloud-bibliotheken</em>
+    <em>[!DNL Capture] interessante lettertypen in de echte wereld met gebruik van Adobe [!DNL Capture] op uw mobiele apparaat, en activeer en sla vergelijkbare lettertypen op met Adobe Fonts en Creative Cloud-bibliotheken</em>
     <br>
   </td>
    <td>
@@ -171,7 +172,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf" target="_blank"><strong>Een samenstelling maken met afbeeldingen en vormen met Illustrator for iPad (PDF)</strong></a>
     </div>
-    <em>Illustrator biedt je de mogelijkheid om illustraties op dezelfde manier op te maken als je tekst opmaakt</em>
+    <em>Illustrator geeft je de mogelijkheid om illustraties op dezelfde manier te vormgeven als je tekst</em>
     <br>
   </td>
    <td>
@@ -245,7 +246,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
   <td>
    <a href="GettoknowPhotoshopontheiPad.pdf" target="_blank">
-      <img alt="Photoshop leren kennen op de iPad" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Kennismaken met Photoshop op de iPad" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="GettoknowPhotoshopontheiPad.pdf" target="_blank"><strong>Kennismaken met Photoshop op de iPad (PDF)</strong></a>
@@ -423,7 +424,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   </td>
   <td>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf" target="_blank">
-      <img alt="Foto's met Creative Cloud maken, bewerken en publiceren" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Foto&apos;s met Creative Cloud maken, bewerken en publiceren" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="ShootEditPublishyourVideoswithCreativeCloud.pdf" target="_blank"><strong>Foto's met Creative Cloud maken, bewerken en publiceren (PDF)</strong></a>
@@ -440,7 +441,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
    <td>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank">
-      <img alt="Adobe XD: Advanced Voice Prototyping" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Adobe XD: geavanceerde prototypen voor spraak" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="AdobeXDAdvancedVoicePrototyping.pdf" target="_blank"><strong>Adobe XD: Advanced Voice Prototyping (PDF)</strong></a>
@@ -450,7 +451,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   </td>
    <td>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank">
-      <img alt="Coediting: Real-Time Design Collaboration Using Adobe XD" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Coediting: Real-Time Design Collaboration met Adobe XD" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="CoeditingReal-TimeDesignCollaborationUsingAdobeXD.pdf" target="_blank"><strong>Coediting: Real-Time Design Collaboration Using Adobe XD (PDF)</strong></a>
@@ -470,7 +471,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   </td>
   <td>
    <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf" target="_blank">
-      <img alt="Laten we XD - Zie Ontwerpen, Prototype maken en Afleveren aan teams" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Laten we XD - Bekijk hoe je teams ontwerpt, prototypen maakt en hoe je aan teams kunt werken" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="LetsXDSeeHowtoDesignPrototypeandHandofftoTeams.pdf" target="_blank"><strong>Laten we XD - Bekijk hoe je kunt ontwerpen, prototypen maakt en hoe je kunt werken met teams (PDF)</strong></a>

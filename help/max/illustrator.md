@@ -2,9 +2,10 @@
 title: Illustrator
 description: Maak logo’s, pictogrammen, illustraties en andere ontwerpen die je voor het web, mobiele apparaten of drukwerk kunt bedenken
 role: User
+feature: Vector Editing
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -23,10 +24,10 @@ De moderne app voor illustraties en afbeeldingen. Maak logo’s, pictogrammen, i
 <tr>
  <td>
    <a href="illustrator.md#tutorial1">
-      <img alt="Symbolen gebruiken om meerdere pictograminstanties bij te werken" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
+      <img alt="Gebruik symbolen om meerdere pictograminstanties bij te werken" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>Symbolen gebruiken om meerdere pictograminstanties bij te werken</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>Gebruik symbolen om meerdere pictograminstanties bij te werken</strong></a>
     </div>
     <em>Minder handmatig werk en behoud consistentie met symbolen</em>
     <br>
@@ -59,7 +60,7 @@ Minder handmatig werk en behoud consistentie met symbolen.
 In deze zelfstudie leert u hoe u:
 * Minder handmatig werk en behoud consistentie met symbolen
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ## Tekst en afbeeldingen uitlijnen met glyph-uitlijning (6:48) {#tutorial2}
@@ -72,7 +73,7 @@ Snel glyphs uitlijnen op belangrijke gebieden van het document.
 In deze zelfstudie leert u hoe u:
 * Snel glyphs uitlijnen op belangrijke gebieden van het document
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ![Illustrator-logo](../assets/ai_appicon_96.png)

@@ -1,11 +1,13 @@
 ---
 title: Sjablonen voor professionele bewegende beelden
 description: 'Sjablonen voor bewegende beelden (.mogrt) vormen een samenwerkingsvriendelijke en efficiënte manier om aanpasbare pakketten voor bewegende beelden te maken: titels, logo-animaties, minder derden, en deze te delen met redactieteams'
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
+jira: KT-11642
 thumb: KT-11642.jpg
 exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
-source-git-commit: 64ee96d6cb943cdb8bb708ecb89c426d5af1557e
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

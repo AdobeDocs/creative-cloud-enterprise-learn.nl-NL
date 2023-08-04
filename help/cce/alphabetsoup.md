@@ -1,12 +1,13 @@
 ---
 title: Alfabetsoep van grafische indelingen decoderen
 description: JPG-, PNG-, SVG-, GIF- en EPS-bestanden worden veel gebruikt in ontwerpen, sommige voor webpagina's, andere voor presentaties, publicaties en creatieve projecten. Maar wat bedoelen ze, en welke moet je kiezen?
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 kt: 8038
 thumbnail: KT-8038.jpg
 exl-id: a6bccd09-d4e6-43ec-9bf9-58c34f215267
-source-git-commit: 87830322955c0d4a6b7f6c31676f6dc651e63943
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

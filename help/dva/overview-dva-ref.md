@@ -1,10 +1,11 @@
 ---
 title: Hulplijnen voor snelle videoreferentie
 description: Aan de hand van de handleidingen met snelle referenties kun je snel aan de slag met Adobe DVA-producten
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
-source-git-commit: 92b250d685ff39430d4ee4c3bb816ed8d7eb043f
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 1%
@@ -122,14 +123,14 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
     <div>
    <a href="assets/CreateBeautifulKaleidoscopePatternswithAfterEffects.pdf" target="_blank"><strong>Prachtige Kaleidoscooppatronen maken met After Effects PDF)</strong></a>
     </div>
-    <em>Creëer een oneindig aantal patronen en structuren, van elke afbeelding, met behulp van het CC Kaleida-effect in Adobe After Effects</em>
+    <em>Creëer een oneindig aantal patronen en texturen vanuit elke afbeelding met het CC Kaleida-effect in Adobe After Effects</em>
     <br>
   </td>
 </tr>
 <tr>
 <td>
    <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank">
-      <img alt="Maak ingewikkelde transparantie in uw foto's met Keying in After Effects" src="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.jpg" />
+      <img alt="Maak ingewikkelde transparantie in uw foto&apos;s met Keying in After Effects" src="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.jpg" />
    </a>
     <div>
    <a href="assets/CreateIntricateTransparencyinyourPhotographswithKeyinginAfterEffects.pdf" target="_blank"><strong>Maak ingewikkelde transparantie in uw foto's met Keying in After Effects (PDF)</strong></a>
@@ -159,7 +160,7 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
   </td>
   <td>
       <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf" target="_blank">
-         <img alt="VR-fotografie (360-gradenfoto's) bewerken met After Effects" src="assets/EditingVRPhotography360photoswithAfterEffects.jpg" />
+         <img alt="VR-fotografie (360-gradenfoto&apos;s) bewerken met After Effects" src="assets/EditingVRPhotography360photoswithAfterEffects.jpg" />
       </a>
       <div>
       <a href="assets/EditingVRPhotography360photoswithAfterEffects.pdf" target="_blank"><strong>VR-fotografie (360-gradenfoto's) bewerken met After Effects (PDF)</strong></a>

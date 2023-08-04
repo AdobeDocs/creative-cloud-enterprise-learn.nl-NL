@@ -1,10 +1,11 @@
 ---
 title: Ontwerpen voor plug-in afdrukken - Een gezichtsmasker aanpassen
 description: Hands-on project om een gezichtsmasker aan te passen
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -62,10 +63,10 @@ Zou het niet cool zijn als je een gezichtsmasker kon aanpassen met je eigen illu
 Leer hoe u de plug-in Design to Print voor Photoshop installeert.
 
 In deze zelfstudie leert u hoe u:
-* Visualiseer je ontwerpen op producten zoals kleding, accessoires, briefpapier en ingebouwde muur in real-time!
+* Visualiseer je ontwerpen op producten zoals kleding, accessoires, briefpapier en ingebouwde muur!
 * Publiceren naar de online marktplaats van Dazzle
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ## Een vlakmasker aanpassen met ontwerp voor afdrukken (7:54) {#tutorial2}
@@ -76,14 +77,14 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 Uw eigen Zazzle-gezichtsmasker aanpassen
 
 In deze zelfstudie leert u hoe u:
-* Visualiseer je ontwerpen op producten zoals kleding, accessoires, briefpapier en ingebouwde muur in real-time!
+* Visualiseer je ontwerpen op producten zoals kleding, accessoires, briefpapier en ingebouwde muur!
 * Publiceren naar de online marktplaats van Dazzle
 
 **Klik op Afbeelding om Leerontwerp te downloaden om PDF af te drukken**
 
 [![Ontwerpen leren afdrukken](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ## Een 3D-visualisatie van uw gezichtsmasker maken (7:54) {#tutorial3}
@@ -94,7 +95,7 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 Een 3D-visualisatie maken van uw gezichtsmasker voor de gebeurtenisgalerie
 
 In deze zelfstudie leert u hoe u:
-* Creëer eenvoudig fotorealistische 3D-visualisaties
+* Maak eenvoudig fotorealistische 3D-visualisaties
 * Voeg materialen en besturingsverlichting toe voor een professioneel uitzicht
 * Importeer assets om je merk of andere ontwerpen toe te passen
 
@@ -102,5 +103,5 @@ In deze zelfstudie leert u hoe u:
 
 [![Vergelijkingsafbeelding](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)

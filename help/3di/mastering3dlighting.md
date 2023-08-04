@@ -1,11 +1,12 @@
 ---
 title: Tips en technieken voor het beheersen van 3D-belichting in CGI
 description: Leer meer over 3D-belichting en hoe u verschillende lichtomstandigheden kunt maken waarmee een door de computer gegenereerde scène en de weergave van objecten in deze scène volledig kunnen worden gewijzigd
+feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: 3D-belichting, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '2733'
 ht-degree: 0%
@@ -20,7 +21,7 @@ We zien de wereld om ons heen met onze zintuigen: we horen, voelen, ruiken, zien
 
 Lichtmechanica in een door de computer gegenereerde 3D-scène volgt hetzelfde natuurlijke principe van fotonscattering, via een proces dat raytracering wordt genoemd. Hiermee stuitert u vormen af en communiceert u met de materialen ervan. Zo definieert u in feite hoe objecten in de uiteindelijke afbeelding worden weergegeven. Lichten geven de dimensionaliteit weer van alles wat in een 3D-scène bestaat.
 
-Sommige materialen zijn gevoeliger voor belichtingsomstandigheden dan andere. Neem bijvoorbeeld metalen: een chroomobject reflecteert alles om het object heen . Als een licht wordt verplaatst, helderder of groter wordt, is al die informatie direct zichtbaar op het chroomoppervlak in bijna spiegelend detail, zodat kan het volledig verschillend van één lichtvoorwaarde aan andere lijken.
+Sommige materialen zijn gevoeliger voor belichtingsomstandigheden dan andere. Neem bijvoorbeeld metalen: een chroomobject reflecteert alles eromheen. Als een licht wordt verplaatst, helderder of groter wordt, is al die informatie direct zichtbaar op het chroomoppervlak in bijna spiegelend detail, zodat kan het volledig verschillend van één lichtvoorwaarde aan andere lijken.
 
 ![Een 3D CGI-scène van een auto op een parkeerplaats met een neonteken op de muur. Belichting verschuift van daglicht naar een neon-LED die van het teken uitgaat](assets/Mastering3dlighting_1.gif)
 
@@ -45,7 +46,7 @@ Het is het beste om één voor één aan de lichten te werken. Het actieve licht
 
 Een andere handige truc is om een bol te maken met glanzend metaal (een chroom of een spiegel). Deze &#39;spiegelbal&#39; reflecteert in feite de hele scène eromheen, zodat je gemakkelijk de positie, richting of grootte van het licht kunt bepalen. In het geval van de omgevingslichten kun je de reflectie zien in de spiegelbal, wat helpt om de oriëntatie in de ruimte in te stellen.
 
-![Een spiegelbal (bol met metallische structuur) gebruiken om het omgevingslicht in een 3D-scène te zien en te oriënteren](assets/Mastering3dlighting_4.gif)
+![Een spiegelbal (bol met metalen structuur) gebruiken om het omgevingslicht in een 3D-scène te zien en te oriënteren](assets/Mastering3dlighting_4.gif)
 
 ## Soorten lichten in Adobe [!DNL Dimension]
 
@@ -67,7 +68,7 @@ Er zijn vele manieren om omgevingslichten te maken, zoals het vastleggen van bee
 
 ![Een 3D-studio-omgevingslicht wordt gecreëerd door een 3D-scène van een studio om te zetten in een rechthoekige, 32-bits afbeelding](assets/Mastering3dlighting_8.png)
 
-Je kunt ook omgevingslichten maken door foto&#39;s van de echte wereld vast te leggen. Voor deze workflow is een camera van 360 nodig (bijv. [Ricoh Theta Z1](https://theta360.com/en/about/theta/z1.html)). De camera wordt vervolgens gebruikt voor belichtingsbracketing, of voor het maken van meerdere opnamen van dezelfde omgeving, genomen met een reeks verschillende belichtingswaarden (van onderbelicht tot overbelicht). Deze opnamen worden vervolgens gebruikt om afbeeldingen met 32 bits samen te stellen, vaak HDR&#39;s genoemd (kort voor een High Dynamic Range). Een manier om een dergelijke afbeelding samen te stellen is met de functie Samenvoegen tot HDR in Photoshop. Het ingesloten belichtingsbereik wordt de intensiteitseigenschap.
+Je kunt ook omgevingslichten maken door foto&#39;s van de echte wereld vast te leggen. Voor deze workflow is een camera van 360 nodig (bijvoorbeeld [Ricoh Theta Z1](https://theta360.com/en/about/theta/z1.html)). De camera wordt vervolgens gebruikt voor belichtingsbracketing, of voor het maken van meerdere opnamen van dezelfde omgeving, genomen met een reeks verschillende belichtingswaarden (van onderbelicht tot overbelicht). Deze opnamen worden vervolgens gebruikt om afbeeldingen met 32 bits samen te stellen, vaak HDR&#39;s genoemd (kort voor een High Dynamic Range). Een manier om een dergelijke afbeelding samen te stellen is met de functie Samenvoegen tot HDR in Photoshop. Het ingesloten belichtingsbereik wordt de intensiteitseigenschap.
 
 ![Voorbeeld van een 3D-scène verlicht door een fotografisch omgevingslicht](assets/Mastering3dlighting_9.jpg)
 
@@ -99,19 +100,19 @@ Als u de lichtbron kleiner maakt dan het object, worden de schaduwen scherper, m
 
 ### Zon en lucht
 
-Zonlicht is een speciaal soort richtingslicht. Het proces waarbij het licht wordt ingesteld lijkt sterk op dat van een regulier gericht licht, maar met dit licht wordt de kleur automatisch met de hoogte gewijzigd; als de horizon dicht bij de horizon staat ( lage waarden ) , wordt deze geleidelijk warmer om de zonsondergang te simuleren . U kunt de kleur ook wijzigen met behulp van voorinstellingen. Intussen zal de zachtheid van de schaduw beïnvloeden.
+Zonlicht is een speciaal soort richtingslicht. Het instellen van het licht lijkt sterk op een normaal gericht licht, maar dit licht verandert automatisch de kleur met de hoogte. Wanneer het dicht bij de horizon staat (lage hoogtewaarden), wordt het geleidelijk warmer om de zonsondergang te simuleren. U kunt de kleur ook wijzigen met behulp van voorinstellingen. Intussen zal de zachtheid van de schaduw beïnvloeden.
 
 ![Belichtingseigenschappen voor zonlicht bewerken op een 3D-automodel in Adobe [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
 
 ![Een 3D-scène op de maan, waarbij zonlicht de enige lichtbron is](assets/Mastering3dlighting_16.jpg)
 
-We kunnen de lucht nabootsen met behulp van omgevingslichtjes, en elk omgevingslicht dat de lucht bevat kan worden gebruikt. Nu moeten we het zonlicht (gemaakt in [!DNL Dimension]) met de zon, vastgelegd in het omgevingslicht. Een snelle manier om dit te doen is een bol te creëren en er een metaal aan toe te wijzen; dit zal ons voorzien van real-time reflecties van het milieu, zodat we Aim-licht op het punt kunnen gebruiken om het zonlicht af te stemmen op de zon.
+We kunnen de lucht nabootsen met behulp van omgevingslichtjes, en elk omgevingslicht dat de lucht bevat kan worden gebruikt. Nu moeten we het zonlicht (gemaakt in [!DNL Dimension]) met de zon, vastgelegd in het omgevingslicht. Een snelle manier om dit te doen is een bol te maken en er een metaal materiaal aan toe te wijzen. Dit zal ons voorzien van real-time reflecties van het milieu, zodat we Aim licht kunnen gebruiken op het punt om het zonlicht af te stemmen op de zon.
 
 Als het omgevingslicht een overzwevende hemel bevat, kan de eigenschap cloudiness worden gebruikt om deze voorwaarden beter aan te passen.
 
 ![Bezig met manipuleren van wolkeigenschappen voor luchtverlichting op een 3D-automodel in Adobe [!DNL Dimension]](assets/Mastering3dlighting_17.gif)
 
-Als het zonlicht en het omgevingslicht eenmaal zijn aangesloten, kunt u ze samen roteren met de eigenschap Globale rotatie.
+Als het zonlicht en het omgevingslicht eenmaal zijn aangesloten, kunt u ze samen roteren met behulp van de eigenschap Globale rotatie.
 
 ### Op object gebaseerde lichten
 
@@ -161,9 +162,9 @@ Er zijn twee manieren om de 3-punts belichting in [!DNL Dimension] - gebruik van
 
 ![3D-illustratie genaamd Pipe Dreams van Vladimir Petkovic](assets/Mastering3dlighting_27.jpg)
 
-Creatieve verlichting wordt gebruikt wanneer fysieke nauwkeurigheid niet het belangrijkste doel is. Dit omvat abstracte en surrealistische scènes van allerlei soorten, dus er zijn geen echte grenzen waar onze verbeelding ons mee kan brengen.
+Creatieve verlichting wordt gebruikt wanneer fysieke nauwkeurigheid niet het belangrijkste doel is. Dit omvat abstracte en surrealistische scènes van allerlei soorten, dus er zijn geen echte grenzen waar onze verbeeldingen ons mee kunnen brengen.
 
-In het bovenstaande voorbeeld was het de bedoeling om een droomachtige omgeving af te beelden: snoep, pastelkleuren en vloeiende oppervlakken. Het verlichtingssysteem bestaat uit drie gloeiende platen (twee aan de zijkant en de hoofdaan de onderkant). Alle gloeiende platen zijn onrealistisch groot, waardoor zeer vloeiende schaduwen en hooglichten ontstaan. De lichtbronnen zijn gekleurd en die kleur wordt overgebracht naar het materiaal dat is toegewezen aan de objecten in de scène.
+In het bovenstaande voorbeeld was het de bedoeling om een droomachtige omgeving te profileren: snoep, pastelkleuren en vloeiende oppervlakken. Het verlichtingssysteem bestaat uit drie gloeiende platen (twee aan de zijkant en de hoofdaan de onderkant). Alle gloeiende platen zijn onrealistisch groot, waardoor zeer vloeiende schaduwen en hooglichten ontstaan. De lichtbronnen zijn gekleurd en die kleur wordt overgebracht naar het materiaal dat is toegewezen aan de objecten in de scène.
 
 Het onderwerp van de scène (buizen) is volledig omringd door de muurgeometrie. Dit zorgt ervoor dat lichte stralen heen en weer stuiteren en zich op interessante manieren mengen. Afspelen met koele VS warme tinten produceert vaak een mooi contrast (deze techniek wordt soms gebruikt bij portretfotografie).
 
@@ -171,13 +172,13 @@ Het onderwerp van de scène (buizen) is volledig omringd door de muurgeometrie. 
 
 ### Interne visualisatie
 
-![Een 3D-interieurscène van een woonkamer](assets/Mastering3dlighting_29.jpg)
+![Een 3D-binnenplaats van een woonkamer](assets/Mastering3dlighting_29.jpg)
 
 Het maken van een visualisatie van een 3D-binnenkant volgt een aantal regels, die vrijwel altijd goede resultaten garanderen. Voor dit gebruik zullen we alleen rekening houden met natuurlijk licht (geen kunstmatige bronnen, zoals lampen).
 
-In de eerste plaats moet een scène als deze zich in een gesloten omgeving bevinden. Net als in het echte leven heeft het interieur muren, vloer, plafond en ramen nodig. Dit zal ervoor zorgen dat het licht door de vensters komt en dan rond (via een proces genoemd het straal vinden) stuitert. Dit gedrag produceert zeer natuurlijke verlichting (de afgesloten gebieden, zoals hoeken, worden bijvoorbeeld donkerder).
+In de eerste plaats moet een scène als deze zich in een gesloten omgeving bevinden. Net als in het echte leven heeft het interieur muren, vloer, plafond en ramen nodig. Dit zal ervoor zorgen dat het licht door de vensters komt en dan rond (via een proces genoemd het straal vinden) stuitert. Dit gedrag produceert zeer natuurlijke belichting (de afgesloten gebieden, zoals de hoeken, worden bijvoorbeeld donkerder).
 
-Omdat de scène bijna volledig omgeven is door architecturale geometrie, zullen we zeer weinig illuminatie zien en bijna geen reflecties uit het Milieu licht. Maar in dit geval bouwen we eigenlijk onze eigen omgeving, het interieur zelf. Het licht zal reageren met de objecten in de scène door ze en de omringende muren eraf te laten stuiteren. De objecten weerspiegelen alleen elkaar en de omliggende muren. Desalniettemin is het een goed idee om een omgevingslicht toe te voegen dat de lucht in zich draagt. Hiermee wordt een onscherpe blauwe vulling toegevoegd.
+Omdat de scène bijna volledig omgeven is door architecturale geometrie, zullen we zeer weinig illuminatie zien en bijna geen reflecties uit het Milieu-licht. Maar in dit geval bouwen we eigenlijk onze eigen omgeving, het interieur zelf. Het licht zal reageren met de objecten in de scène door ze en de omringende muren eraf te laten stuiteren. De objecten weerspiegelen alleen elkaar en de omliggende muren. Desalniettemin is het een goed idee om een omgevingslicht toe te voegen dat de lucht in zich draagt. Hiermee wordt een onscherpe blauwe vulling toegevoegd.
 
 De eenvoudigste manier om dit licht in te stellen is door vlakken met gloeiende materialen te gebruiken. In dit geval hebben we drie vlakken die alle openingen in het binnenland bedekken.
 

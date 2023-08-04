@@ -1,10 +1,11 @@
 ---
 title: InDesign
 description: Creëer rijke digitale en afdrukervaringen, van eBooks en elektronische magazines tot boeken, rapporten en whitepapers
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -88,7 +89,7 @@ In deze zelfstudie leert u hoe:
 * Zorg dat je klanten zich veilig voelen
 * Digitaal betekent dat je content eenvoudig actueel kunt houden
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ## Delen voor revisie vanuit InDesign (4:04) {#tutorial2}
@@ -108,7 +109,7 @@ In deze zelfstudie leert u hoe u:
 
 [![Vergelijkingsafbeelding](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Emily Palmer, Solutions Consultant (Digital Media)
 
 ## PDF-opmerkingen importeren uit een revisie van een Document Cloud (4:52) {#tutorial3}
@@ -126,7 +127,7 @@ In deze zelfstudie leert u hoe u:
 
 [![Vergelijkingsafbeelding](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
 ## Videobestand toevoegen aan InDesign-document (5:58) {#tutorial4}
@@ -140,7 +141,7 @@ In deze zelfstudie leert u hoe u:
 * Video toevoegen aan InDesign
 * Uitvoeren naar PDF en online publiceren
 
-**Gepresenteerd door:**
+**Voorgesteld door:**
 Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ![InDesignLogo](../assets/id_appicon_96.png)
