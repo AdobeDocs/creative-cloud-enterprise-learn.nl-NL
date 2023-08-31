@@ -1,12 +1,13 @@
 ---
-user-guide-title: Creative Cloud voor ondernemingen Tutorials
+user-guide-title: Creative Cloud voor Tutorials voor ondernemingen
 breadcrumb-title: Creative Cloud voor ondernemingen
-user-guide-description: Zelfstudies en korte naslaggidsen met de focus op Creative Cloud voor ondernemingen weergeven
+user-guide-description: Zelfstudies en korte naslaggidsen met focus op Creative Cloud voor ondernemingen weergeven
 solution: Creative Cloud
 feature-set: Creative Cloud
+feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '531'
 ht-degree: 9%
@@ -75,22 +76,22 @@ ht-degree: 9%
    + Zelfstudies {#stocktutorials}
       + [Verbluffende digitale assets](stock/stunning-digital-assets.md)
       + [Adobe zoeken [!DNL Stock] licentiegeschiedenis](stock/searchstock.md)
-      + [Voeg een met de hand getekend estheticum toe aan Adobe [!DNL Stock] afbeeldingen](stock/handdrawn.md)
+      + [Een met de hand getekend esthetiek toevoegen aan Adobe [!DNL Stock] afbeeldingen](stock/handdrawn.md)
       + [Flitser toevoegen aan typografie met maskers en animatie](stock/flairtypography.md)
       + [Een Adobe animeren [!DNL Stock] vectorillustratie in Photoshop](stock/animatevector.md)
       + [Beginnen met uw jaarverslag met een video die is gemaakt met Adobe [!DNL Stock] en Spark Video](stock/annualreport.md)
-      + [Creatief tot leven brengen met aangepaste animaties van Adobe [!DNL Stock]](stock/customanimations.md)
+      + [Creatief tot leven brengen met aangepaste animaties per Adobe [!DNL Stock]](stock/customanimations.md)
       + [Een Adobe wijzigen [!DNL Stock] de kleuren van de afbeelding om overeen te komen met uw verhaal](stock/changecolors.md)
-      + [Een 3D-collage maken voor een poster met Adobe [!DNL Stock] afbeeldingen](stock/collage.md)
+      + [Een 3D-collage maken voor een poster met behulp van Adobe [!DNL Stock] afbeeldingen](stock/collage.md)
       + [Een vet label met Adobe maken [!DNL Stock] sjablonen en slimme Photoshop-objecten](stock/boldlabel.md)
       + [Maak bedrijfsrichtlijnen voor infographic met Adobe [!DNL Stock]](stock/infographic.md)
-      + [Een vergelijkingsoverzicht voor productfuncties maken met Adobe [!DNL Stock]](stock/featurecomparison.md)
-      + [Een semi-surrealistische samenstelling maken met Adobe [!DNL Stock]](stock/surrealcomposite.md)
+      + [Een vergelijkingsoverzicht voor productfuncties maken met behulp van Adobe [!DNL Stock]](stock/featurecomparison.md)
+      + [Een semi-surrealistische compositie met Adobe maken [!DNL Stock]](stock/surrealcomposite.md)
       + [Een semi-surrealistisch patroon met Adobe maken [!DNL Stock]](stock/surrealpattern.md)
-      + [Een interactieve productconfigurator maken met Adobe [!DNL Stock]](stock/productconfigurator.md)
-      + [Een interactieve toeristische foto maken met Adobe [!DNL Stock] en XD](stock/interactivetourismphoto.md)
+      + [Een interactieve productconfigurator met Adobe maken [!DNL Stock]](stock/productconfigurator.md)
+      + [Een interactieve toeristische foto met Adobe maken [!DNL Stock] en XD](stock/interactivetourismphoto.md)
       + [Animaties maken voor e-mail met Adobe [!DNL Stock] en Photoshop](stock/animationemail.md)
-      + [Maak coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets](stock/brandgradients.md)
+      + [Creëer coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets](stock/brandgradients.md)
       + [Maak aansprekende webafbeeldingen door Adobe te combineren [!DNL Stock] afbeeldingen met CSS](stock/webgraphics.md)
       + [Creëer in een mum van tijd inspirerende stemmingsborden met Adobe [!DNL Stock]](stock/moodboard.md)
       + [Maak realistische fotocomposities met Adobe [!DNL Stock] afbeeldingen](stock/realisticcomposite.md)
@@ -104,7 +105,7 @@ ht-degree: 9%
       + [Tips en technieken voor het beheersen van 3D-belichting in CGI](3di/mastering3dlighting.md)
       + [Fotorealistische virtuele fotografie maken met 3D-rendering en -composities](3di/photorealistic.md)
       + [Pas een 3D-model aan en merk het op met [!DNL Dimension] en Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Adobe Video {#videooverview}
++ Video Adobe {#videooverview}
    + [Overzicht](dva/overview-dva.md)
    + Zelfstudies {#videotutorials}
       + [Sjablonen voor professionele bewegende beelden](dva/motion-graphics-templates.md)

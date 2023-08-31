@@ -1,20 +1,21 @@
 ---
 title: Creative Cloud voor ondernemingen - Snelle naslaggidsen
-description: Tutorials om u te helpen snel aan de slag te gaan met de Creative Cloud voor Enterprise-producten
+description: Tutorials om u te helpen snel aan de slag te gaan op het Creative Cloud voor Enterprise-producten
+feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Video Editing, 3D
 role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
 
 ---
 
-# Snelle naslaggidsen voor Creative Cloud voor ondernemingen
+# Korte handleidingen voor Creative Cloud voor ondernemingen
 
-![Creative Cloud Hero-afbeelding](../assets/CCEbanner.png)
+![Hoofdafbeelding van Creative Cloud](../assets/CCEbanner.png)
 
 Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Met deze korte naslaggidsen (PDF) leer je nieuwe functies in Creative Cloud.
 
@@ -29,7 +30,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="CreateEditandShareaWebPagewithSpark.pdf" target="_blank"><strong>Een webpagina maken, bewerken en delen met Spark (PDF)</strong></a>
     </div>
-    <em>Maak een interactief, responsief en lichtbakvriendelijk fotoraster voor uw webpagina met eenvoudige, intuïtieve tools in Adobe Spark en prachtige afbeeldingen van Adobe [!DNL Stock]</em>
+    <em>Maak een interactief, responsief en lichtbakbaar fotoraster voor je webpagina met eenvoudige, intuïtieve tools in Adobe Spark en prachtige afbeeldingen van Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
@@ -69,7 +70,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="PDF scannen, delen en reviseren met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="ScanShareandReviewPDFswithCreativeCloud.pdf" target="_blank"><strong>PDF scannen, delen en reviseren met Creative Cloud (PDF)</strong></a>
+   <a href="ScanShareandReviewPDFswithCreativeCloud.pdf" target="_blank"><strong>PDF scannen, delen en reviewen met Creative Cloud (PDF)</strong></a>
     </div>
     <em>Leer hoe je een papieren formulier vastlegt, uitsnijdt en converteert naar een volledig functioneel PDF-bestand met Adobe Scan en Document Cloud. Gebruik vervolgens Acrobat om je gegevens in te vullen, te ondertekenen en te delen</em>
     <br>
@@ -89,7 +90,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
       <img alt="Schets, comp en voltooi een brochure-lay-out met Creative Cloud" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf" target="_blank"><strong>Schets, comp en voltooi een brochure-lay-out met Creative Cloud (PDF)</strong></a>
+   <a href="SketchCompandFinalizeaBrochureLayoutwithCreativeCloud.pdf" target="_blank"><strong>Schets, comp en voltooi een brochure-indeling met Creative Cloud (PDF)</strong></a>
     </div>
     <em>Verken snel lay-outideeën voor drukwerk, het web, mobiele apparaten of social media op je mobiele apparaat met Adobe Comp</em>
     <br>
@@ -108,7 +109,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="UnlimitedAdobeFontsatyourFingertips.pdf" target="_blank"><strong>Onbeperkte Adobe Fonts bij uw vingertoppen (PDF)</strong></a>
     </div>
-    <em>[!DNL Capture] interessante lettertypen in de echte wereld met gebruik van Adobe [!DNL Capture] op uw mobiele apparaat, en activeer en sla vergelijkbare lettertypen op met Adobe Fonts en Creative Cloud-bibliotheken</em>
+    <em>[!DNL Capture] interessante lettertypen in de echte wereld met Adobe [!DNL Capture] op uw mobiele apparaat en activeer en sla vergelijkbare lettertypen op met Adobe Fonts en Creative Cloud libraries</em>
     <br>
   </td>
    <td>
@@ -288,10 +289,10 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   </td>
   <td>
    <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank">
-      <img alt="Verbeter je Portfolio met Unieke projecten en Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Verbeter je Portfolio met unieke projecten en Adobe [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank"><strong>Verbeter je Portfolio met Unieke projecten en Adobe [!DNL Stock] (PDF)</strong></a>
+   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank"><strong>Verbeter je Portfolio met unieke projecten en Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
     <em>Afbeeldingen combineren vanuit Adobe [!DNL Stock] om een geheel nieuw beeld voor uw ontwerpprojecten te creëren</em>
     <br>
@@ -303,7 +304,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank"><strong>Meer aandacht krijgen met Beweging van Adobe [!DNL Stock] (PDF)</strong></a>
     </div>
-    <em>[!DNL Capture] de aandacht van je doelgroepen, op elk scherm, door fotografie te combineren met video van Adobe [!DNL Stock]</em>
+    <em>[!DNL Capture] de aandacht van je doelgroepen, op elk scherm, door fotografie te combineren met video uit Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>
@@ -313,7 +314,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="ShowcaseyourdatawithAdobeStockMotionGraphicTemplates.pdf" target="_blank"><strong>Toon je data met Adobe [!DNL Stock] Bewegingsafbeeldingssjablonen (PDF)</strong></a>
     </div>
-    <em>Vertegenwoordig je data op een meer invloedrijke manier door beweging en ontwerp toe te voegen met een sjabloon voor bewegende beelden van Adobe [!DNL Stock]</em>
+    <em>Vertegenwoordig je data op een meer invloedrijke manier door beweging en ontwerp toe te voegen met een sjabloon voor bewegende beelden uit Adobe [!DNL Stock]</em>
     <br>
   </td>
 </tr>
@@ -325,7 +326,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="ShowOffYourDesignWorkintheRealWorld.pdf" target="_blank"><strong>Laat je ontwerpwerk zien in de echte wereld (PDF)</strong></a>
     </div>
-    <em>Leer hoe je je ontwerpwerk kunt vormgeven met echte sjablonen van Adobe [!DNL Stock]</em>
+    <em>Leer hoe u uw ontwerpwerk kunt modelleren met echte sjablonen uit de Adobe [!DNL Stock]</em>
     <br>
   </td>
 <td>
@@ -362,7 +363,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank"><strong>Realistische 3D-modellen maken met Adobe [!DNL Stock] en [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Bekijk hoe je ontwerp wordt omgezet in echte objecten door 3D-modellen van Adobe te combineren [!DNL Stock] met aangepaste decies in [!DNL Dimension]</em>
+    <em>Bekijk hoe je ontwerp wordt omgezet in echte objecten door 3D-modellen te combineren vanuit Adobe [!DNL Stock] met aangepaste decies in [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -466,7 +467,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="DesignandPrototypeInteractiveProjectswithCreativeCloud.pdf" target="_blank"><strong>Ontwerp en maak een prototype van Interactieve Projecten met Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Creëer in slechts een paar minuten een volledig interactieve en geanimeerde gebruikerservaring door Adobe XD te combineren met een breed scala aan unieke en veelzijdige assets op Adobe- [!DNL Stock]</em>
+    <em>Creëer in slechts een paar minuten een volledig interactieve en geanimeerde gebruikerservaring door Adobe XD te combineren met een breed scala aan unieke en veelzijdige assets op Adobe [!DNL Stock]</em>
     <br>
   </td>
   <td>

@@ -1,11 +1,11 @@
 ---
 title: Illustrator
 description: Maak logo’s, pictogrammen, illustraties en andere ontwerpen die je voor het web, mobiele apparaten of drukwerk kunt bedenken
-role: User
 feature: Vector Editing
+role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 De moderne app voor illustraties en afbeeldingen. Maak logo’s, pictogrammen, illustraties en andere ontwerpen die je voor het web, mobiele apparaten of drukwerk kunt bedenken.
 
-## Tutorials van product bekijken
+## Door Tutorials van producten bladeren
 
 <table style="table-layout:fixed">
 <tr>

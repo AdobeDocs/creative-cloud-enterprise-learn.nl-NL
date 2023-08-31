@@ -1,11 +1,12 @@
 ---
 title: Adobe [!DNL Stock] zelfstudies
-description: Tutorials om u te helpen snel aan de slag te gaan met Adobe [!DNL Stock]
+description: Tutorials om u te helpen snel aan de slag te gaan met de Adobe [!DNL Stock]
+feature: Licensable Assets, Vector Editing, Image Editing, Video Editing
 role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '1242'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 # Adobe [!DNL Stock] zelfstudies
 
-![Creative Cloud Hero-afbeelding](../assets/Stock.jpg)
+![Hoofdafbeelding van Creative Cloud](../assets/Stock.jpg)
 
 Creatieve medewerkers staan onder druk om snel aansprekende visuele content te leveren. Adobe Stock geeft creatieve teams toegang tot meer dan 300 miljoen royaltyvrije afbeeldingen, video&#39;s, audiobestanden, sjablonen, illustraties en 3D-assets - binnen de Creative Cloud-apps die ze dagelijks gebruiken. Krijg onbeperkte toegang tot Adobe Stock-standaardassets met Creative Cloud Pro Edition. Bekijk de nieuwste verzamelingen op stock.adobe.com. Selecteer een afbeelding om een zelfstudie weer te geven.
 
@@ -37,15 +38,15 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <div>
       <a href="searchstock.md"><strong>Adobe zoeken [!DNL Stock] licentiegeschiedenis</strong></a>
       </div>
-      <em>Leer hoe je snel de Adobe van je organisatie kunt doorzoeken [!DNL Stock] licentiegeschiedenis in Creative Cloud voor ondernemingen</em>
+      <em>Leer hoe u snel de Adobe van uw organisatie kunt doorzoeken [!DNL Stock] licentiegeschiedenis in Creative Cloud voor ondernemingen</em>
       <br>
   </td>
   <td>
       <a href="handdrawn.md">
-         <img alt="Voeg een met de hand getekend estheticum toe aan Adobe [!DNL Stock] afbeeldingen" src="assets/handdrawn.jpg" />
+         <img alt="Een met de hand getekend esthetiek toevoegen aan Adobe [!DNL Stock] afbeeldingen" src="assets/handdrawn.jpg" />
       </a>
       <div>
-      <a href="handdrawn.md"><strong>Voeg een met de hand getekend estheticum toe aan Adobe [!DNL Stock] afbeeldingen</strong></a>
+      <a href="handdrawn.md"><strong>Een met de hand getekend esthetiek toevoegen aan Adobe [!DNL Stock] afbeeldingen</strong></a>
       </div>
       <em>Breid je creatieve marketing uit met unieke technieken die diepte en dimensie toevoegen aan je afbeeldingen met Photoshop for iPad</em>
       <br>
@@ -57,7 +58,7 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
     <div>
    <a href="flairtypography.md"><strong>Flitser toevoegen aan typografie met maskers en animatie</strong></a>
     </div>
-    <em>Breng je tekst tot leven met elementen van Adobe [!DNL Stock] en animatiestijlen uit After Effects</em>
+    <em>Breng je tekst tot leven met elementen uit Adobe [!DNL Stock] en animatiestijlen uit After Effects</em>
     <br>
   </td>
 </tr>
@@ -69,7 +70,7 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <div>
       <a href="animatevector.md"><strong>Een Adobe animeren [!DNL Stock] vectorillustratie in Photoshop</strong></a>
       </div>
-      <em>Animatie in je nieuwsbrief opnemen met bewerkbare vectoren voor Adobe [!DNL Stock]</em>
+      <em>Animatie in je nieuwsbrief met bewerkbare vectoren voor Adobe [!DNL Stock]</em>
       <br>
   </td>
  <td>
@@ -79,15 +80,15 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <div>
       <a href="annualreport.md"><strong>Beginnen met uw jaarverslag met een video die is gemaakt met Adobe [!DNL Stock] en Spark Video</strong></a>
       </div>
-      <em>Maak van je jaarverslag een verhaal met Adobe [!DNL Stock] en Spark Video</em>
+      <em>Maak van uw jaarverslag een verhaal met Adobe [!DNL Stock] en Spark Video</em>
       <br>
   </td>
   <td>
       <a href="customanimations.md">
-         <img alt="Creatief tot leven brengen met aangepaste animaties van Adobe [!DNL Stock]" src="assets/customanimations.jpg" />
+         <img alt="Creatief tot leven brengen met aangepaste animaties per Adobe [!DNL Stock]" src="assets/customanimations.jpg" />
       </a>
       <div>
-      <a href="customanimations.md"><strong>Creatief tot leven brengen met aangepaste animaties van Adobe [!DNL Stock]</strong></a>
+      <a href="customanimations.md"><strong>Creatief tot leven brengen met aangepaste animaties per Adobe [!DNL Stock]</strong></a>
       </div>
       <em>Adobe gebruiken [!DNL Stock] afbeeldingen, structuren, patronen naar aangepaste animaties in Photoshop</em>
       <br>
@@ -106,10 +107,10 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
 <tr>
  <td>
       <a href="collage.md">
-         <img alt="Een 3D-collage maken voor een poster met Adobe [!DNL Stock] afbeeldingen" src="assets/collage.jpg" />
+         <img alt="Een 3D-collage maken voor een poster met behulp van Adobe [!DNL Stock] afbeeldingen" src="assets/collage.jpg" />
       </a>
       <div>
-      <a href="collage.md"><strong>Een 3D-collage maken voor een poster met Adobe [!DNL Stock] afbeeldingen</strong></a>
+      <a href="collage.md"><strong>Een 3D-collage maken voor een poster met behulp van Adobe [!DNL Stock] afbeeldingen</strong></a>
       </div>
       <em>Een collage ontwerpen in Adobe Illustrator met een opvallend 3D-effect van afbeeldingen in Adobe [!DNL Stock]</em>
       <br>
@@ -121,7 +122,7 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <div>
       <a href="boldlabel.md"><strong>Een vet label met Adobe maken [!DNL Stock] sjablonen en slimme Photoshop-objecten</strong></a>
       </div>
-      <em>Ontwerp en visualiseer je eigen ontwerpen met realistische verpakkingssjablonen van Adobe [!DNL Stock]</em>
+      <em>Ontwerp en visualiseer je eigen ontwerpen met realistische verpakkingssjablonen vanuit Adobe [!DNL Stock]</em>
       <br>
   </td>
   <td>
@@ -131,15 +132,15 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <div>
       <a href="infographic.md"><strong>Maak bedrijfsrichtlijnen voor infographic met Adobe [!DNL Stock]</strong></a>
       </div>
-      <em>Verschillende middelen van Adobe combineren [!DNL Stock] om richtlijnen te communiceren in de vorm van visueel aantrekkelijke infographics</em>
+      <em>Verschillende middelen combineren uit Adobe [!DNL Stock] om richtlijnen te communiceren in de vorm van visueel aantrekkelijke infographics</em>
       <br>
   </td>
  <td>
       <a href="featurecomparison.md">
-         <img alt="Een vergelijkingsoverzicht voor productfuncties maken met Adobe [!DNL Stock]" src="assets/featurecomparison.jpg" />
+         <img alt="Een vergelijkingsoverzicht voor productfuncties maken met behulp van Adobe [!DNL Stock]" src="assets/featurecomparison.jpg" />
       </a>
       <div>
-      <a href="featurecomparison.md"><strong>Een vergelijkingsoverzicht voor productfuncties maken met Adobe [!DNL Stock]</strong></a>
+      <a href="featurecomparison.md"><strong>Een vergelijkingsoverzicht voor productfuncties maken met behulp van Adobe [!DNL Stock]</strong></a>
       </div>
       <em>Maak een afbeelding waarin productprijzingsplannen worden vergeleken om toekomstige klanten in één oogopslag de informatie te geven die ze nodig hebben</em>
       <br>
@@ -148,10 +149,10 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
 <tr>
    <td>
       <a href="surrealcomposite.md">
-         <img alt="Een semi-surrealistische samenstelling maken met Adobe [!DNL Stock]" src="assets/surrealcomposite.jpg" />
+         <img alt="Een semi-surrealistische compositie met Adobe maken [!DNL Stock]" src="assets/surrealcomposite.jpg" />
       </a>
       <div>
-      <a href="surrealcomposite.md"><strong>Een semi-surrealistische samenstelling maken met Adobe [!DNL Stock]</strong></a>
+      <a href="surrealcomposite.md"><strong>Een semi-surrealistische compositie met Adobe maken [!DNL Stock]</strong></a>
       </div>
       <em>Maak een gedenkwaardige redactionele afbeelding door meerdere afbeeldingen te combineren met kleur-, beweging- en maskeereffecten</em>
       <br>
@@ -168,20 +169,20 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
   </td>
    <td>
       <a href="productconfigurator.md">
-         <img alt="Een interactieve productconfigurator maken met Adobe [!DNL Stock]" src="assets/productconfigurator.jpg" />
+         <img alt="Een interactieve productconfigurator met Adobe maken [!DNL Stock]" src="assets/productconfigurator.jpg" />
       </a>
       <div>
-      <a href="productconfigurator.md"><strong>Een interactieve productconfigurator maken met Adobe [!DNL Stock]</strong></a>
+      <a href="productconfigurator.md"><strong>Een interactieve productconfigurator met Adobe maken [!DNL Stock]</strong></a>
       </div>
       <em>Profiteer van de kracht van interactiviteit, animatie en bewerkbare illustraties van Adobe [!DNL Stock] financiële informatie visueel presenteren</em>
       <br>
   </td>
   <td>
       <a href="interactivetourismphoto.md">
-         <img alt="Een interactieve toeristische foto maken met Adobe [!DNL Stock] en XD" src="assets/interactivetourismphoto.jpg" />
+         <img alt="Een interactieve toeristische foto met Adobe maken [!DNL Stock] en XD" src="assets/interactivetourismphoto.jpg" />
       </a>
       <div>
-      <a href="interactivetourismphoto.md"><strong>Een interactieve toeristische foto maken met Adobe [!DNL Stock] en XD</strong></a>
+      <a href="interactivetourismphoto.md"><strong>Een interactieve toeristische foto met Adobe maken [!DNL Stock] en XD</strong></a>
       </div>
       <em>Snel een interactieve foto maken in uw websiteprototype met Adobe [!DNL Stock] en XD</em>
       <br>
@@ -195,15 +196,15 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <div>
       <a href="animationemail.md"><strong>Animaties maken voor e-mail met Adobe [!DNL Stock] en Photoshop</strong></a>
       </div>
-      <em>Geef je e-mails een nieuwe impuls met Animatie via stoppen met werken met Adobe [!DNL Stock] en Photoshop</em>
+      <em>Geef je e-mails Adobe dankzij Animatie met stop-actie [!DNL Stock] en Photoshop</em>
       <br>
   </td>
   <td>
       <a href="brandgradients.md">
-         <img alt="Maak coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets" src="assets/brandgradients.jpg" />
+         <img alt="Creëer coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets" src="assets/brandgradients.jpg" />
       </a>
       <div>
-      <a href="brandgradients.md"><strong>Maak coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets</strong></a>
+      <a href="brandgradients.md"><strong>Creëer coherente merkafbeeldingen met prachtige verlopen en Adobe [!DNL Stock] assets</strong></a>
       </div>
       <em>Creëer merkeenheid met verschillende afbeeldingen door kleuren en verlopen te combineren in je reclamecampagne</em>
       <br>
@@ -237,7 +238,7 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
       <div>
       <a href="realisticcomposite.md"><strong>Maak realistische fotocomposities met Adobe [!DNL Stock] afbeeldingen</strong></a>
       </div>
-      <em>Twee grote Adobe samenvoegen [!DNL Stock] foto's om mensen in je posts op social media te plaatsen</em>
+      <em>Twee fantastische Adoben samenbrengen [!DNL Stock] foto's om mensen in je posts op social media te plaatsen</em>
       <br>
   </td>
    <td>
@@ -247,7 +248,7 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
     <div>
    <a href="loadingscreen.md"><strong>Een animatie op het laadscherm aanpassen met Adobe [!DNL Stock] en XD</strong></a>
     </div>
-    <em>Vectorillustraties van Adobe aanpassen [!DNL Stock] om een chilling laadscherm voor een mobiele app te maken</em>
+    <em>Vectorillustraties aanpassen vanuit Adobe [!DNL Stock] om een chilling laadscherm voor een mobiele app te maken</em>
     <br>
   </td>
   <td>
@@ -257,7 +258,7 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
     <div>
    <a href="presentationtemplate.md"><strong>Een Adobe aanpassen [!DNL Stock] presentatiesjabloon om er professioneel uit te zien, maar toch opvallend</strong></a>
     </div>
-    <em>Creëer binnen enkele minuten een prachtige gestileerde presentatie met afbeeldingen en sjablonen van Adobe [!DNL Stock] en enkele gebruiksvriendelijke speciale effecten</em>
+    <em>Creëer binnen enkele minuten een prachtige gestileerde presentatie met afbeeldingen en sjablonen uit Adobe [!DNL Stock] en enkele gebruiksvriendelijke speciale effecten</em>
     <br>
   </td>
    <td>
@@ -346,12 +347,12 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
    </td>
    <td>
       <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
-         <img alt="Laat je ontwerpwerk zien in de echte wereld met Adobe [!DNL Stock] en Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
+         <img alt="Toon uw ontwerpwerk in de echte wereld met Adobe [!DNL Stock] en Photoshop" src="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>Laat je ontwerpwerk zien in de echte wereld met Adobe [!DNL Stock] en Photoshop (PDF)</strong></a>
+      <a href="assets/ShowOffyourDesignWorkintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>Toon uw ontwerpwerk in de echte wereld met Adobe [!DNL Stock] en Photoshop (PDF)</strong></a>
       </div>
-      <em>Ga als volgt te werk om uw werk te tonen in een realistisch uitziende Adobe [!DNL Stock] sjabloon met Adobe Photoshop</em>
+      <em>Volg deze stappen om uw werk te tonen in een realistisch uitziende Adobe [!DNL Stock] sjabloon met Adobe Photoshop</em>
       <br>
   </td>
  </tr> 
@@ -368,10 +369,10 @@ Creatieve medewerkers staan onder druk om snel aansprekende visuele content te l
   </td>
   <td>
       <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank">
-         <img alt="Visualiseer posterontwerpen in de echte wereld met Adobe [!DNL Stock] en Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
+         <img alt="Posterontwerpen in de echte wereld visualiseren met Adobe [!DNL Stock] en Photoshop" src="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
-      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>Visualiseer posterontwerpen in de echte wereld met Adobe [!DNL Stock] en Photoshop (PDF)</strong></a>
+      <a href="assets/VisualizePosterDesignsintheRealWorldwithAdobeStockandPhotoshop.pdf" target="_blank"><strong>Posterontwerpen in de echte wereld visualiseren met Adobe [!DNL Stock] en Photoshop (PDF)</strong></a>
       </div>
       <em>Toon je ontwerpen in een levensechte omgeving om een beter inzicht te krijgen in hoe ze eruit zien in de wereld</em>
       <br>

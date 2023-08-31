@@ -1,27 +1,27 @@
 ---
-title: Werken met verlopen van Creative Cloud voor ondernemingen en Acrobat-serienummers
-description: Werken met het verlopen van serienummers voor Creative Cloud voor ondernemingen en Acrobat
-role: User
+title: Werken met verlopen van Creatives Cloud voor ondernemingen en Acrobat-serienummers
+description: Werken met het verlopen van serienummers voor Creatives Cloud voor ondernemingen en Acrobat
+role: Admin
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '844'
 ht-degree: 3%
 
 ---
 
-# Werken met verlopen van Creative Cloud voor ondernemingen en Acrobat-serienummers
+# Werken met verlopen van Creatives Cloud voor ondernemingen en Acrobat-serienummers
 
-In het verleden heeft Adobe serienummers met onze apps (d.w.z. Creative Suite, Creative Cloud voor ondernemingen, Acrobat XI, Acrobat DC) uitgegeven aan klanten met Enterprise Term License Agreements (ETLA). Deze serienummers hebben een vervaldatum. Nadat de vervaldatum is verstreken, werkt het product niet meer. Het is daarom belangrijk dat u de migratie plant voordat uw serienummers verlopen. Op deze pagina worden de stappen beschreven die nodig zijn om ervoor te zorgen dat uw eindgebruikers toegang kunnen blijven houden tot hun Adobe-apps en -services.
+Adobe heeft serienummers met onze apps (d.w.z. Creative Suite, Creative Cloud voor ondernemingen, Acrobat XI, Acrobat DC) uitgegeven aan klanten met Enterprise Term License Agreements (ETLA). Deze serienummers hebben een vervaldatum. Nadat de vervaldatum is verstreken, werkt het product niet meer. Het is daarom belangrijk dat u de migratie plant voordat uw serienummers verlopen. Op deze pagina worden de stappen beschreven die nodig zijn om ervoor te zorgen dat uw eindgebruikers toegang kunnen blijven houden tot hun Adobe-apps en -services.
 
 ## De vervaldatum van uw serienummers controleren
 
 ### Serienummer(s) zoeken
 
-De serienummerlicenties voor uw ETLA-overeenkomst zijn beschikbaar via de [Adobe-licentiewebsite](https://licensing.adobe.com/) (LWS). Volg deze instructies om weer te geven en te downloaden:
+De serienummerlicenties voor uw ETLA-overeenkomst zijn beschikbaar via de [Licentiewebsite Adobe](https://licensing.adobe.com/) (LWS). Volg deze instructies om weer te geven en te downloaden:
 
-1. Aanmelden bij [Adobe-licentiewebsite](https://licensing.adobe.com/) (LWS) met uw Adobe ID en wachtwoord.
+1. Aanmelden bij [Licentiewebsite Adobe](https://licensing.adobe.com/) (LWS) met uw Adobe ID en wachtwoord.
 1. Kies **Licenties > Serienummers ophalen**.
 1. Voer uw **Eindgebruiker-id** of **Distribueren naar id**.
 1. (Optioneel) Selecteer een **Productnaam**, **Productversie**, of **Platform** om resultaten te filteren.
@@ -33,13 +33,13 @@ De serienummerlicenties voor uw ETLA-overeenkomst zijn beschikbaar via de [Adobe
 
 ### Controleer de vervaldatum
 
-De [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) is een opdrachtregelprogramma voor IT-beheerders om te controleren of Adobe-producten op een computer serienummers gebruiken die zijn verlopen of verlopen. Het hulpprogramma geeft informatie weer zoals de LEID (Product Licensing Identifier), het gecodeerde serienummer en de vervaldatum. Dit [pagina](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) bevat instructies voor het downloaden en gebruiken van het gereedschap op Mac- of Windows-computers.
+De [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) is een opdrachtregelprogramma voor IT-beheerders om te controleren of Adobe-producten op een computer serienummers gebruiken die zijn verlopen of verlopen. De tool geeft informatie weer zoals de product-id (LEID), het gecodeerde serienummer en de vervaldatum. Dit [pagina](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) bevat instructies voor het downloaden en gebruiken van het gereedschap op Mac- of Windows-computers.
 
 ## De ervaring van eindgebruikers voor en na het verlopen van het serienummer
 
-Zowel Acrobat- als Creative Cloud for Enterprise-apps beginnen vanaf 60 dagen voor het verlopen berichten (in de apps) weer te geven. Zodra het serienummer is verlopen, stoppen de producten met werken en vragen de gebruiker om actie te ondernemen.
+Zowel Acrobat- als Creative Cloud-voor-ondernemingen-apps geven vanaf 60 dagen voor het verlopen berichten weer (in de apps). Zodra het serienummer is verlopen, stoppen de producten met werken en vragen de gebruiker om actie te ondernemen.
 
-### Ervaring met Creative Cloud voor ondernemingen
+### Creative Cloud voor bedrijfservaring
 
 De volgende informatie geeft een overzicht van de gebruikerservaring. Hieronder volgt een korte video, gevolgd door een overzicht van de gebruikerservaring.
 
@@ -47,13 +47,13 @@ De volgende informatie geeft een overzicht van de gebruikerservaring. Hieronder 
 
 **Voor vervaldatum**
 
-Vanaf 60 dagen voordat het serienummer verloopt, wordt in alle Creative Cloud voor bedrijfs-apps een dialoogvenster met het product in weergegeven voor de eindgebruiker. Dit bericht verschijnt wekelijks, tot 30 dagen voor het verlopen, en verschijnt dan dagelijks tot de vervaldatum die *Uw licentie verloopt. Voor dit Adobe-product wordt een licentie gebruikt die op 29 november 2020 verstrijkt. Neem contact op met uw beheerder om ervoor te zorgen dat u altijd toegang hebt*.
+Vanaf 60 dagen voordat het serienummer verloopt, wordt bij alle Creatives Cloud voor bedrijfs-apps een dialoogvenster met het product in weergegeven voor de eindgebruiker. Dit bericht verschijnt wekelijks, tot 30 dagen voor het verlopen, en verschijnt dan dagelijks tot de vervaldatum die *Uw licentie verloopt. Voor dit product van de Adobe wordt een licentie gebruikt die op 29 november 2020 verstrijkt. Neem contact op met uw beheerder om ervoor te zorgen dat u altijd toegang hebt*.
 
 ![CCE vóór vervaldatum](assets/cceexpiring.png)
 
 **Na vervaldatum**
 
-Zodra het serienummer is verlopen, hebben de gebruikers geen toegang meer tot de Creative Cloud voor bedrijfs-apps. Bij de eerste keer dat de toepassing wordt gestart na het verlopen, wordt een dialoogvenster weergegeven waarin *Het ingevoerde serienummer is verlopen. Er kan geen licentie voor dit product worden verleend. Neem contact op met de Klantenondersteuning*.
+Zodra het serienummer is verlopen, hebben de gebruikers geen toegang meer tot het Creative Cloud voor bedrijfs-apps. Bij de eerste keer dat de toepassing wordt gestart na het verlopen, wordt een dialoogvenster weergegeven waarin *Het ingevoerde serienummer is verlopen. Er kan geen licentie voor dit product worden verleend. Neem contact op met de klantenondersteuning*.
 
 ![CCE na vervaldatum](assets/cceafterexpire.png)
 
@@ -88,9 +88,9 @@ Voor alle volgende pogingen om Acrobat te starten, wordt de eindgebruiker gevraa
 
 ![Acrobat Sign in dialoogvenster 2](assets/acrobatsignin2.png)
 
-## Neem contact met ons op als u hulp nodig hebt
+## Neem contact met ons op voor hulp
 
 Als u vragen hebt over het gebruik van de [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) of hebt u hulp nodig bij het migreren van serienummerimplementatie naar een benoemde gebruiker. U hebt een aantal opties:
-* Stuur een e-mail naar het Adobe Enterprise Onboarding-team - **entonb@adobe.com**
+* Stuur een e-mail naar het Enterprise Onboarding-team van de Adobe - **entonb@adobe.com**
 * Open een ondersteuningsticket in [Admin Console](https://adminconsole.adobe.com/support)
-* Bereik uw Adobe Account Team
+* Bereik uw accountteam voor Adoben
