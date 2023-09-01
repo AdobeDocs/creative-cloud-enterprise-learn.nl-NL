@@ -3,8 +3,9 @@ title: Serienummers verlopen? Waarom het tijd is voor licenties op naam
 description: Licentieproducten van de Adobe via NUL (Named User Licensing) stellen IT-beheerders in staat eenvoudig Adobe-tools te implementeren en te beheren met behulp van de Admin Console en geven eindgebruikers toegang tot creatieve en productiviteitsapps van wereldklasse en Adobe Cloud-services, zelfs als het volledige personeelsbestand extern is
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%

@@ -1,11 +1,11 @@
 ---
 title: MAX 2020-Tutorials
-description: Deze zelfstudies helpen u nieuwe functies te leren in de 2021-versie van Creative Cloud, vanuit het perspectief van de onderneming
-feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
+description: Deze zelfstudies helpen u nieuwe functies te leren in de 2021-versie van het Creative Cloud, vanuit het perspectief van de onderneming
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 23%
@@ -16,9 +16,9 @@ ht-degree: 23%
 
 ![Max. 2020 hoofdafbeelding](../assets/MAX.jpg)
 
-Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze zelfstudies helpen u nieuwe functies te leren in de 2021-versie van Creative Cloud, vanuit een ondernemingsperspectief.
+Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze zelfstudies helpen u nieuwe functies te leren in de 2021-versie van het Creative Cloud, vanuit een ondernemingsperspectief.
 
-## Tutorials op desktopproducten
+## Tutorials per desktopproduct
 
 <table style="table-layout:fixed">
 <tr>
@@ -109,7 +109,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 </tr>
 </table>
 
-### Tutorials van mobiele app
+### Tutorials via mobiele app
 
 <table style="table-layout:fixed">
 <tr>
@@ -168,7 +168,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 </tr>
 </table>
 
-### Tutorials via integratie
+### Tutorials per integratie
 
 <table style="table-layout:fixed">
 <tr>
@@ -189,7 +189,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <a href="creativeclouddesktopapp.md"><strong>Creative Cloud desktop-app</strong></a>
     </div>
-    <em>De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!</em>
+    <em>De desktop-app van het Creative Cloud is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!</em>
     <br>
   </td>
   <td>

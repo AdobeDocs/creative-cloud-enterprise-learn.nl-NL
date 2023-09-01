@@ -1,11 +1,11 @@
 ---
 title: MAX 2020 — de Enterprise Sessions
 description: Demo-elementen
-feature: Integrations
+feature: Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 1%
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 ![Max. 2020 hoofdafbeelding](../assets/MAX2020.jpg)
 
-Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze zelfstudies helpen u nieuwe functies te leren in de 2021-versie van Creative Cloud, vanuit een ondernemingsperspectief.
+Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze zelfstudies helpen u nieuwe functies te leren in de 2021-versie van het Creative Cloud, vanuit een ondernemingsperspectief.
 
 ## Werken op schaal - Benut de kracht van AEM Assets en InDesign Server (26:54)
 
@@ -24,7 +24,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 
 **Beschrijving**
 
-Besteekt uw creatieve staf te veel tijd aan handmatig, herhaald werk? Help je organisatie optimaal te profiteren van creatieve professionals. Bedrijfssystemen zoals AEM en InDesign Server kunnen zowel creative- als productiepersoneel helpen om snel content in de handen van je doelgroep te krijgen.
+Besteekt uw creatieve staf te veel tijd aan handmatig, herhaald werk? Help je organisatie optimaal te profiteren van creatieve professionals. Bedrijfssystemen zoals AEM en InDesign Server kunnen zowel creatief personeel als productiepersoneel de middelen bieden om snel content in de handen van je doelgroep te krijgen.
 
 In deze opgenomen live sessie ziet u voorbeelden van op een sjabloon gebaseerde workflows in:
 * Adobe Experience Manager (AEM) Assets is een DAM-oplossing (Digital Asset Management) die kan worden geïntegreerd met Adobe Creative Cloud om DAM-gebruikers te helpen samen te werken met creatieve teams en de samenwerking te stroomlijnen in het proces voor contentcreatie
