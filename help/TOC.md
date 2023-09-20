@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: ef203983789b9b18796dc210308047c7c604d249
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '540'
 ht-degree: 9%
 
 ---
@@ -36,32 +36,34 @@ ht-degree: 9%
       + [Hulplijnen voor CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [Overzicht](express/overview-express.md)
-   + Zelfstudies {#expresstutorials}
-      + [Aan de slag met Adobe Express](express/get-started.md)
-      + [Jumpstart creative-ideatie](express/jumpstart-ideation.md)
-      + [Adobe Express voor beginners](express/adobe-express-beginners.md)
-      + [Creëer flyer-content voor marketingcampagnes met Firefly](express/create-local-marketing.md)
-      + [Creëer wervingscontent en onboardingcontent met Firefly](express/create-on-boarding.md)
-      + [Sociale posters met Firefly maken](express/create-social-posters.md)
-      + [Grafische inhoud voor blogs met Firefly maken](express/create-blog-graphics.md)
-      + [Webinar-posters met Firefly maken](express/create-webinar-poster.md)
-      + [Sociale berichten plannen](express/schedule.md)
-      + [Projectdeelnemers uitnodigen](express/collaborate.md)
-      + [Snel inspiratie opdoen](express/get-inspiration.md)
-      + [Sjablonen maken](express/create-templates.md)
-      + [Ontwerpelementen toevoegen](express/add-design-assets.md)
-      + [Objecten groeperen](express/group-objects.md)
-      + [Lagen selecteren en verplaatsen](express/layers.md)
-      + [Meerdere pagina&#39;s maken](express/multiple-pages.md)
-      + [Ongedaan maken en opnieuw uitvoeren](express/undo-redo.md)
-      + [CC-bibliotheken gebruiken](express/cc-libraries.md)
-      + [Uw merk toepassen](express/brand.md)
-      + [Integratie met Google Drive](express/google-drive.md)
-      + [Achtergrond verwijderen](express/remove-background.md)
-      + [Een uitsnede verfijnen](express/refine-cutout.md)
-      + [Teksteffecten gebruiken](express/text-effects.md)
-      + [Afbeeldingseffecten gebruiken](express/image-effects.md)
-      + [Curve tekst maken](express/create-curved-text.md)
+   + Hoe kan ik-zelfstudies {#expresshowto}
+      + [Overzicht](express/overview-express-how-to.md)
+         + [Aan de slag met Adobe Express](express/get-started.md)
+         + [Sociale berichten plannen](express/schedule.md)
+         + [Projectdeelnemers uitnodigen](express/collaborate.md)
+         + [Snel inspiratie opdoen](express/get-inspiration.md)
+         + [Sjablonen maken](express/create-templates.md)
+         + [Ontwerpelementen toevoegen](express/add-design-assets.md)
+         + [Objecten groeperen](express/group-objects.md)
+         + [Lagen selecteren en verplaatsen](express/layers.md)
+         + [Meerdere pagina&#39;s maken](express/multiple-pages.md)
+         + [Ongedaan maken en opnieuw uitvoeren](express/undo-redo.md)
+         + [CC-bibliotheken gebruiken](express/cc-libraries.md)
+         + [Uw merk toepassen](express/brand.md)
+         + [Integratie met Google Drive](express/google-drive.md)
+         + [Achtergrond verwijderen](express/remove-background.md)
+         + [Een uitsnede verfijnen](express/refine-cutout.md)
+         + [Teksteffecten gebruiken](express/text-effects.md)
+         + [Afbeeldingseffecten gebruiken](express/image-effects.md)
+         + [Curve tekst maken](express/create-curved-text.md)
+      + Zelfstudies voor hoofdlettergebruik {expressusecase}
+         + [Jumpstart creative-ideatie](express/jumpstart-ideation.md)
+         + [Adobe Express voor beginners](express/adobe-express-beginners.md)
+         + [Creëer flyer-content voor marketingcampagnes met Firefly](express/create-local-marketing.md)
+         + [Creëer wervingscontent en onboardingcontent met Firefly](express/create-on-boarding.md)
+         + [Sociale posters met Firefly maken](express/create-social-posters.md)
+         + [Grafische inhoud voor blogs met Firefly maken](express/create-blog-graphics.md)
+         + [Webinar-posters met Firefly maken](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Overzicht](firefly/overview-firefly.md)
    + Zelfstudies {#firefly-tutorials}
