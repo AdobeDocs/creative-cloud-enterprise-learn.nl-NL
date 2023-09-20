@@ -1,11 +1,11 @@
 ---
-title: Laat verspreide teams content lokaliseren
+title: Verdeelde teams in staat stellen inhoud te lokaliseren
 description: Ontdek hoe gedistribueerde veldmarketingteams eenvoudig content kunnen aanpassen aan hun regio voor lokale marketingcampagnes
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13991
-source-git-commit: ef203983789b9b18796dc210308047c7c604d249
+source-git-commit: 6f60c1d99b3143341a43ab0aa44bad469d564fc6
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 2%
