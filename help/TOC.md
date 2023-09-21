@@ -7,9 +7,9 @@ feature-set: Creative Cloud
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 type: Tutorial
-source-git-commit: bf33377aba7b4abce6a6c1e6d137451b4b403612
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '553'
 ht-degree: 9%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 9%
       + [Curve tekst maken](express/create-curved-text.md)
    + Zelfstudies voor hoofdlettergebruik {#expressusecase}
       + [Overzicht](express/overview-express-use-case-tutorials.md)
+      + [Laat marketingteams content voor meerdere kanalen creëren](express/multi-channel-marketing-content.md)
       + [Laat verspreide teams content lokaliseren](express/localized-marketing-content.md)
       + [Jumpstart creative-ideatie](express/jumpstart-ideation.md)
       + [Adobe Express voor beginners](express/adobe-express-beginners.md)
