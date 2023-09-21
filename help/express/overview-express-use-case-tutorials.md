@@ -5,10 +5,10 @@ feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
 jira: KT-13995
-source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
+source-git-commit: 358e7cb886829fbd3e25cd6d33f220f038fede0a
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -18,11 +18,24 @@ ht-degree: 0%
 
 Ontdek hoe verschillende teams binnen je organisatie kunnen profiteren van Adobe Express.
 
+## Nieuwe functies
+
+* [Creëer boeiende merchandising-content](compelling-merchandise.md)
+Ontdek hoe een verkoopteam eenvoudig boeiende afbeeldingen kan maken voor een nieuwe voorraad in hun online winkel
+* [Laat marketingteams content voor meerdere kanalen creëren](multi-channel-marketing-content.md)
+Ontdek hoe marketingteams voor gebeurtenissen unieke content kunnen creëren om kijkers naar online gebeurtenissen aan te trekken
+* [Laat verspreide teams content lokaliseren](localized-marketing-content.md)
+Ontdek hoe gedistribueerde veldmarketingteams eenvoudig content kunnen aanpassen aan hun regio voor lokale marketingcampagnes
+
 ## Zelfstudies over het gebruik van Adoben Express
 
 <table style="table-layout:fixed">
 <tr>
    <td>
+      <a href="compelling-merchandise.md">
+         <img alt="Creëer boeiende merchandising-content" src="assets/merchandise.png" />
+      </a>
+  <td>
       <a href="multi-channel-marketing-content.md">
          <img alt="Laat marketingteams content voor meerdere kanalen creëren" src="assets/multi-channel.png" />
       </a>
@@ -35,14 +48,14 @@ Ontdek hoe verschillende teams binnen je organisatie kunnen profiteren van Adobe
       <a href="jumpstart-ideation.md">
          <img alt="Jumpstart creative-ideatie" src="assets/marketing-ideation.png" />
       </a>
-   </td>     
+   </td>
+</tr>
+<tr>
    <td>
       <a href="create-local-marketing.md">
          <img alt="Creëer flyer-content voor marketingcampagnes met Firefly" src="assets/local-marketing.png" />
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="create-on-boarding.md">
          <img alt="Creëer wervingscontent en onboardingcontent met Firefly" src="assets/on-boarding.png" />
@@ -58,10 +71,27 @@ Ontdek hoe verschillende teams binnen je organisatie kunnen profiteren van Adobe
          <img alt="Grafische inhoud voor blogs met Firefly maken" src="assets/blog-graphic.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+      <td>
       <a href="create-webinar-poster.md">
          <img alt="Webinar-posters met Firefly maken" src="assets/webinar-poster.png" />
       </a>
+   </td>
+<td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
    </td>
 </tr>
 </table>
