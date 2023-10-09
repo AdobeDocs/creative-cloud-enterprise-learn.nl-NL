@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b051de1752fa7b92c1c3c312e17512b84b53fda9
+source-git-commit: dc08bb9cea129fcfee25c888e9eb7021f15ee6c1
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '572'
 ht-degree: 8%
 
 ---
@@ -52,10 +52,10 @@ ht-degree: 8%
       + [CC-bibliotheken gebruiken](express/cc-libraries.md)
       + [Uw merk toepassen](express/brand.md)
       + [Integratie met Google Drive](express/google-drive.md)
-      + [Achtergrond verwijderen](express/remove-background.md)
+      + [Een achtergrond uit een foto met één klik verwijderen](express/remove-background.md)
       + [Een uitsnede verfijnen](express/refine-cutout.md)
       + [Teksteffecten gebruiken](express/text-effects.md)
-      + [Afbeeldingseffecten gebruiken](express/image-effects.md)
+      + [Effecten en aanpassingen toevoegen aan een foto](express/image-effects.md)
       + [Curve tekst maken](express/create-curved-text.md)
    + Zelfstudies voor hoofdlettergebruik {#expressusecase}
       + [Overzicht](express/overview-express-use-case-tutorials.md)
