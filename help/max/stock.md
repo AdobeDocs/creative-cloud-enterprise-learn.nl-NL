@@ -5,20 +5,18 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
 # [!DNL Stock]
 
-![Hoofdafbeelding van zelfstudie](../assets/Stock.jpg)
-
 Creatieve medewerkers staan onder druk om snel nieuwe, visueel aantrekkelijke content te leveren die de aandacht trekt. Adobe [!DNL Stock] voor ondernemingen geeft creatieve teams toegang tot meer dan 200 miljoen afbeeldingen, video&#39;s, sjablonen, illustraties, audiobestanden en 3D-assets - allemaal vanuit de Adobe creatieve apps die ze dagelijks gebruiken.
 
-## Tutorials van product bekijken
+## Door Tutorials van producten bladeren
 
 <table style="table-layout:fixed">
 <tr>
@@ -39,7 +37,7 @@ Creatieve medewerkers staan onder druk om snel nieuwe, visueel aantrekkelijke co
     <div>
    <a href="stock.md#tutorial2"><strong>Zoeken en licenties [!DNL Stock] Middelen in Adobe Experience Manager</strong></a>
     </div>
-    <em>Vereenvoudig het uploaden van uw gelicentieerde Adobe [!DNL Stock] assets in uw Digital Asset Management-systeem</em>
+    <em>Het uploaden van uw gelicentieerde Adobe vereenvoudigen [!DNL Stock] assets in uw Digital Asset Management-systeem</em>
     <br>
   </td>
   <td>
@@ -71,7 +69,7 @@ Victoria Torres, [!DNL Stock] Solutions Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Beschrijving**
-Vereenvoudig het uploaden van uw gelicentieerde Adobe [!DNL Stock] assets in je Digital Asset Management-systeem.
+Het uploaden van uw gelicentieerde Adobe vereenvoudigen [!DNL Stock] assets in je Digital Asset Management-systeem.
 
 In deze zelfstudie leert u hoe u:
 * Adobe uitvoeren [!DNL Stock] asset search zonder AEM werkruimte te verlaten

@@ -5,20 +5,18 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
 # InDesign
 
-![Hoofdafbeelding van zelfstudie](../assets/InDesign.jpg)
-
 De toonaangevende app voor het maken van prachtige documenten voor drukwerk en digitale publicaties. Creëer rijke digitale en afdrukervaringen, van eBooks en elektronische magazines tot boeken, rapporten en whitepapers.
 
-## Tutorials van product bekijken
+## Door Tutorials van producten bladeren
 
 <table style="table-layout:fixed">
 <tr>
@@ -97,15 +95,15 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326824?hidetitle=true)
 
 **Beschrijving**
-InDesign Share for Review biedt een nog naadloze ervaring voor creatieve revisies voor ontwerpers en hun teamleden.
+InDesign delen voor revisie biedt een nog naadloze ervaring voor creatieve revisies voor ontwerpers en hun teamleden.
 
 In deze zelfstudie leert u hoe u:
-* Een revisie rechtstreeks vanuit de InDesign starten zonder een PDF te maken
+* Een revisie rechtstreeks vanuit het InDesign starten zonder een PDF te maken
 * Reviseren en opmerkingen plaatsen vanuit een webbrowser
 * Feedback van meerdere stakeholders op één locatie verzamelen
 * Beheer feedback in de app waar wijzigingen direct kunnen worden aangebracht.
 
-**Vergelijking van Adobe-revisie- en opmerkingenopties-PDF**
+**Adobe Review and Comment Options Comparison PDF**
 
 [![Vergelijkingsafbeelding](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
@@ -117,20 +115,20 @@ Emily Palmer, Solutions Consultant (Digital Media)
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
 **Beschrijving**
-Importeer opmerkingen van een PDF rechtstreeks in InDesign en pas snel de gewenste wijzigingen toe.
+Importeer opmerkingen van een PDF rechtstreeks in het InDesign en pas snel de gewenste wijzigingen toe.
 
 In deze zelfstudie leert u hoe u:
 * Ondersteunt bestaande workflows voor PDF-opmerkingen
 * Werkt voor PDF gecombineerd van meerdere bronnen
 
-**Vergelijking van Adobe-revisie- en opmerkingenopties-PDF**
+**Adobe Review and Comment Options Comparison PDF**
 
 [![Vergelijkingsafbeelding](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Voorgesteld door:**
 Michael Murphy, Senior Solutions Consultant (Digital Media)
 
-## Videobestand toevoegen aan InDesign-document (5:58) {#tutorial4}
+## Videobestand toevoegen aan document InDesign (5:58) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 
@@ -146,7 +144,7 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 ![InDesignLogo](../assets/id_appicon_96.png)
 
-**InDesign-bronnen**
+**Bronnen voor InDesigns**
 
 [Meer informatie en ondersteuning](https://helpx.adobe.com/support/indesign.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)en koppelingen naar communityforums.
 

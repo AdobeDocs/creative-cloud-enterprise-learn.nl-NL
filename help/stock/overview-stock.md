@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1242'
+source-wordcount: '1238'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] zelfstudies
-
-![Hoofdafbeelding van Creative Cloud](../assets/Stock.jpg)
 
 Creatieve medewerkers staan onder druk om snel aansprekende visuele content te leveren. Adobe Stock geeft creatieve teams toegang tot meer dan 300 miljoen royaltyvrije afbeeldingen, video&#39;s, audiobestanden, sjablonen, illustraties en 3D-assets - binnen de Creative Cloud-apps die ze dagelijks gebruiken. Krijg onbeperkte toegang tot Adobe Stock-standaardassets met Creative Cloud Pro Edition. Bekijk de nieuwste verzamelingen op stock.adobe.com. Selecteer een afbeelding om een zelfstudie weer te geven.
 

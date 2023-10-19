@@ -1,54 +1,52 @@
 ---
-title: Zelfstudies voor Adobe 3D en VR
-description: Zelfstudies die je op de hoogte helpen van Adobe 3D en VR
+title: Zelfstudies voor 3D en VR Adoben
+description: Tutorials om u te helpen snel aan de slag te gaan met Adobe 3D en VR
 feature: 3D
 role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
-# Zelfstudies voor Adobe 3D en VR
+# Zelfstudies voor 3D en VR Adoben
 
-![Creative Cloud Hero Image](../assets/Dimenio.jpg)
-
-Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en belichting. [!DNL Dimension] maakt het gemakkelijk om merkvisualisaties, illustraties, productmodellen, verpakkingsontwerpen en ander creatief werk te maken. Selecteer een afbeelding om een zelfstudie te bekijken.
+Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en belichting. [!DNL Dimension] maakt het eenvoudig om merkvisualisaties, illustraties, productmodellen, verpakkingsontwerpen en ander creatief werk te bouwen. Selecteer een afbeelding om een zelfstudie weer te geven.
 
 <table>
 <tr>
  <td>
    <a href="substance-3d-stager.md">
-      <img alt="3D-ontwerp en -weergave" src="assets/Substance3DStager.png" />
+      <img alt="3D-ontwerp en -rendering" src="assets/Substance3DStager.png" />
    </a>
     <div>
-   <a href="substance-3d-stager.md"><strong>3D-ontwerp en -weergave</strong></a>
+   <a href="substance-3d-stager.md"><strong>3D-ontwerp en -rendering</strong></a>
     </div>
-    <em>Importeer inhoud, rangschik uw scène, pas materialen en structuren toe, pas op afbeeldingen gebaseerde en fysieke belichting aan, sla camera's op met verschillende resoluties en render fotorealistische beelden</em>
+    <em>Importeer content, rangschik je scène, pas materialen en structuren toe, pas op afbeeldingen gebaseerde en fysieke belichting aan, sla camera’s op met verschillende resoluties en geef fotorealistische beelden weer</em>
     <br>
   </td>
   <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
-      <img alt="Maak realistische 3D-mock-ups met Adobe [!DNL Stock] en [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
+      <img alt="Maak realistische 3D-modellen met Adobe [!DNL Stock] en [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
     <div>
-   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Maak realistische 3D-mock-ups met Adobe [!DNL Stock] en [!DNL Dimension] (PDF)</strong></a>
+   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Maak realistische 3D-modellen met Adobe [!DNL Stock] en [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Combineer eenvoudig een 2D-ontwerp met een 3D-model met behulp van Adobe [!DNL Stock] en geplaatste afbeeldingen in Adobe [!DNL Dimension]</em>
+    <em>Eenvoudig een 2D-ontwerp combineren met een 3D-model met behulp van Adobe [!DNL Stock] en geplaatste afbeeldingen in Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf">
-      <img alt="Ontwerpen of patronen met textiel op 3D-objecten visualiseren met Adobe [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
+      <img alt="Tekstontwerpen of -patronen met Adobe visualiseren op 3D-objecten [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Ontwerpen of patronen met textiel in 3D-objecten visualiseren met Adobe [!DNL Dimension] (PDF)</strong></a>
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Tekstontwerpen of -patronen met Adobe visualiseren op 3D-objecten [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Creëer een ultrarealistische weergave van uw eindproduct in enkele minuten</em>
+    <em>Creëer binnen enkele minuten een ultra-realistische weergave van je eindproduct</em>
     <br>
   </td>
   <td>
@@ -58,7 +56,7 @@ Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en 
     <div>
    <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiseer uw product in een realistische omgeving (PDF)</strong></a>
     </div>
-    <em>Als je wilt zien hoe je producten er in de echte wereld uitzien, is Adobe [!DNL Dimension] je go-to-app</em>
+    <em>Als je wilt zien hoe je producten eruitzien in de echte wereld, Adobe [!DNL Dimension] is uw startende app</em>
     <br>
   </td>
 </tr>
@@ -70,22 +68,22 @@ Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en 
     <div>
    <a href="mastering3dlighting.md"><strong>Tips en technieken voor het beheersen van 3D-belichting in CGI</strong></a>
     </div>
-    <em>Leer over 3D-belichting en hoe u verschillende lichtomstandigheden kunt creëren die een door de computer gegenereerde scène volledig kunnen veranderen en de manier waarop objecten erin eruit zien</em>
+    <em>Leer meer over 3D-belichting en hoe u verschillende lichtomstandigheden kunt maken waarmee een door de computer gegenereerde scène en de weergave van objecten in deze scène volledig kunnen worden gewijzigd</em>
     <br>
   </td>
   <td>
    <a href="photorealistic.md">
-      <img alt="Fotorealistische virtuele fotografie maken met 3D-rendering en composities" src="assets/Photorealistic_TOC.png" />
+      <img alt="Fotorealistische virtuele fotografie maken met 3D-rendering en -composities" src="assets/Photorealistic_TOC.png" />
    </a>
     <div>
-   <a href="photorealistic.md"><strong>Fotorealistische virtuele fotografie maken met 3D-rendering en composities</strong></a>
+   <a href="photorealistic.md"><strong>Fotorealistische virtuele fotografie maken met 3D-rendering en -composities</strong></a>
     </div>
-    <em>Leer hoe u verbluffend misleidende, fotorealistische virtuele foto's kunt maken met het samenstellen en renderen van 3D-afbeeldingen in Adobe [!DNL Dimension]</em>
+    <em>Leer hoe je verbluffend bedrieglijke, fotorealistische virtuele fotografie creëert met 3D-beeldcompositie en -rendering in Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="3ddimensionstock.md">
-      <img alt="Een 3D-model aanpassen en van een merk voorzien met [!DNL Dimension] en Adobe [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
+      <img alt="Pas een 3D-model aan en merk het op met [!DNL Dimension] en Adobe [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
    </a>
     <div>
    <a href="3ddimensionstock.md"><strong>Pas een 3D-model aan en merk het op met [!DNL Dimension] en Adobe [!DNL Stock]</strong></a>

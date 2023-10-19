@@ -5,16 +5,14 @@ feature: Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '500'
 ht-degree: 1%
 
 ---
 
 # MAX 2020 — de Enterprise Sessions
-
-![Max. 2020 hoofdafbeelding](../assets/MAX2020.jpg)
 
 Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze zelfstudies helpen u nieuwe functies te leren in de 2021-versie van het Creative Cloud, vanuit een ondernemingsperspectief.
 

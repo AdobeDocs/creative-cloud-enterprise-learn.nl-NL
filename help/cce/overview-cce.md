@@ -1,23 +1,21 @@
 ---
-title: Creative Cloud voor ondernemingen Tutorials
-description: Tutorials om u te helpen snel aan de slag te gaan met de Creative Cloud voor Enterprise-producten
+title: Creative Cloud voor Tutorials voor ondernemingen
+description: Tutorials om u te helpen snel aan de slag te gaan op het Creative Cloud voor Enterprise-producten
 feature: Image Editing, Collaboration, Graphic Design, Integrations
 role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1529'
+source-wordcount: '1525'
 ht-degree: 1%
 
 ---
 
 # Zelfstudies voor Creative Cloud voor ondernemingen
 
-![Creative Cloud Hero-afbeelding](../assets/CCEbanner.png)
-
-Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze zelfstudies helpen u nieuwe functies in Creative Cloud te leren - vanuit het perspectief van de onderneming.
+Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze zelfstudies helpen u nieuwe functies in het Creative Cloud te leren - vanuit het perspectief van de onderneming.
 
 ## Klik om een productzelfstudie weer te geven (weergegeven in alfabetische volgorde)
 
@@ -173,7 +171,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    <div>
    <a href="ccteamlibraries.md"><strong>Creative Cloud-bibliotheken maken voor teams</strong></a>
     </div>
-    <em>Leer hoe je assets deelt binnen een groep of team met behulp van Creative Cloud Libraries voor teams</em>
+    <em>Leer hoe je assets deelt binnen een groep of team met behulp van Creative Cloud Libraries for teams</em>
     <br>
   </td>
   <td>
@@ -200,7 +198,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   <tr>
   <td>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf">
-      <img alt="Tekststijlen delen vanuit Illustrator met Creative Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
+      <img alt="Tekststijlen delen vanuit Illustrator met Creatives Cloud Libraries" src="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.jpg" />
    </a>
     <div>
    <a href="assets/ShareTextStylesFromIllustratorwithCreativeCloudLibraries.pdf"><strong>Tekststijlen delen vanuit Illustrator met Creative Cloud-bibliotheken (PDF)</strong></a>
@@ -247,7 +245,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/FromHandLetteringtoIllustratorviaCreativeCloud.pdf"><strong>Van Hand Lettering naar Illustrator via Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Met de kracht van Creative Cloud voor ondernemingen, kun je met de mobiele apps van Adobe en desktop overal vastleggen, converteren en creëren - op elk apparaat</em>
+    <em>Met de kracht van Creative Cloud voor ondernemingen kun je met Adobe mobiele en desktopapps overal vastleggen, converteren en creëren - op elk apparaat</em>
     <br>
   </td>
   <td>
@@ -257,7 +255,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Van Lightroom Web naar InDesign via Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Til je creativiteit van de camera naar het uiteindelijke ontwerp met Creative Cloud-bestanden en -bibliotheken</em>
+    <em>Til je creativiteit van de camera naar het uiteindelijke ontwerp met Creatives Cloud en bibliotheken</em>
     <br>
   </td>
 </tr>
@@ -338,7 +336,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="taming-type-anxiety.md"><strong>Angst voor gamingtype</strong></a>
     </div>
-    <em>Leer hoe u meer dan 20.000 professioneel ontworpen lettertypen in Creative Cloud benadert en gebruikt</em>
+    <em>Leer hoe je meer dan 20.000 professioneel ontworpen lettertypen in Creative Cloud opent en gebruikt</em>
     <br>
   </td>
   <td>
@@ -358,7 +356,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/DiscoveringFontswithCreativeCloud.pdf"><strong>Lettertypen ontdekken met Creative Cloud (PDF)</strong></a>
     </div>
-    <em>Het vinden van het juiste lettertype voor een project kan soms overweldigend lijken. Met verschillende Creative Cloud-apps en -services vind je het juiste lettertype leuk en inspirerend</em>
+    <em>Het vinden van het juiste lettertype voor een project kan soms overweldigend lijken. Met verschillende Creative Cloud-apps en -services is het nu leuk en inspirerend om het juiste lettertype te vinden</em>
     <br>
   </td>
   <td>
@@ -421,7 +419,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
   <td>
    <a href="assets/CreatingInteractivePDFsfromInDesign.pdf">
-      <img alt="Interactieve PDF maken vanaf InDesign" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
+      <img alt="Interactieve PDF maken op basis van InDesign" src="assets/CreatingInteractivePDFsfromInDesign.jpg" />
    </a>
     <div>
    <a href="assets/CreatingInteractivePDFsfromInDesign.pdf"><strong>Interactieve PDF maken vanaf InDesign (PDF)</strong></a>
@@ -446,7 +444,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
    <a href="assets/StyleWebContentwithInDesign.pdf"><strong>Webinhoud opmaken met Adobe InDesign CC (PDF)</strong></a>
     </div>
-    <em>Wist u dat u de kracht van InDesign kunt benutten voor het uitvoeren van HTML- en webafbeeldingen?</em>
+    <em>Wist u dat u de kracht van het InDesign kunt benutten om HTML- en webafbeeldingen uit te voeren?</em>
     <br>
   </td>
   <td>
@@ -463,10 +461,10 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
 <tr>
   <td>
    <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf">
-      <img alt="Interactieve PDF: grafische hyperlinks en geneste stramienpagina&apos;s in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
+      <img alt="Interactieve PDF: Grafische hyperlinks en geneste stramienpagina&apos;s in InDesign" src="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.jpg" />
    </a>
     <div>
-   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interactieve PDF: grafische hyperlinks en geneste stramienpagina's in InDesign (PDF)</strong></a>
+   <a href="assets/InteractivePDFGraphicalHyperlinksandNestedMasterPagesinInDesign.pdf"><strong>Interactieve PDF: Grafische hyperlinks en geneste stramienpagina's in InDesign (PDF)</strong></a>
     </div>
     <em>Door hyperlinks toe te passen op stramienpagina's kunt u snel een navigatiesysteem beheren op al uw pagina's</em>
     <br>
@@ -510,7 +508,7 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
     <div>
     <a href="compositepsipad.md"><strong>Unieke composities maken met Adobe [!DNL Stock] en Photoshop voor iPad</strong></a>
     </div>
-    <em>Maak kennis met de kracht van Photoshop. Leer hoe je een van je favoriete Creative Cloud-applicaties op een geheel nieuwe manier gebruikt, met een vernieuwde touch-interface</em>
+    <em>Maak kennis met de kracht van Photoshop. Leer hoe je een van je favoriete Creatives Cloud-applicaties op een geheel nieuwe manier gebruikt, met een vernieuwde touch-interface</em>
     <br>
   </td>
   <td>

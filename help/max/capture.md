@@ -5,20 +5,18 @@ feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # [!DNL Capture]
 
-![Hoofdafbeelding van zelfstudie](../assets/Capture.jpg)
-
 Adobe [!DNL Capture] van mobiele telefoons en tablets een verzamelingsprogramma voor ontwerpen maken . Gebruikers kunnen allerlei verschillende typen elementen maken (afzonderlijke digitale elementen voor illustraties).   Deze middelen worden automatisch gesynchroniseerd met andere toepassingen voor desktop en mobiele Adobe. Gebruikers kunnen ze opnemen in hun creatieve projecten of ze eenvoudig delen met medewerkers.
 
-## Tutorials van product bekijken
+## Door Tutorials van producten bladeren
 
 <table style="table-layout:fixed">
 <tr>

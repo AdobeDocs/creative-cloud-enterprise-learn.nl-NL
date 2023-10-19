@@ -5,20 +5,18 @@ feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
 # [!DNL Dimension]
 
-![Hoofdafbeelding van zelfstudie](../assets/Dimenio.jpg)
-
 Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en belichting. [!DNL Dimension] maakt het eenvoudig om merkvisualisaties, illustraties, productmodellen, verpakkingsontwerpen en ander creatief werk te bouwen.
 
-## Tutorials van product bekijken
+## Door Tutorials van producten bladeren
 
 <table style="table-layout:fixed">
 <tr>
@@ -45,12 +43,12 @@ Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en 
 </tr>
 </table>
 
-## Substance-materialen toepassen op 3D-modellen (11:42) {#tutorial1}
+## Substance materialen toepassen op 3D-modellen (11:42) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326944?hidetitle=true)
 
 **Beschrijving**
-Substance-materialen ondersteunen duizenden patronen en ontwerpen in één materiaal.
+Substance materialen ondersteunen duizenden patronen en ontwerpen in één materiaal.
 
 In deze zelfstudie leert u hoe u:
 * Creëer sneller boeiende content in 3D met hoogwaardige modellen, materialen en belichting
@@ -60,7 +58,7 @@ Jim Babbage, Senior Solutions Consultant (Digital Media)
 
 ![Dimension-logo](../assets/dn_appicon_96.png)
 
-**Dimension-bronnen**
+**Bronnen voor Dimensionen**
 
 [Meer informatie en ondersteuning](https://helpx.adobe.com/support/dimension.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)en koppelingen naar communityforums.
 

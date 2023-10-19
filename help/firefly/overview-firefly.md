@@ -6,16 +6,14 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 1%
 
 ---
 
 # Adobe [!DNL Firefly] overzicht
-
-![Firefly hoofdafbeelding](../assets/firefly.png)
 
 Firefly is de nieuwe familie van creatieve generatieve AI-modellen die producten Adoben, waarbij de focus in eerste instantie ligt op het genereren van afbeeldingen en teksteffecten. Firefly biedt nieuwe manieren om creatieve workflows te bepalen, te maken en te communiceren, terwijl je tegelijkertijd de creatieve workflows aanzienlijk verbetert.
 

@@ -5,20 +5,18 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
 
 # Acrobat &amp; Sign
 
-![Hoofdafbeelding van zelfstudie](../assets/DC.jpg)
-
 Met Adobe Document Cloud, dat ’s werelds toonaangevende oplossingen voor PDF en elektronische handtekeningen bevat, kun je handmatige documentprocessen omzetten in efficiënte digitale processen. Je team kan nu snel actie ondernemen voor documenten, workflows en taken - op meerdere schermen en apparaten - op elk moment en in je favoriete Microsoft- en bedrijfs-apps.
 
-## Tutorials van product bekijken
+## Door Tutorials van producten bladeren
 
 <table style="table-layout:fixed">
 <tr>
@@ -94,7 +92,7 @@ In deze zelfstudie leert u hoe u:
 * Opmerkingen op één plaats verzamelen
 * Gelijktijdige opmerkingen stimuleren samenwerking
 
-**Vergelijking van Adobe-revisie- en opmerkingenopties-PDF**
+**Adobe Review and Comment Options Comparison PDF**
 
 [![Vergelijkingsafbeelding](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
@@ -152,7 +150,7 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 Met Adobe Scan kun je eenvoudig documenten, formulieren, visitekaartjes en whiteboards vastleggen en converteren naar hoogwaardige Adobe-PDF.
 
 In deze zelfstudie leert u hoe u:
-* Gebruik je mobiele telefoon om documenten, formulieren, visitekaartjes en whiteboards vast te leggen en om te zetten in hoogwaardige Adobe PDF-
+* Gebruik je mobiele telefoon om documenten, formulieren, visitekaartjes en whiteboards vast te leggen en om te zetten in hoogwaardige Adobe PDF-apps
 * Automatisch handgeschreven of afgedrukte tekst herkennen en verscherpen, terwijl elementen die je niet wilt verwijderen, zoals schittering en schaduw
 * Open de gescande PDF in Acrobat Reader om notities en opmerkingen te maken en deze te reviseren met uw team
 

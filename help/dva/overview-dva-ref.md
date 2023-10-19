@@ -1,22 +1,20 @@
 ---
 title: Hulplijnen voor snelle videoreferentie
-description: Aan de hand van de handleidingen met snelle referenties kun je snel aan de slag met Adobe DVA-producten
+description: Korte naslaggidsen om u te helpen snel aan de slag te gaan met Adobe-DVA-producten
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '496'
 ht-degree: 1%
 
 ---
 
 # Snelle naslaggidsen voor video
 
-![Creative Cloud Hero-afbeelding](../assets/CCEbanner-DVA.png)
-
-Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewegende beelden, visuele effecten, animatie en meer. Selecteer een afbeelding om een PDF van de snelle naslaggids te downloaden of weer te geven.
+Breng je ideeën tot leven met Adobe-software en apps voor videobewerking, bewegende beelden, visuele effecten, animatie en meer. Selecteer een afbeelding om een PDF van de snelle naslaggids te downloaden of weer te geven.
 
 ## Adobe Audition
 
@@ -113,7 +111,7 @@ Breng je ideeën tot leven met Adobe-software en -apps voor videobewerking, bewe
     <div>
    <a href="assets/CreateanIllustrationfromanAdobeStockPhotowithAfterEffects.pdf" target="_blank"><strong>Een illustratie van een Adobe maken [!DNL Stock] Foto met After Effects (PDF)</strong></a>
     </div>
-    <em>Combineer de effecten Kleurtoon/verzadiging en Niveaus met de Cartoon-effecten in After Effects om een unieke gestileerde illustratie te maken van een Adobe [!DNL Stock] foto</em>
+    <em>Combineer de effecten Kleurtoon/verzadiging en Niveaus met de Cartoon-effecten in After Effects om een unieke gestileerde illustratie te maken op basis van een Adobe [!DNL Stock] foto</em>
     <br>
   </td>
    <td>

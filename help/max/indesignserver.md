@@ -1,33 +1,31 @@
 ---
 title: InDesign Server
-description: Adobe Adobe &reg; InDesign&reg; serversoftware biedt een robuuste en schaalbare engine die gebruikmaakt van het ontwerp, de lay-out en de typografische mogelijkheden van InDesign, zodat u programmatisch aansprekende, geautomatiseerde documenten kunt maken
+description: Adobe Adobe&reg; InDesign&reg; serversoftware levert een robuuste en schaalbare engine die gebruikmaakt van het ontwerp, de lay-out en de typografische mogelijkheden van InDesign, zodat u programmatisch aansprekende, geautomatiseerde documenten kunt maken
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '269'
 ht-degree: 1%
 
 ---
 
 # InDesign Server
 
-![Hoofdafbeelding van zelfstudie](../assets/InDesignServer.jpg)
+Adobe InDesign® Server-software biedt een krachtige en schaalbare engine die gebruikmaakt van het ontwerp, de lay-out en de typografische mogelijkheden van InDesign, zodat u programmatisch aantrekkelijke, geautomatiseerde documenten kunt maken.
 
-Adobe InDesign® Server-software biedt een krachtige en schaalbare engine die gebruikmaakt van het ontwerp, de lay-out en de typografische mogelijkheden van InDesign, zodat u programmatisch aansprekende, geautomatiseerde documenten kunt maken.
-
-## Tutorials van product bekijken
+## Door Tutorials van producten bladeren
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="indesignserver.md#tutorial1">
-      <img alt="Gegevensgestuurde InDesign Server-inhoud" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
+      <img alt="Gegevensgestuurde inhoud van InDesigns Server" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>Gegevensgestuurde InDesign Server-inhoud</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>Gegevensgestuurde inhoud van InDesigns Server</strong></a>
     </div>
     <em>Datagestuurd ontwerp kan via programmacode worden bereikt met InDesign Server</em>
     <br>
@@ -45,12 +43,12 @@ Adobe InDesign® Server-software biedt een krachtige en schaalbare engine die ge
 </tr>
 </table>
 
-## Gegevensgestuurde InDesign Server-inhoud (4:14) {#tutorial1}
+## Gegevensgestuurde inhoud InDesign Server (4:14) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 
 **Beschrijving**
-Datagestuurde ontwerpen kunnen via programmacode worden gemaakt met InDesign Server.
+Datagestuurd ontwerp kan via programmacode worden bereikt met InDesign Server.
 
 In deze zelfstudie leert u hoe u:
 * InDesign-sjablonen maken met vooraf opgemaakte tekst- of objectstijlen
@@ -81,7 +79,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server: Een partner zoeken</strong></a>
     </div>
-    <em>Terwijl u de expertise hebt om zich intern te ontwikkelen, raadt Adobe u aan samen met partners te werken om de oplossing te vinden die aan uw vereisten voldoet</em>
+    <em>Terwijl u de expertise hebt om zich intern te ontwikkelen, raadt de Adobe u aan samen met partners te werken om de oplossing te vinden die aan uw vereisten voldoet</em>
     <br>
   </td>
   <td>
@@ -94,7 +92,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 ![InDesign Server-logo](../assets/id_server_appicon_96.png)
 
-**InDesign Server-bronnen**
+**Bronnen voor InDesigns Server**
 
 [Meer informatie en ondersteuning](https://www.adobe.com/products/indesignserver.html) Dit is uw hub voor extra zelfstudies, nieuwe functies en koppelingen naar communityforums.
 

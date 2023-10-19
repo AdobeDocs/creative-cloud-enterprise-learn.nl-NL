@@ -5,20 +5,18 @@ feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # [!DNL Rush]
 
-![Hoofdafbeelding van zelfstudie](../assets/Rush.jpg)
-
 Premiere [!DNL Rush] is de eerste alles-in-één-app voor videobewerking op verschillende apparaten waarmee je eenvoudiger dan ooit online content kunt creëren en delen. Met deze geïntegreerde desktop- en mobiele oplossing worden je projecten en bewerkingen automatisch gesynchroniseerd naar de cloud, zodat je overal en op elk apparaat kunt werken.
 
-## Tutorials van product bekijken
+## Door Tutorials van producten bladeren
 
 <table style="table-layout:fixed">
 <tr>

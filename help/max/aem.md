@@ -5,20 +5,18 @@ feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '383'
 ht-degree: 1%
 
 ---
 
 # AEM Assets en Asset Link
 
-![Hoofdafbeelding van zelfstudie](../assets/AEM.jpg)
-
 Adobe Experience Manager is de toonaangevende oplossing voor digital experience management voor bedrijven en middengrote organisaties. Het biedt een moderne, schaalbare basis om aansprekende ervaringen te bieden die de merkbetrokkenheid bevorderen, de vraag stimuleren en de klantloyaliteit vergroten. Experience Manager bevat een volledige reeks tools om digitale ervaringen te creëren, te beheren en te leveren voor alle kanalen.
 
-## Tutorials van product bekijken
+## Door Tutorials van producten bladeren
 
 <table style="table-layout:fixed">
 <tr>
@@ -34,12 +32,12 @@ Adobe Experience Manager is de toonaangevende oplossing voor digital experience 
   </td>
    <td>
    <a href="aem.md#tutorial2">
-      <img alt="InDesign-bestanden gehost in AEM" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
+      <img alt="InDesign bestanden gehost in AEM" src="../assets/InDesign-Files-Hosten-in-AEM.jpg" />
    </a>
     <div>
-   <a href="aem.md#tutorial2"><strong>InDesign-bestanden gehost in AEM</strong></a>
+   <a href="aem.md#tutorial2"><strong>InDesign bestanden gehost in AEM</strong></a>
     </div>
-    <em>Plaats uw InDesign-document in AEM zodat meerdere gebruikers tegelijkertijd inhoudvariaties kunnen maken</em>
+    <em>Plaats het document van uw InDesign in AEM zodat meerdere gebruikers tegelijkertijd inhoudvariaties kunnen maken</em>
     <br>
   </td>
   <td>
@@ -65,15 +63,15 @@ In deze zelfstudie leert u hoe u:
 **Voorgesteld door:**
 Eric Rowse, Senior Solutions Consultant (Digital Media)
 
-## InDesign-bestanden gehost in AEM (3:16) {#tutorial2}
+## InDesigns bestanden gehost in AEM (3:16) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326829?hidetitle=true)
 
 **Beschrijving**
-Plaats uw InDesign-document in AEM, zodat meerdere gebruikers tegelijkertijd contentvariaties kunnen maken.
+Plaats het InDesign in AEM zodat meerdere gebruikers tegelijkertijd contentvariaties kunnen maken.
 
 In deze zelfstudie leert u hoe u:
-* InDesign-bestand uploaden naar AEM voor algemene opslagtoegang
+* Upload InDesign file in AEM voor algemene opslagtoegang
 * Maak op een veilige manier variaties zonder bang te zijn voor het ruïneren van bronbestanden
 * Documentvelden zijn vooraf opgemaakt, zodat u snel bewerkingen kunt uitvoeren of inhoud kunt wijzigen
 

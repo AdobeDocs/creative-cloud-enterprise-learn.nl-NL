@@ -1,22 +1,20 @@
 ---
-title: Creative Cloud voor Enterprise Tutorials
-description: Welkom bij de hub Creative Cloud for enterprise learning
+title: Creative Cloud voor Enterprise-Tutorials
+description: Welkom bij het Creative Cloud voor de enterprise learning hub
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 10%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
 
 # Zelfstudies voor Creative Cloud voor ondernemingen
 
-![Creative Cloud Hero-afbeelding](assets/hero_cce.jpg)
-
-Welkom bij de hub Creative Cloud for enterprise learning. Hier vind je een breed scala aan leerervaringen gericht op Creative Cloud voor ondernemingen. Onze tutorials, webinars en gebruiksscenario’s zijn ontworpen om zowel beginners als beheerders snel op de Creative Cloud voor bedrijfsproducten te kunnen zetten.
+Welkom bij het Creative Cloud voor de enterprise learning hub. Hier vind je een breed scala aan leerervaringen gericht op Creative Cloud voor ondernemingen. Onze tutorials, webinars en gebruiksscenario’s zijn ontworpen om zowel beginners als beheerders snel op het Creative Cloud voor bedrijfsproducten te laten werken.
 
 ## Door onderwerpen bladeren
 
@@ -50,7 +48,7 @@ Welkom bij de hub Creative Cloud for enterprise learning. Hier vind je een breed
   </td>
   <td>
   <a href="dva/overview-dva.md">
-      <img alt="Adobe Video" src="assets/Videocard.png" />
+      <img alt="Video Adobe" src="assets/Videocard.png" />
     </a>
   </td>
   <td>

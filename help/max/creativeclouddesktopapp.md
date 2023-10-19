@@ -1,24 +1,22 @@
 ---
 title: Creative Cloud desktop-app
-description: De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!
+description: De desktop-app van het Creative Cloud is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!
 feature: Workspace, Collaboration
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '150'
 ht-degree: 8%
 
 ---
 
 # Creative Cloud desktop-app
 
-![Hoofdafbeelding van zelfstudie](../assets/CCDA.jpg)
+De desktop-app van het Creative Cloud is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!
 
-De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!
-
-## Tutorials van product bekijken
+## Door Tutorials van producten bladeren
 
 <table style="table-layout:fixed">
 <tr>
@@ -29,7 +27,7 @@ De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -servic
     <div>
    <a href="creativeclouddesktopapp.md#tutorial1"><strong>Ontdek de CC Desktop App: Uw Hub voor Creative Cloud</strong></a>
     </div>
-    <em>De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!</em>
+    <em>De desktop-app van het Creative Cloud is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!</em>
     <br>
   </td>
   <td>
@@ -50,7 +48,7 @@ De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -servic
 >[!VIDEO](https://video.tv.adobe.com/v/327095?hidetitle=true)
 
 **Beschrijving**
-De Creative Cloud-desktopapp is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!
+De desktop-app van het Creative Cloud is je centrum voor het beheren van CC-apps, -services en -samenwerking, en meer!
 
 In deze zelfstudie leert u hoe u:
 * Start en werk uw desktopapps bij

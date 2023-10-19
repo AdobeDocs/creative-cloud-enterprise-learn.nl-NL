@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
 
 # Adobe XD-zelfstudies
-
-![Creative Cloud Hero-afbeelding](../assets/XD.jpg)
 
 Adobe XD is een tool voor het ontwerpen en prototypen van gebruikerservaringen voor het ontwerpen van websites, apps, spraakinterfaces, games en andere soorten digitale ervaringen. Selecteer een afbeelding om een zelfstudie weer te geven.
 
