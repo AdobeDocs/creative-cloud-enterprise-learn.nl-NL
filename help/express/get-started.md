@@ -1,19 +1,20 @@
 ---
-title: Aan de slag met Adobe Express
-description: Leer de basisbeginselen van Adobe Express
+title: Wat is er op de startpagina?
+description: Ontdek de startpagina, zodat u eenvoudig door de app kunt navigeren
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 8d532b2e-4eab-4c73-9ad6-30776904d59b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13408
+exl-id: e348f971-0dee-4282-860b-f33c2a05cd47
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '22'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# Aan de slag met Adobe Express
+# Wat staat er op de startpagina
 
-Leer de basisbeginselen van Adobe Express.
+Ontdek de startpagina, zodat je eenvoudig door de app kunt navigeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426924?quality=12&learn=on&hidetitle=true)

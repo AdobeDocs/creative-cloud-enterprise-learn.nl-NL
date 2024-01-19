@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
 workflow-type: tm+mt
-source-wordcount: '572'
-ht-degree: 8%
+source-wordcount: '579'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 8%
 + [Overzicht](overview.md)
 + Creative Cloud voor ondernemingen {#cceoverview}
    + [Overzicht](cce/overview-cce.md)
-   + Zelfstudies {#ccetutorials}
+   + Tutorials {#ccetutorials}
       + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
       + [CC-workflows verbeteren met CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Angst voor games](cce/taming-type-anxiety.md)
@@ -39,7 +39,9 @@ ht-degree: 8%
    + [Overzicht](express/overview-express.md)
    + Hoe kan ik-zelfstudies {#expresshowto}
       + [Overzicht](express/overview-express-how-to.md)
-      + [Aan de slag met Adobe Express](express/get-started.md)
+      + [Wat is er op de startpagina?](express/get-started.md)
+      + [Inleiding tot snelle handelingen](express/quick-actions.md)
+      + [Inleiding tot sjablonen](express/introduction-templates.md)
       + [Sociale berichten plannen](express/schedule.md)
       + [Projectdeelnemers uitnodigen](express/collaborate.md)
       + [Snel inspiratie opdoen](express/get-inspiration.md)
@@ -71,7 +73,7 @@ ht-degree: 8%
       + [Webinar-posters met Firefly maken](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Overzicht](firefly/overview-firefly.md)
-   + Zelfstudies {#firefly-tutorials}
+   + Tutorials {#firefly-tutorials}
       + [Overzicht van de Adobe Firefly](firefly/overview-of-firefly.md)
       + [Creatieve efficiëntie inschakelen](firefly/enable-creative-efficiency.md)
       + [Banner en variaties in [!DNL Photoshop]](firefly/web-banner-ad.md)
@@ -82,7 +84,7 @@ ht-degree: 8%
       + [Experimenteren met Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Overzicht](stock/overview-stock.md)
-   + Zelfstudies {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [Verbluffende digitale assets](stock/stunning-digital-assets.md)
       + [Adobe zoeken [!DNL Stock] licentiegeschiedenis](stock/searchstock.md)
       + [Een met de hand getekend esthetiek toevoegen aan Adobe [!DNL Stock] afbeeldingen](stock/handdrawn.md)
@@ -109,21 +111,21 @@ ht-degree: 8%
       + [De kleuren in een Adobe aanpassen [!DNL Stock] vectorillustratie](stock/customizecolors.md)
 + Adobe 3D en VR {#3doverview}
    + [Overzicht](3di/overview-3di.md)
-   + Zelfstudies {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [3D-ontwerp en -rendering](3di/substance-3d-stager.md)
       + [Tips en technieken voor het beheersen van 3D-belichting in CGI](3di/mastering3dlighting.md)
       + [Fotorealistische virtuele fotografie maken met 3D-rendering en -composities](3di/photorealistic.md)
       + [Pas een 3D-model aan en merk het op met [!DNL Dimension] en Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Video Adobe {#videooverview}
    + [Overzicht](dva/overview-dva.md)
-   + Zelfstudies {#videotutorials}
+   + Tutorials {#videotutorials}
       + [Sjablonen voor professionele bewegende beelden](dva/motion-graphics-templates.md)
       + [Video-revisie met Frame.io](dva/video-review-frame-io.md)
    + Snelle verwijzingshulplijnen {#videorefguides}
       + [Videohulplijnen](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [Overzicht](xd/overview-xd.md)
-   + Zelfstudies {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [Ga vertrouwd met [!UICONTROL Componenten] in Adobe XD](xd/components.md)
 + Implementeren en beheren {#deploy}
    + [Overzicht](deploy/overview-deploy.md)
@@ -131,7 +133,7 @@ ht-degree: 8%
    + [Gebruikerslicenties op naam](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [Overzicht](max/overview-max.md)
-   + Zelfstudies {#tutorials}
+   + Tutorials {#tutorials}
       + [Overzicht](max/maxtutorials.md)
       + Desktopproducten {#desktop-products}
          + [Acrobat &amp; Sign](max/acrobat-sign.md)
