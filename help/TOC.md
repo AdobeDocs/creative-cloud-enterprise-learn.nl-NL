@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '588'
 ht-degree: 5%
 
 ---
@@ -42,6 +42,12 @@ ht-degree: 5%
       + [Wat is er op de startpagina?](express/get-started.md)
       + [Inleiding tot snelle handelingen](express/quick-actions.md)
       + [Inleiding tot sjablonen](express/introduction-templates.md)
+      + [Een merkkit maken](express/brand.md)
+      + [Een project starten](express/new-project.md)
+      + [UX van een project](express/workspace.md)
+      + [Tekst toevoegen](express/text-effects.md)
+      + [Een afbeelding toevoegen](express/image-effects.md)
+      + [Een AI-afbeelding toevoegen](express/add-gen-ai-image.md)
       + [Sociale berichten plannen](express/schedule.md)
       + [Projectdeelnemers uitnodigen](express/collaborate.md)
       + [Snel inspiratie opdoen](express/get-inspiration.md)
@@ -52,12 +58,9 @@ ht-degree: 5%
       + [Meerdere pagina&#39;s maken](express/multiple-pages.md)
       + [Ongedaan maken en opnieuw uitvoeren](express/undo-redo.md)
       + [CC-bibliotheken gebruiken](express/cc-libraries.md)
-      + [Uw merk toepassen](express/brand.md)
       + [Integratie met Google Drive](express/google-drive.md)
       + [Een achtergrond uit een foto met één klik verwijderen](express/remove-background.md)
       + [Een uitsnede verfijnen](express/refine-cutout.md)
-      + [Teksteffecten gebruiken](express/text-effects.md)
-      + [Effecten en aanpassingen toevoegen aan een foto](express/image-effects.md)
       + [Curve tekst maken](express/create-curved-text.md)
    + Zelfstudies voor hoofdlettergebruik {#expressusecase}
       + [Overzicht](express/overview-express-use-case-tutorials.md)
@@ -65,7 +68,6 @@ ht-degree: 5%
       + [Laat marketingteams content voor meerdere kanalen creëren](express/multi-channel-marketing-content.md)
       + [Laat verspreide teams content lokaliseren](express/localized-marketing-content.md)
       + [Jumpstart creative-ideatie](express/jumpstart-ideation.md)
-      + [Adobe Express voor beginners](express/adobe-express-beginners.md)
       + [Creëer flyer-content voor marketingcampagnes met Firefly](express/create-local-marketing.md)
       + [Creëer wervingscontent en onboardingcontent met Firefly](express/create-on-boarding.md)
       + [Sociale posters met Firefly maken](express/create-social-posters.md)

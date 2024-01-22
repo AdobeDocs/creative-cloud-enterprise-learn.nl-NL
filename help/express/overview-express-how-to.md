@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -33,14 +33,46 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
       <a href="introduction-templates.md">
          <img alt="Inleiding tot snelle handelingen" src="assets/introduction-templates.png" />
       </a>
- </td>
+ </td>     
  <td>
-      <a href="schedule.md">
-         <img alt="Sociale berichten plannen" src="assets/schedule.png" />
+      <a href="brand.md">
+         <img alt="Een merkkit maken" src="assets/brand.png" />
       </a>
   </td>
 </tr>
 <tr>
+   <td>
+      <a href="new-project.md">
+         <img alt="Een project starten" src="assets/starting-a-project.png" />
+      </a>
+  </td>
+   <td>
+      <a href="workspace.md">
+         <img alt="UX van een project" src="assets/workspace.png" />
+      </a>
+  </td>
+  <td>
+      <a href="text-effects.md">
+         <img alt="Tekst toevoegen" src="assets/text-effects.png" />
+      </a>
+  </td>
+  <td>
+      <a href="image-effects.md">
+         <img alt="Een afbeelding toevoegen" src="assets/image-effects.png" />
+      </a>
+  </td>
+</tr>
+<tr>
+   <td>
+      <a href="add-gen-ai-image.md">
+         <img alt="Een AI-afbeelding toevoegen" src="assets/gen-ai-image.png" />
+      </a>
+  </td>
+  <td>
+      <a href="schedule.md">
+         <img alt="Sociale berichten plannen" src="assets/schedule.png" />
+      </a>
+  </td>
   <td>
    <a href="collaborate.md">
       <img alt="Projectdeelnemers uitnodigen" src="assets/collaborate.png" />
@@ -51,7 +83,9 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
          <img alt="Snel inspiratie opdoen" src="assets/inspiration.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="create-templates.md">
       <img alt="Sjablonen maken" src="assets/templates.png" />
    </a>
@@ -61,8 +95,6 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
             <img alt="Ontwerpelementen toevoegen" src="assets/design-assets.png" />
          </a>
  </td>
-</tr>
-<tr>
   <td>
          <a href="group-objects.md">
             <img alt="Objecten groeperen" src="assets/group-objects.png" />
@@ -73,7 +105,9 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
             <img alt="Lagen selecteren en verplaatsen" src="assets/layers.png" />
          </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="multiple-pages.md">
          <img alt="Meerdere pagina&apos;s maken" src="assets/multiple-pages.png" />
       </a>
@@ -83,16 +117,9 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
          <img alt="Ongedaan maken en opnieuw uitvoeren" src="assets/undo-redo.png" />
       </a>
    </td>
-</tr>
-<tr>
   <td>
       <a href="cc-libraries.md">
          <img alt="CC-bibliotheken gebruiken" src="assets/cc-libraries.png" />
-      </a>
-  </td>
-   <td>
-      <a href="brand.md">
-         <img alt="Uw merk toepassen" src="assets/brand.png" />
       </a>
   </td>
    <td>
@@ -100,29 +127,24 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
          <img alt="Integratie met Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-  <td>
-      <a href="remove-background.md">
-         <img alt="Achtergrond verwijderen" src="assets/background.png" />
-      </a>
-  </td>
-  </tr>
+</tr>
 <tr>
-  <td>
-      <a href="text-effects.md">
-         <img alt="Teksteffecten gebruiken" src="assets/text-effects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="image-effects.md">
-         <img alt="Afbeeldingseffecten gebruiken" src="assets/image-effects.png" />
-      </a>
-  </td>
+   <td>
+         <a href="remove-background.md">
+            <img alt="Achtergrond verwijderen" src="assets/background.png" />
+         </a>
+   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="Curve tekst maken" src="assets/curved-text.png" />
          </a>
    </td>
   <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>
       <br>

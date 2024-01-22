@@ -1,19 +1,20 @@
 ---
-title: Effecten en aanpassingen toevoegen aan een foto
-description: Ontdek de eindeloze mogelijkheden door foto-effecten en aanpassingen toe te voegen
+title: Een afbeelding toevoegen
+description: Ontdek de eindeloze mogelijkheden door afbeeldingseffecten en aanpassingen toe te voegen
 feature: Image Editing
 role: User
 level: Beginner
+jira: KT-13411
 exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
-source-git-commit: c5da6a77534492307cd58cf44cac651e98018b81
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# Effecten en aanpassingen toevoegen aan een foto
+# Een afbeelding toevoegen
 
-Leer hoe u effecten en aanpassingen aan een foto kunt toevoegen.
+Leer alle verschillende manieren waarop je een afbeelding en afbeeldingseffecten kunt toevoegen aan je creatieve projecten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423770?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420226?quality=12&learn=on&hidetitle=true)
