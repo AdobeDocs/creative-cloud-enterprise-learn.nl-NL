@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '602'
 ht-degree: 5%
 
 ---
@@ -48,13 +48,16 @@ ht-degree: 5%
       + [Tekst toevoegen](express/text-effects.md)
       + [Een afbeelding toevoegen](express/image-effects.md)
       + [Een AI-afbeelding toevoegen](express/add-gen-ai-image.md)
+      + [Rasters gebruiken](express/grids.md)
+      + [Elementen gebruiken](express/add-design-assets.md)
+      + [Werken met lagen en tekengebieden](express/layers.md)
+      + [Samenwerken](express/collaborate.md)
+      + [Delen en downloaden](express/share.md)
+      + [Versiehistorie gebruiken](express/version-history.md)
       + [Sociale berichten plannen](express/schedule.md)
-      + [Projectdeelnemers uitnodigen](express/collaborate.md)
       + [Snel inspiratie opdoen](express/get-inspiration.md)
       + [Sjablonen maken](express/create-templates.md)
-      + [Ontwerpelementen toevoegen](express/add-design-assets.md)
       + [Objecten groeperen](express/group-objects.md)
-      + [Lagen selecteren en verplaatsen](express/layers.md)
       + [Meerdere pagina&#39;s maken](express/multiple-pages.md)
       + [Ongedaan maken en opnieuw uitvoeren](express/undo-redo.md)
       + [CC-bibliotheken gebruiken](express/cc-libraries.md)

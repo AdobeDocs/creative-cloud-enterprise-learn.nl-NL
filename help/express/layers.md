@@ -1,19 +1,20 @@
 ---
-title: Lagen selecteren en verplaatsen
-description: Verplaats, rangschik of overlappende stickers en tekst met lagen
+title: Werken met lagen en tekengebieden
+description: Leer hoe u elementen met lagen verplaatst, opnieuw rangschikt of overlapt
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: 9981b8c3-5de9-41e7-be2f-eab0ca8f65fe
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13413
+exl-id: 80037a4b-9d6d-47d7-a827-e7d0777f2666
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---
 
-# Lagen selecteren en verplaatsen
+# Werken met lagen en tekengebieden
 
-Verplaats, rangschik of overlappende stickers en tekst met lagen.
+Leer hoe u elementen met lagen verplaatst, opnieuw rangschikt of overlapt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
