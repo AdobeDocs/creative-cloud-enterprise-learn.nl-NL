@@ -6,16 +6,18 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 9ac4e6bef84f5020e18188c2a9e5fccb6f73bbb4
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
+source-wordcount: '153'
+ht-degree: 2%
 
 ---
 
 # Adobe [!DNL Express] hoe kan ik-zelfstudies
 
 Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven door Adobe Firefly. Ontwerp flyers, TikToks, hervat en Reels met Adobe Express.
+
+## Aan de slag
 
 <table style="table-layout:fixed">
 <tr>
@@ -33,14 +35,24 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
       <a href="introduction-templates.md">
          <img alt="Inleiding tot snelle handelingen" src="assets/introduction-templates.png" />
       </a>
- </td>     
+ </td>
+ <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+   </td>
+</tr>
+</table>
+
+## Basisbeginselen
+
+<table style="table-layout:fixed">
+<tr>
  <td>
       <a href="brand.md">
          <img alt="Een merkkit maken" src="assets/brand.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="new-project.md">
          <img alt="Een project starten" src="assets/starting-a-project.png" />
@@ -56,19 +68,19 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
          <img alt="Tekst toevoegen" src="assets/text-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="image-effects.md">
          <img alt="Een afbeelding toevoegen" src="assets/image-effects.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="add-gen-ai-image.md">
          <img alt="Een AI-afbeelding toevoegen" src="assets/gen-ai-image.png" />
       </a>
   </td>
- <td>
+   <td>
       <a href="grids.md">
          <img alt="Rasters gebruiken" src="assets/grids.png" />
       </a>
@@ -78,47 +90,95 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
             <img alt="Elementen gebruiken" src="assets/design-assets.png" />
          </a>
    </td>
+</tr>
+<tr>
    <td>
          <a href="layers.md">
             <img alt="Werken met lagen en tekengebieden" src="assets/layers.png" />
          </a>
    </td>
-</tr>
-<tr>
    <td>
    <a href="collaborate.md">
       <img alt="Samenwerken" src="assets/collaborate.png" />
    </a>
-  </td>
-  <td>
+   </td>
+   <td>
    <a href="share.md">
       <img alt="Delen en downloaden" src="assets/share.png" />
    </a>
-  </td>
-  <td>
+   </td>
+   <td>
    <a href="version-history.md">
       <img alt="Versiehistorie gebruiken" src="assets/version-history.png" />
    </a>
-  </td>
-  <td>
-      <a href="schedule.md">
-         <img alt="Sociale berichten plannen" src="assets/schedule.png" />
-      </a>
-  </td>
+   </td>
 </tr>
 <tr>
-  <td>
+   <td>
+      <a href="undo-redo.md">
+         <img alt="Ongedaan maken en opnieuw uitvoeren" src="assets/undo-redo.png" />
+      </a>
+   </td>
+   <td>
       <a href="get-inspiration.md">
          <img alt="Snel inspiratie opdoen" src="assets/inspiration.png" />
       </a>
   </td>
+  <td>
+      <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
+</tr>
+</table>
+
+## Animatie
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="intro-animation.md">
+            <img alt="Introductie tot animaties" src="assets/intro-animations.png" />
+         </a>
+   </td>
+  <td>
+         <a href="different-types-animation.md">
+            <img alt="Verschillende typen animatie" src="assets/different-animations.png" />
+         </a>
+   </td>
+   <td>
+         <a href="tweak-animation.md">
+            <img alt="De instellingen van uw animaties aanpassen" src="assets/tweaking-settings.png" />
+         </a>
+   </td>
+   <td>
+         <a href="animation-timeline.md">
+            <img alt="Wat is de animatietijdlijn?" src="assets/what-is-animation-timeline.png" />
+         </a>
+   </td>
+</tr>
+</table>
+
+## Geavanceerde taken
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+      <a href="schedule.md">
+         <img alt="Sociale berichten plannen" src="assets/schedule.png" />
+      </a>
+   </td>
    <td>
    <a href="create-templates.md">
       <img alt="Sjablonen maken" src="assets/templates.png" />
    </a>
-  </td>
-
-<td>
+   </td>
+   <td>
          <a href="group-objects.md">
             <img alt="Objecten groeperen" src="assets/group-objects.png" />
          </a>
@@ -130,11 +190,6 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
   </td>
 </tr>
 <tr>
-  <td>
-      <a href="undo-redo.md">
-         <img alt="Ongedaan maken en opnieuw uitvoeren" src="assets/undo-redo.png" />
-      </a>
-   </td>
   <td>
       <a href="cc-libraries.md">
          <img alt="CC-bibliotheken gebruiken" src="assets/cc-libraries.png" />
@@ -150,27 +205,10 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
             <img alt="Achtergrond verwijderen" src="assets/background.png" />
          </a>
    </td>
-</tr>
-<tr>
   <td>
          <a href="create-curved-text.md">
             <img alt="Curve tekst maken" src="assets/curved-text.png" />
          </a>
-   </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-   </td>
-   <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-   </td>
-   <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
    </td>
 </tr>
 </table>
