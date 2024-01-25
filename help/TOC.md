@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 5%
+source-wordcount: '689'
+ht-degree: 4%
 
 ---
 
@@ -65,13 +65,20 @@ ht-degree: 5%
       + [Audio toevoegen aan uw animaties](express/audio-animation.md)
       + [De grootte van uw animaties aanpassen](express/resize-animations.md)
       + [Uw animaties exporteren](express/export-animations.md)
-      + [Sociale berichten plannen](express/schedule.md)
+      + [Achtergrond uit een afbeelding verwijderen](express/remove-background.md)
+      + [Wat zijn de nieuwe AI-functies van de Gen in Adobe Express?](express/intro-gen-ai.md)
+      + [Het gereedschap Object wissen gebruiken](express/object-eraser.md)
+      + [Generatieve vulling gebruiken](express/generative-fill.md)
+      + [Uw tekstontwerp verbeteren met Gen AI](express/gen-text.md)
+      + [Lettertype AI voor tekst naar sjabloon](express/text-to-template.md)
+      + [Je content bulksgewijs vertalen](express/bulk-translate.md)
+      + [Een PDF bewerken](express/edit-a-pdf.md)
+      + [Hoe te om de planner voor het posten te gebruiken](express/schedule.md)
       + [Sjablonen maken](express/create-templates.md)
       + [Objecten groeperen](express/group-objects.md)
       + [Meerdere pagina&#39;s maken](express/multiple-pages.md)
       + [CC-bibliotheken gebruiken](express/cc-libraries.md)
       + [Integratie met Google Drive](express/google-drive.md)
-      + [Een achtergrond uit een foto met één klik verwijderen](express/remove-background.md)
       + [Een uitsnede verfijnen](express/refine-cutout.md)
       + [Curve tekst maken](express/create-curved-text.md)
    + Zelfstudies voor hoofdlettergebruik {#expressusecase}

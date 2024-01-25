@@ -1,19 +1,20 @@
 ---
-title: Sociale berichten plannen
+title: De planner gebruiken om te posten
 description: Sociale berichten plannen voor Instagram, Facebook, Twitter, Pinterest en LinkedIn
 feature: Share, Social Media
 role: User
 level: Beginner
-exl-id: 7ffedb3d-873a-4b8c-8fde-186a6e4edca3
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-13430
+exl-id: f248c621-f50c-45c8-97de-4f28c7ea97f1
+source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
 workflow-type: tm+mt
-source-wordcount: '26'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# Sociale berichten plannen
+# Hoe te om de planner voor het posten te gebruiken
 
-Plan sociale berichten voor Instagram, Facebook, Twitter, Pinterest en LinkedIn.
+Plan social-mediaberichten voor Instagram, Facebook, Twitter, Pinterest en LinkedIn.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420242?quality=12&learn=on&hidetitle=true)
