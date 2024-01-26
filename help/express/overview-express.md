@@ -1,31 +1,52 @@
 ---
 title: Adobe [!DNL Express] Overzicht
 description: Ga snel aan de slag met Adobe [!DNL Express]
-feature: Graphic Design, Image Editing, Integrations
+feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 35064a3ada3219c9fd28b8f87d3ffa20817f30c0
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 11%
+source-wordcount: '72'
+ht-degree: 5%
 
 ---
 
 # Adobe [!DNL Express] overzicht
 
-Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
+Design Reels en TikTok-video’s, -flyers, -hervatting, -banners, -logo’s en meer met de nieuwe, alles-in-één-Adobe Express-app voor snelle en eenvoudige contentcreatie. Maak fantastisch werk dat opvalt met generatieve AI-functies die worden aangestuurd door Adobe Firefly.
 
-## Leerpaden
+## Wat is Adobe Express?
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
+
+## Adobe [!DNL Express] zelfstudies
 
 <table style="table-layout:fixed">
 <tr>
    <td>
-      <a href="overview-express-how-to.md">
-         <img alt="Hoe kan ik-Adobe Express-Tutorials" src="assets/how-to-tutorials.png" />
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?#getting-started">
+         <img alt="Aan de slag - zelfstudies" src="assets/get-started.png" />
       </a>
   </td>
+  <td>
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#basic-tasks">
+         <img alt="Zelfstudies voor basistaken" src="assets/basic-tasks.png" />
+      </a>
+  </td>
+   <td>
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#animation">
+         <img alt="Zelfstudies over animatie" src="assets/advanced-tasks.png" />
+      </a>
+  </td>
+  <td>
+      <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#advanced-tasks">
+         <img alt="Zelfstudies over animatie" src="assets/animation.png" />
+      </a>
+  </td>
+  </tr>
+  <tr>
   <td>
       <a href="overview-express-use-case-tutorials.md">
          <img alt="Zelfstudies over het gebruik van Adoben Express" src="assets/use-case-tutorials.png" />
@@ -41,9 +62,10 @@ Adobe Express is een gebruiksvriendelijke creatieve tool, zonder ervaring.
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
-
-## Wat is Adobe Express?
-
->[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
