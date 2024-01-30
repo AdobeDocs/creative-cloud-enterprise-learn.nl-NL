@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '716'
 ht-degree: 4%
 
 ---
@@ -84,6 +84,7 @@ ht-degree: 4%
       + [Een videoproject starten](express/start-video.md)
       + [Videoclips toevoegen](express/add-video-clips.md)
       + [Wat is een videotijdlijn?](express/video-timeline.md)
+      + [Werken met meerdere clips](express/multiple-clips.md)
       + [Audio toevoegen](express/add-audio-video.md)
       + [Video exporteren](express/export-video.md)
    + Zelfstudies voor hoofdlettergebruik {#expressusecase}
