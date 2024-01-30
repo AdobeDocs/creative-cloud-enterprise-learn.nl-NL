@@ -3,12 +3,12 @@ title: Adobe [!DNL Express] Hoe kan ik-Tutorials
 description: Ga snel aan de slag met Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
-level: Beginner
+level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 2ede4e3a049d839baf82116c06714a8d516bc54b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '265'
 ht-degree: 1%
 
 ---
@@ -289,14 +289,63 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
       </a>
   </td>
   <td>
+         <a href="refine-cutout.md">
+            <img alt="Een uitsnede verfijnen" src="assets/cutouts.png" />
+         </a>
+   </td>
+   <td>
          <a href="create-curved-text.md">
             <img alt="Curve tekst maken" src="assets/curved-text.png" />
+         </a>
+   </td>
+</tr>
+</table>
+
+## Video
+
+<table style="table-layout:fixed">
+<tr>
+   <td>
+         <a href="start-video.md">
+            <img alt="Een videoproject starten" src="assets/start-video.png" />
+         </a>
+   </td>
+  <td>
+         <a href="add-video-clips.md">
+            <img alt="Videoclips toevoegen" src="assets/add-video-clips.png" />
+         </a>
+   </td>
+   <td>
+         <a href="video-timeline.md">
+            <img alt="Wat is een videotijdlijn?" src="assets/video-timeline.png" />
+         </a>
+   </td>
+   <td>
+         <a href="add-audio-video.md">
+            <img alt="Audio toevoegen" src="assets/add-audio-video.png" />
+         </a>
+   </td>
+</tr>
+<tr>
+   <td>
+         <a href="export-video.md">
+            <img alt="Video exporteren" src="assets/export-video.png" />
          </a>
    </td>
    <td>
     <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
-  </td>
+   </td>
+   <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
+   <td>
+    <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+   </td>
 </tr>
 </table>

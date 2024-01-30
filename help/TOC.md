@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
+source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '712'
 ht-degree: 4%
 
 ---
@@ -81,6 +81,11 @@ ht-degree: 4%
       + [Integratie met Google Drive](express/google-drive.md)
       + [Een uitsnede verfijnen](express/refine-cutout.md)
       + [Curve tekst maken](express/create-curved-text.md)
+      + [Een videoproject starten](express/start-video.md)
+      + [Videoclips toevoegen](express/add-video-clips.md)
+      + [Wat is een videotijdlijn?](express/video-timeline.md)
+      + [Audio toevoegen](express/add-audio-video.md)
+      + [Video exporteren](express/export-video.md)
    + Zelfstudies voor hoofdlettergebruik {#expressusecase}
       + [Overzicht](express/overview-express-use-case-tutorials.md)
       + [Creëer boeiende merchandising-content](express/compelling-merchandise.md)
