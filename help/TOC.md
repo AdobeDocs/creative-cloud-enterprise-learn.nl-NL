@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f4226d6d483d807559f06c2971cdd7e111095078
+source-git-commit: 91329113e9dcca0f2ebdc8d6d998f4f0a2d2012d
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '730'
 ht-degree: 4%
 
 ---
@@ -74,7 +74,6 @@ ht-degree: 4%
       + [Je content bulksgewijs vertalen](express/bulk-translate.md)
       + [Een PDF bewerken](express/edit-a-pdf.md)
       + [Hoe te om de planner voor het posten te gebruiken](express/schedule.md)
-      + [Sjablonen maken](express/create-templates.md)
       + [Objecten groeperen](express/group-objects.md)
       + [Meerdere pagina&#39;s maken](express/multiple-pages.md)
       + [CC-bibliotheken gebruiken](express/cc-libraries.md)
@@ -87,6 +86,10 @@ ht-degree: 4%
       + [Werken met meerdere clips](express/multiple-clips.md)
       + [Audio toevoegen](express/add-audio-video.md)
       + [Video exporteren](express/export-video.md)
+      + [Lagen vergrendelen en aangeven waarom](express/lock-layers.md)
+      + [Een sjabloon maken](express/create-templates.md)
+      + [Sjablonen opslaan en delen](express/share-templates.md)
+      + [Sjablonen gebruiken](express/use-templates.md)
    + Zelfstudies voor hoofdlettergebruik {#expressusecase}
       + [Overzicht](express/overview-express-use-case-tutorials.md)
       + [Creëer boeiende merchandising-content](express/compelling-merchandise.md)
