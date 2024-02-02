@@ -5,15 +5,15 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14873
-source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
 # Werken met meerdere clips
 
-Leer hoe u een nieuwe scène in uw video kunt maken door clips toe te voegen aan de tijdlijn.
+Leer hoe u nieuwe videoclips aan de tijdlijn toevoegt, de lengte ervan aanpast, overgangen toevoegt en clips splitst om nieuwe scènes te maken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)

@@ -1,19 +1,19 @@
 ---
 title: Verschillende typen animaties
-description: Vergroot de betrokkenheid bij uw projecten door verschillende soorten animaties te gebruiken
+description: Vergroot de betrokkenheid bij je projecten door verschillende soorten animaties te gebruiken
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14832
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
 # Verschillende typen animaties
 
-Ontdek de drie verschillende typen animaties die je aan je projecten kunt toevoegen om ze aantrekkelijker te maken.
+Leer meer over de drie verschillende typen animaties (intro, herhalen en outro) die je aan je projecten kunt toevoegen om ze aantrekkelijker te maken. Elke animatie heeft een andere stijl die u kunt voorvertonen en selecteren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)

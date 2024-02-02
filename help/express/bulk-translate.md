@@ -5,15 +5,19 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-14851
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Je content bulksgewijs vertalen
 
-Leer hoe u de noodzaak van handmatige vertalingen en de rompslomp van externe vertaalhulpmiddelen wegneemt door de tekst te vertalen in bestanden van één pagina of meerdere pagina&#39;s in uw keuze uit 46 talen.
+Leer hoe u taalvariaties van uw projecten kunt maken door de inhoud automatisch in 46 verschillende talen te vertalen. U kunt de gewenste taal selecteren, de inhoud dupliceren en vertalen en alle animaties behouden.
+
+>[!NOTE]
+>
+>Het is belangrijk dat u de vertalingen controleert op de nauwkeurigheid voordat u ze deelt of downloadt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
