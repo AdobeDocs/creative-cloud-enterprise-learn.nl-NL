@@ -5,9 +5,9 @@ feature: Video Editing
 role: User
 level: Beginner
 jira: KT-14872
-source-git-commit: 79b9f6ba419663b707519aa6f62d0a265b8da38d
+source-git-commit: 38b45451db2c09b1e0080d370ef8002ad5fc914c
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 Leer meer over de tijdlijn, waar u video-objecten zoals video&#39;s, afbeeldingen, tekst en afbeeldingen in uw project rangschikt en bewerkt. De tijdlijn is een voorstelling van de objecten en de volgorde van de objecten waaruit een video bestaat.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427090?quality=12&learn=on&hidetitle=true)
+
+## Aanvullende video&#39;s in deze reeks
 
 <table style="table-layout:fixed">
 <tr>
