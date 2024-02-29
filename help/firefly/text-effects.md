@@ -1,20 +1,21 @@
 ---
 title: Teksteffecten
-description: Leer hoe u teksteffecten kunt gebruiken, aangedreven door Adobe Firefly
+description: Leer hoe je unieke en inspirerende tekst voor je projecten maakt met eenvoudige tekstaanwijzingen
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-13526
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: e3d55ec7-e7f5-44dd-a633-09e64ec23b60
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 4%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
 # Teksteffecten
 
-Leer hoe u met teksteffecten, aangedreven door Adobe Firefly, unieke en inspirerende titelafbeeldingen kunt maken voor een nieuwsbrief. Deelnemen aan de Adobe Firefly (bèta) [hier](https://firefly.adobe.com/).
+Leer hoe je unieke en inspirerende tekst voor je projecten maakt met eenvoudige tekstaanwijzingen. Met teksteffecten vergroot je je creativiteit en creëer je buitengewone tekst voor je projecten. Adobe Firefly uitproberen [hier](https://firefly.adobe.com/).
 
 <br> 
 

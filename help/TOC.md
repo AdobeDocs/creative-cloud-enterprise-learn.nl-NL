@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: b2ac01f2094dcf454ca322d14d0f3fe1340b530d
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '776'
 ht-degree: 4%
 
 ---
@@ -110,11 +110,17 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Overzicht](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
-      + [Overzicht van de Adobe Firefly](firefly/overview-of-firefly.md)
+      + [Overzicht van [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
+      + [Ontdekken [!DNL Adobe Firefly]](firefly/discover.md)
+      + [Openingspagina](firefly/landing-page.md)
+      + [Tekst naar afbeelding](firefly/text-to-image.md)
+      + [Teksteffecten](firefly/text-effects.md)
+      + [Generatieve vulling](firefly/gen-fill.md)
+      + [Generatief opnieuw kleuren](firefly/gen-recolor.md)
+      + [Voorbeelden van het gebruik [!DNL Firefly]](firefly/examples.md)
       + [Creatieve efficiëntie inschakelen](firefly/enable-creative-efficiency.md)
       + [Banner en variaties in [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Generatieve invulling in [!DNL Photoshop]](firefly/generative-fill.md)
-      + [Teksteffecten](firefly/text-effects.md)
       + [Generatief opnieuw kleuren in [!DNL Illustrator]](firefly/generative-recolor.md)
    + Webinars {#firefly-webinars}
       + [Experimenteren met Adobe Firefly](firefly/webinar-experimenting.md)
