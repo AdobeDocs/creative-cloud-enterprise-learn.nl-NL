@@ -5,16 +5,17 @@ feature: Image Editing, Gen AI, Vector Editing
 role: User
 level: Beginner
 jira: KT-14193
-source-git-commit: c99c352a43a64cb98ed7fa7bcbf57a9bc94828f7
+exl-id: f2ef46a2-996e-4c9c-87bc-c65691c95199
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
 # Creatieve efficiëntie inschakelen
 
-Leer hoe je het creëren van content versnelt met generatieve AI-tools in Adobe Photoshop en Illustrator. Deze zelfstudie maakt gebruik van Adobe Illustrator Prerelease.
+Leer hoe je het creëren van content versnelt met generatieve AI-tools in Adobe Photoshop en Illustrator.
 
 <br> 
 

@@ -1,21 +1,21 @@
 ---
 title: Experimenteren met Firefly Beta Webinar
-description: Join Howard Pinsky duikt in de bèta van de Firefly
+description: Join Howard Pinsky duikt in de Firefly
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13427
-exl-id: e75836e5-206a-4fe1-807e-0ab973ea62ea
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: ede87fb6-3a34-40e5-b29c-92f626452ccf
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '29'
 ht-degree: 0%
 
 ---
 
 # Experimenteren met Firefly bèta-webinar
 
-Doe mee met Howard Pinsky in dit webinar terwijl hij in de bèta van de Firefly duikt.
+Doe mee met Howard Pinsky in dit webinar terwijl hij in de Firefly duikt.
 
 <br> 
 
