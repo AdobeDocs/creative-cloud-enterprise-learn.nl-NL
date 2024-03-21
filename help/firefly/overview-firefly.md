@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
+source-git-commit: a070aad2cc264fd6e3fefdc7a3ad5b092aa0fd72
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,11 @@ Firefly is de nieuwe familie van creatieve generatieve AI-modellen die producten
       </a>
    </td>
    <td>
+      <a href="custom-model-style.md">
+         <img alt="Een aangepast model maken met stijlen" src="assets/custom-model-styles.png" />
+      </a>
+   </td>
+  <td>
       <a href="discover.md">
          <img alt="Ontdek Adobe Firefly" src="assets/discover.png" />
       </a>
@@ -69,13 +74,13 @@ Firefly is de nieuwe familie van creatieve generatieve AI-modellen die producten
          <img alt="Openingspagina" src="assets/landing-page.png" />
       </a>
    </td>
+</tr>
+<tr>
    <td>
       <a href="text-to-image.md">
          <img alt="Tekst naar afbeelding" src="assets/text-to-image.png" />
       </a>
    </td>
-</tr>
-<tr>
    <td>
       <a href="text-effects.md">
          <img alt="Teksteffecten" src="assets/text-effects.png" />
@@ -91,14 +96,14 @@ Firefly is de nieuwe familie van creatieve generatieve AI-modellen die producten
          <img alt="Generatief opnieuw kleuren" src="assets/generative-recolor.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="examples.md">
          <img alt="Voorbeelden van het gebruik van Firefly" src="assets/examples.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="enable-creative-efficiency.md">
          <img alt="Creatieve efficiëntie inschakelen" src="assets/enable-creative-efficiency.png" />
       </a>
@@ -113,10 +118,26 @@ Firefly is de nieuwe familie van creatieve generatieve AI-modellen die producten
          <img alt="Banner en variaties in Photoshop" src="assets/banner-ad-variations.png" />
       </a>
   </td>
+</tr>
+<tr>
    <td>
       <a href="generative-recolor.md">
             <img alt="Generatief opnieuw kleuren in Illustrator" src="assets/firefly-recolor.png" />
       </a>
    </td>
-</tr>
+   <td>
+      <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
+   <td>
+      <img alt="Spacer" src="../assets/Gray_thumbnail.png" />
+      <div>
+      <br>
+   </td>
 </table>
