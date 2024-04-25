@@ -5,9 +5,10 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15203
-source-git-commit: 66ec2af44859e17b6fdc4ab487227be23b46011d
+exl-id: c1f342c6-ab0b-4797-9dd1-f21477f4219f
+source-git-commit: efd5e6062194514e15d0ab015d2cd54d41943746
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '85'
 ht-degree: 1%
 
 ---
@@ -19,3 +20,7 @@ Leer hoe u in Firefly aangepaste modellen maakt om nieuwe afbeeldingen voor het 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428003?quality=12&learn=on&hidetitle=true)
+
+>[!IMPORTANT]
+>
+>Meer informatie over de [beveiligingsarchitectuur en gegevensstroom van aangepaste modellen](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
