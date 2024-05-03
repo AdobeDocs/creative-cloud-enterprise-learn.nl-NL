@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1394'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare processen instellen en voldoen aan bedrijfssystemen en richtlijnen. Deze zelfstudies helpen u nieuwe functies in het Creative Cloud te leren - vanuit het perspectief van de onderneming.
 
-## Klik om een productzelfstudie weer te geven (weergegeven in alfabetische volgorde)
+## Zelfstudie voor producten (weergegeven in alfabetische volgorde) selecteren om weer te geven
 
 ### Adobe Acrobat
 
@@ -46,63 +46,6 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
   <td>
     <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Express (voorheen Adobe Spark)
-
-<table style="table-layout:fixed">
-<tr>
- <td>
-   <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express: Content die eruit springt" src="assets/Adobe-Express-content-that-stands-out.png" />
-   </a>
-    <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express: Content die eruit springt</strong></a>
-    </div>
-    <em> Creëer binnen enkele minuten prachtige graphics, webpagina’s en videoverhalen met Adobe Express</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Uw merk maken in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Uw merk maken in Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Met Adobe Spark kun je eenvoudig je merk definiëren</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Een presentatie toevoegen aan uw Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Een presentatie toevoegen aan uw Spark Page (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark biedt een aantal fantastische en gebruiksvriendelijke lay-outcomponenten die je webverhalen tot leven brengen</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Uw merk maken in Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Uw merk maken in Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Met Adobe Spark kun je eenvoudig je merk definiëren</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="Maak kennis met je nieuwe productieartiest: Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Maak kennis met je nieuwe productieartiest: Adobe Spark Post (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark leert van u terwijl u lay-outs maakt, kleuren definieert, illustraties importeert en elementen rangschikt in uw composities</em>
     <br>
   </td>
 </tr>
@@ -256,6 +199,11 @@ Als creatief bedrijf moet je samenwerken met gedistribueerde teams, schaalbare p
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>Van Lightroom Web naar InDesign via Creative Cloud (PDF)</strong></a>
     </div>
     <em>Til je creativiteit van de camera naar het uiteindelijke ontwerp met Creatives Cloud en bibliotheken</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
