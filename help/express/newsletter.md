@@ -1,11 +1,12 @@
 ---
 title: Een nieuwsbrief maken
-description: Leer hoe u de voorpagina van een nieuwsbrief maakt
+description: Leer hoe je een dynamische voorpagina voor een nieuwsbrief maakt
 feature: Graphic Design
 role: User
 level: Intermediate
 jira: KT-14894
-source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
+exl-id: 9afc2d24-6247-4b11-883e-d85d5bc6e8d7
+source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
