@@ -1,13 +1,13 @@
 ---
-title: "[!DNL Rush]"
-description: Premiere [!DNL Rush] is de eerste alles-in-één-app voor videobewerking op verschillende apparaten waarmee je eenvoudiger dan ooit online content kunt creëren en delen
+title: '[!DNL Rush]'
+description: Premiere  [!DNL Rush]  is de eerste alles-in-één, video het uitgeven app die het creëren van en het delen van online inhoud gemakkelijker maakt dan ooit
 feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Premiere [!DNL Rush] is de eerste alles-in-één-app voor videobewerking op vers
       <img alt="Een video voor sociale media maken" src="../assets/rush_socialMediaAd_wood_thumbnail.jpg" />
    </a>
     <div>
-   <a href="rush.md#tutorial1"><strong>Een video voor sociale media maken</strong></a>
+   <a href="rush.md#tutorial1"><strong> creeer een Video van Sociale Media </strong></a>
     </div>
-    <em>Adobe [!DNL Rush] kunt u op elk apparaat werken en professionele uitvoer eenvoudig genoeg maken voor beginners</em>
+    <em> Adobe [!DNL Rush] laat u aan om het even welk apparaat werken en maakt professionele output gemakkelijk genoeg voor beginners </em>
     <br>
   </td>
   <td>
@@ -48,23 +48,23 @@ Premiere [!DNL Rush] is de eerste alles-in-één-app voor videobewerking op vers
 >[!VIDEO](https://video.tv.adobe.com/v/326900?hidetitle=true)
 
 **Beschrijving**
-Uw verhaal vertellen met video en audio van Adobe [!DNL Stock]. Adobe [!DNL Rush] kunt u op elk apparaat werken en professionele uitvoer eenvoudig genoeg maken voor beginners.
+Vertel uw verhaal met video en audio van Adobe [!DNL Stock] . Met Adobe [!DNL Rush] kunt u op elk apparaat werken en professionele uitvoer eenvoudig genoeg maken voor beginners.
 
 In deze zelfstudie leert u hoe u:
 * Video naadloos bewerken op desktop, tablet en telefoon
 * Houd je onderwerp gecentreerd rond horizontale, vierkante en verticale formulierfactoren met de AI-technologiefunctie voor automatisch vernieuwen
 * Met MoGRTS (Motion Graphic Templates) kunt u professioneel ogende, gemakkelijk aanpasbare titels en lager-derde
 * Eenvoudig exporteren en rechtstreeks publiceren naar social-mediakanalen
-* Openen [!DNL Rush] projecten in Adobe Premiere Pro
+* [!DNL Rush] projecten openen in Adobe Premiere Pro
 
-**Voorgesteld door:**
+**door wordt voorgesteld:**
 A.J. Wood, Solutions Consultant (Digital Media)
 
-![Rush Logo](../assets/ru_appicon_96.png)
+![ Logo van het Rush ](../assets/ru_appicon_96.png)
 
 **[!DNL Rush]Bronnen**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/premiere-rush.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html)en koppelingen naar communityforums.
+[ Leren &amp; Steun ](https://helpx.adobe.com/support/premiere-rush.html) is uw hub voor extra leerprogramma&#39;s, [ wat ](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html), en verbindingen aan communautaire forums nieuw is.
 
 **Versie van oktober 2020**
 

@@ -1,13 +1,13 @@
 ---
-title: "[!DNL Stock]"
-description: Adobe [!DNL Stock] voor ondernemingen geeft creatieve teams toegang tot meer dan 200 miljoen afbeeldingen, video's, sjablonen, illustraties, audiobestanden en 3D-assets
+title: '[!DNL Stock]'
+description: Adobe  [!DNL Stock]  voor onderneming geeft creatieve teams toegang tot meer dan 200 miljoen beelden, video's, malplaatjes, illustraties, audiodossiers en 3D activa
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,20 @@ Creatieve medewerkers staan onder druk om snel nieuwe, visueel aantrekkelijke co
       <img alt="Vind sneller de beste assets met Adobe [!DNL Stock]" src="../assets/stock_torres_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial1"><strong>Vind sneller de beste assets met Adobe [!DNL Stock]</strong></a>
+   <a href="stock.md#tutorial1"><strong> Vind sneller de beste assets met Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Vind de perfecte royaltyvrije stockafbeelding om je creatieve project te verbeteren met behulp van betere, snellere zoekresultaten die worden aangestuurd door Adobe Sensei, onze engine voor kunstmatige intelligentie</em>
+    <em> vind het perfecte royaltyvrije stockbeeld om uw creatief project te verbeteren gebruikend betere, snellere onderzoeksresultaten die door Adobe Sensei worden aangedreven, onze motor van de kunstmatige intelligentie </em>
     <br>
   </td>
   <td>
    <a href="stock.md#tutorial2">
-      <img alt="Zoeken en licenties [!DNL Stock] Middelen in AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
+      <img alt="Middelen zoeken en licentiëren [!DNL Stock] in AEM" src="../assets/stock_aemintegration_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="stock.md#tutorial2"><strong>Zoeken en licenties [!DNL Stock] Middelen in Adobe Experience Manager</strong></a>
+   <a href="stock.md#tutorial2"><strong> Zoeken en licentiemiddelen [!DNL Stock] in 
+Adobe Experience Manager </strong></a>
     </div>
-    <em>Het uploaden van uw gelicentieerde Adobe vereenvoudigen [!DNL Stock] assets in uw Digital Asset Management-systeem</em>
+    <em> vereenvoudig het proces om uw vergunning gegeven Adobe [!DNL Stock] activa in uw systeem van het Beheer van Digitale Activa te uploaden </em>
     <br>
   </td>
   <td>
@@ -48,7 +49,7 @@ Creatieve medewerkers staan onder druk om snel nieuwe, visueel aantrekkelijke co
 </tr>
 </table>
 
-## Vind sneller de beste assets met Adobe [!DNL Stock] (10:49) {#tutorial1}
+## Vind de beste assets sneller met Adobe [!DNL Stock] (10:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
@@ -60,30 +61,30 @@ In deze zelfstudie leert u hoe u:
 * Beheer en volg eenvoudig assetlicenties en -gebruik binnen je onderneming
 * Zoek, bekijk en licentieer rechtstreeks vanuit je Adobe Creative Cloud-apps
 
-**Gepresenteerd door:**
+**door wordt voorgesteld:**
 
 Victoria Torres, [!DNL Stock] Solutions Consultant (Digital Media)
 
-## Zoeken en licenties [!DNL Stock] Activa in AEM (6:46) {#tutorial2}
+## Zoeken en licentiëren van [!DNL Stock] middelen in AEM (6:46) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
 **Beschrijving**
-Het uploaden van uw gelicentieerde Adobe vereenvoudigen [!DNL Stock] assets in je Digital Asset Management-systeem.
+Vereenvoudig het uploaden van uw gelicentieerde Adobe [!DNL Stock] -assets naar uw Digital Asset Management-systeem.
 
 In deze zelfstudie leert u hoe u:
-* Adobe uitvoeren [!DNL Stock] asset search zonder AEM werkruimte te verlaten
+* Middelen zoeken via Adobe [!DNL Stock] zonder AEM werkruimte te verlaten
 * Gelicentieerde middelen direct in een AEM map opslaan op het moment van licentieverlening
-* Weergave van middelen die zijn gelicentieerd vanuit AEM in uw [!DNL Stock] licentiegeschiedenis op de [!DNL Stock] website.
+* Bekijk assets met een licentie van AEM in uw [!DNL Stock] licentiegeschiedenis op de [!DNL Stock] -website.
 
-**Voorgesteld door:**
+**door wordt voorgesteld:**
 Emily Palmer, Solutions Consultant (Digital Media)
 
-![[!DNL Stock] Logo](../assets/st_appicon_96.png)
+![[!DNL Stock] Logo ](../assets/st_appicon_96.png)
 
-**Adobe [!DNL Stock] Bronnen**
+**Adobe [!DNL Stock] Middelen**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/stock.html) is het middelpunt voor aanvullende zelfstudies en koppelingen naar communityforums.
+[ Leren &amp; Steun ](https://helpx.adobe.com/support/stock.html) is uw hub voor extra leerprogramma&#39;s en verbindingen aan communautaire forums.
 
 **Versie van oktober 2020**
 
