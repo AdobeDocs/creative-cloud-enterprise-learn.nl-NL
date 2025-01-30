@@ -1,21 +1,21 @@
 ---
-title: Een sjabloon maken
-description: Leer hoe je een sjabloon maakt en instructies toevoegt die anderen kunnen gebruiken
+title: Efficiëntie maximaliseren - Herbruikbare sjablonen maken
+description: Leer hoe je organisatie consistentie, efficiëntie, professionaliteit en kostenbesparingen kunt bieden met sjablonen voor Adoben Express
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Een sjabloon maken
+# Efficiëntie maximaliseren: herbruikbare sjablonen maken
 
-Leer hoe u een sjabloon maakt waarin bepaalde lagen zijn vergrendeld terwijl andere lagen zijn ontgrendeld om wijzigingen aan te brengen voor teams. U kunt ook instructies voor de teams opnemen die deze sjabloon gebruiken.
+Leer hoe je organisatie consistentie, efficiëntie, professionaliteit en kostenbesparingen kunt bieden met sjablonen voor Adoben Express. In deze zelfstudie wordt uitgelegd hoe u een herbruikbare inhoud kunt maken op basis van bestaande inhoud, zoals een Photoshop-, Illustrator-, InDesign- of zelfs een PowerPoint-bestand.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
 
@@ -24,20 +24,35 @@ Leer hoe u een sjabloon maakt waarin bepaalde lagen zijn vergrendeld terwijl and
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="Lagen vergrendelen en aangeven waarom" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="Lagen vergrendelen en aangeven waarom" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong> hoe te en waarom slotlagen </strong></a>
+            </div>
+            <em> leer waarom het belangrijk is om diverse elementen van uw malplaatje te sluiten </em>
+            <br>
     </td>
     <td>
-            <a href="share-templates.md">
-                <img alt="Sjablonen opslaan en delen" src="assets/share-templates.png" />
-            </a>
-    </td>
-    <td>
-            <a href="use-templates.md">
-                <img alt="Sjablonen gebruiken" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="share-templates.md">
+            <img alt="Sjablonen opslaan en delen" src="assets/share-templates.png" />
+         </a>
+         <div>
+         <a href="share-templates.md"><strong> sparen &amp; deel malplaatjes </strong></a>
+         </div>
+         <em> Leer om malplaatjes aan een merkuitrusting of een bibliotheek voor uw team te bewaren en te delen </em>
+         <br>
+   </td>
+   <td>
+         <a href="use-templates.md">
+            <img alt="Moeiteloze merkconsistentie met sjablonen" src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong> Moeiteloze merkconsistentie met malplaatjes </strong></a>
+         </div>
+         <em> Leer hoe te om on-brand inhoud snel en efficiënt over uw volledige organisatie te creëren </em>
+         <br>
+   </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>
@@ -45,3 +60,4 @@ Leer hoe u een sjabloon maakt waarin bepaalde lagen zijn vergrendeld terwijl and
     </td>
 </tr>
 </table>
+

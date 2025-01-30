@@ -5,9 +5,10 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14886
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -23,20 +24,35 @@ Leer hoe je sjablonen opslaat en deelt naar een merkkit of -bibliotheek voor je 
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="Lagen vergrendelen en aangeven waarom" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="Lagen vergrendelen en aangeven waarom" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong> hoe te en waarom slotlagen </strong></a>
+            </div>
+            <em> leer waarom het belangrijk is om diverse elementen van uw malplaatje te sluiten </em>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Een sjabloon maken" src="assets/create-template.png" />
+            <img alt="Efficiëntie maximaliseren: herbruikbare sjablonen maken" src="assets/create-template.png" />
          </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong> maximaliseer efficiency: creeer herbruikbare malplaatjes </strong></a>
+         </div>
+         <em> Leer hoe brengen merkconsistentie, efficiency, professionalisme, en kostenbesparingen aan uw organisatie met malplaatjes </em>
+         <br>
+   </td>
     <td>
-            <a href="use-templates.md">
-                <img alt="Sjablonen gebruiken" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="use-templates.md">
+            <img alt="Moeiteloze merkconsistentie met sjablonen" src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong> Moeiteloze merkconsistentie met malplaatjes </strong></a>
+         </div>
+         <em> Leer hoe te om on-brand inhoud snel en efficiënt over uw volledige organisatie te creëren </em>
+         <br>
+   </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>

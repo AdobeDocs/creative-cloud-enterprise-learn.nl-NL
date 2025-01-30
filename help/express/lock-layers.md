@@ -5,9 +5,10 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14885
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -24,18 +25,33 @@ Ontdek waarom het belangrijk is om verschillende elementen van je sjabloon te ve
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="Een sjabloon maken" src="assets/create-template.png" />
+            <img alt="Efficiëntie maximaliseren: herbruikbare sjablonen maken" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong> maximaliseer efficiency: creeer herbruikbare malplaatjes </strong></a>
+         </div>
+         <em> Leer hoe brengen merkconsistentie, efficiency, professionalisme, en kostenbesparingen aan uw organisatie met malplaatjes </em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Sjablonen opslaan en delen" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong> sparen &amp; deel malplaatjes </strong></a>
+         </div>
+         <em> Leer om malplaatjes aan een merkuitrusting of een bibliotheek voor uw team te bewaren en te delen </em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Sjablonen gebruiken" src="assets/use-templates.png" />
+            <img alt="Moeiteloze merkconsistentie met sjablonen" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong> Moeiteloze merkconsistentie met malplaatjes </strong></a>
+         </div>
+         <em> Leer hoe te om on-brand inhoud snel en efficiënt over uw volledige organisatie te creëren </em>
+         <br>
    </td>
    <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />

@@ -1,20 +1,21 @@
 ---
-title: Sjablonen gebruiken
-description: Je merk is een unieke, en het gebruik van sjablonen helpt je om merkgericht te blijven
+title: Moeiteloze merkconsistentie met sjablonen
+description: Leer hoe je snel en efficiënt on-brand content creëert binnen je hele organisatie
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14887
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# Sjablonen gebruiken
+# Moeiteloze merkconsistentie met sjablonen
 
-Je merk is een unieke, en het gebruik van sjablonen helpt je om merkgericht te blijven.
+Leer hoe je snel en efficiënt on-brand content creëert binnen je hele organisatie. In deze zelfstudie wordt uitgelegd hoe u nieuwe merkcontent kunt maken die direct kan worden gedeeld en gelokaliseerd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
 
@@ -23,20 +24,35 @@ Je merk is een unieke, en het gebruik van sjablonen helpt je om merkgericht te b
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="Lagen vergrendelen en aangeven waarom" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="Lagen vergrendelen en aangeven waarom" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong> hoe te en waarom slotlagen </strong></a>
+            </div>
+            <em> leer waarom het belangrijk is om diverse elementen van uw malplaatje te sluiten </em>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Een sjabloon maken" src="assets/create-template.png" />
+            <img alt="Efficiëntie maximaliseren: herbruikbare sjablonen maken" src="assets/create-template.png" />
          </a>
-    </td>
-    <td>
-            <a href="share-templates.md">
-                <img alt="Sjablonen opslaan en delen" src="assets/share-templates.png" />
-            </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong> maximaliseer efficiency: creeer herbruikbare malplaatjes </strong></a>
+         </div>
+         <em> Leer hoe brengen merkconsistentie, efficiency, professionalisme, en kostenbesparingen aan uw organisatie met malplaatjes </em>
+         <br>
+   </td>
+   <td>
+         <a href="share-templates.md">
+            <img alt="Sjablonen opslaan en delen" src="assets/share-templates.png" />
+         </a>
+         <div>
+         <a href="share-templates.md"><strong> sparen &amp; deel malplaatjes </strong></a>
+         </div>
+         <em> Leer om malplaatjes aan een merkuitrusting of een bibliotheek voor uw team te bewaren en te delen </em>
+         <br>
+   </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>
