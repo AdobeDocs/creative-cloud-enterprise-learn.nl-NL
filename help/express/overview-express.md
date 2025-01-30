@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 3%
@@ -27,7 +27,7 @@ Leer hoe te om on-brand inhoud snel en efficiënt te creëren gebruikend [ malpl
 
 >[!TAB  maximaliseer efficiency: creeer herbruikbare malplaatjes ]
 
-Leer hoe brengen merkconsistentie, efficiency, professionalisme, en kostenbesparingen aan uw organisatie met [ malplaatjes ](create-templates.md)
+Leer hoe brengen merkconsistentie, efficiency, professionalisme, en kostenbesparingen aan uw organisatie met [ malplaatjes ](create-templates.md).
 
 >[!ENDTABS]
 

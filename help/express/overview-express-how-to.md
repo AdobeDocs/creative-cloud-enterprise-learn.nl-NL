@@ -1,19 +1,19 @@
 ---
-title: Adobe [!DNL Express] Hoe kan ik-Tutorials
-description: Ga snel aan de slag met Adobe [!DNL Express]
+title: Adobe  [!DNL Express]  hoe te aan Tutorials
+description: Ga snel aan de slag bij Adobe  [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] hoe kan ik-zelfstudies
+# Adobe [!DNL Express] zelfstudies
 
 Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven door Adobe Firefly. Ontwerp flyers, TikToks, hervat en Reels met Adobe Express.
 
@@ -273,7 +273,7 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
   </td>
   <td>
       <a href="cc-libraries.md">
-         <img alt="CC-bibliotheken gebruiken" src="assets/cc-libraries.png" />
+         <img alt="CC Libraries gebruiken" src="assets/cc-libraries.png" />
       </a>
   </td>
 </tr>
@@ -355,24 +355,44 @@ Ga aan de slag met verbluffend werk dat opvalt met generatieve AI aangedreven do
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="Lagen vergrendelen en aangeven waarom" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong> hoe te en waarom slotlagen </strong></a>
+            </div>
+            <em> leer waarom het belangrijk is om diverse elementen van uw malplaatje te sluiten </em>
+            <br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="Een sjabloon maken" src="assets/create-template.png" />
+            <img alt="Efficiëntie maximaliseren: herbruikbare sjablonen maken" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong> maximaliseer efficiency: creeer herbruikbare malplaatjes </strong></a>
+         </div>
+         <em> Leer hoe brengen merkconsistentie, efficiency, en kostenbesparingen aan uw organisatie met malplaatjes </em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Sjablonen opslaan en delen" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong> sparen &amp; deel malplaatjes </strong></a>
+         </div>
+         <em> Leer om malplaatjes aan een merkuitrusting of een bibliotheek voor uw team te bewaren en te delen </em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Sjablonen gebruiken" src="assets/use-templates.png" />
+            <img alt="Moeiteloze merkconsistentie met sjablonen" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong> Moeiteloze merkconsistentie met malplaatjes </strong></a>
+         </div>
+         <em> Leer hoe te om on-brand inhoud snel en efficiënt over uw volledige organisatie te creëren </em>
+         <br>
    </td>
 </tr>
 </table>
