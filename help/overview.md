@@ -5,9 +5,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: b19c63ed79c7baabb40dc0272de4578a73ef6e2b
+source-git-commit: e3a0f88410bba532ef108f64c41946031478ca7f
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '260'
 ht-degree: 11%
 
 ---
@@ -262,92 +262,3 @@ Welkom bij het Creative Cloud voor de enterprise learning hub. Hier vind je een 
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!-- COMMENT -->
-<table style="table-layout:fixed">
-<tr>
-   <td>
-      <a href="cce/overview-cce.md">
-         <img alt="Zelfstudies voor Creative Cloud voor ondernemingen" src="assets/CCecard.png" />
-      </a>
-      <div>
-          <a href="cce/overview-cce.md"><strong> Creative Cloud voor ondernemingsleerprogramma's </strong></a>
-          </div>
-          <em> leer nieuwe eigenschappen in de recentste versie van Creative Cloud-van een ondernemingsperspectief </em>
-          <br>
-   </td>
-   <td>
-      <a href="express/overview-express.md">
-         <img alt="Adobe Express" src="assets/Expresscard.png" />
-      </a>
-      <div>
-          <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
-          </div>
-          <em> begin het creëren van verbluffende inhoud die uitkomt </em>
-        <br>
-   </td>
-   <td>
-      <a href="firefly/overview-firefly.md">
-         <img alt="Firefly" src="assets/Fireflycard.png" />
-      </a>
-      <div>
-          <a href="firefly/overview-firefly.md"><strong>Firefly</strong></a>
-          </div>
-          <em> leer allen over de generatieve modellen AI in de producten van de Adobe </em>
-        <br>
-   </td>
-   <td>
-      <a href="stock/overview-stock.md">
-         <img alt="Adobe Stock" src="assets/Stockcard.png" />
-      </a>
-      <div>
-          <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
-          </div>
-          <em> digitale beelden, illustraties, video, audio, malplaatjes, en meer van uitstekende kwaliteit </em>
-        <br>
-   </td>
-</tr>
-<tr>
-  <td>
-      <a href="3di/overview-3di.md">
-         <img alt="Adobe 3D en VR" src="assets/3Dcard.png" />
-      </a>
-      <div>
-          <a href="3di/overview-3di.md"><strong> Adobe 3D &amp; VR </strong></a>
-          </div>
-          <em> creeer fotorealistische 3D beelden voor branding, productschoten, en pakketontwerp </em>
-        <br>
-   </td>
-   <td>
-      <a href="dva/overview-dva.md">
-         <img alt="Video Adobe" src="assets/Videocard.png" />
-      </a>
-      <div>
-          <a href="dva/overview-dva.md"><strong> Video van de Adobe </strong></a>
-          </div>
-          <em> breng uw ideeën tot leven met video </em>
-        <br>
-   </td>
-   <td>
-      <a href="xd/overview-xd.md">
-         <img alt="Adobe XD" src="assets/XDcard.png" />
-      </a>
-      <div>
-          <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-          </div>
-          <em> Ontwerp, prototype, en deel gebruikerservaringen </em>
-        <br>
-   </td>
-    <td>
-      <a href="max/overview-max.md">
-         <img alt="Adobe MAX" src="assets/Maxcard.png" />
-      </a>
-      <div>
-          <a href="max/overview-max.md"><strong> Adobe MAX </strong></a>
-          </div>
-          <em> leer allen over MAX 2020 ondernemingszittingen </em>
-        <br>
-   </td>
-</tr>
-</table>
-<!-- END COMMENT -->
