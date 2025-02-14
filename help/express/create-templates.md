@@ -1,19 +1,19 @@
 ---
-title: Efficiëntie maximaliseren - Herbruikbare sjablonen maken
+title: Efficiëntie maximaliseren - Een herbruikbare sjabloon maken
 description: Leer hoe je organisatie consistentie, efficiëntie, professionaliteit en kostenbesparingen kunt bieden met sjablonen voor Adoben Express
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Efficiëntie maximaliseren: herbruikbare sjablonen maken
+# Efficiëntie maximaliseren: een herbruikbare sjabloon maken
 
 Leer hoe je organisatie consistentie, efficiëntie, professionaliteit en kostenbesparingen kunt bieden met sjablonen voor Adoben Express. In deze zelfstudie wordt uitgelegd hoe u een herbruikbare inhoud kunt maken op basis van bestaande inhoud, zoals een Photoshop-, Illustrator-, InDesign- of zelfs een PowerPoint-bestand.
 

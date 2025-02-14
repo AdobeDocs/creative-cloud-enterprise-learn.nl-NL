@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Ontdek waarom het belangrijk is om verschillende elementen van je sjabloon te ve
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="Efficiëntie maximaliseren: herbruikbare sjablonen maken" src="assets/create-template.png" />
+            <img alt="Efficiëntie maximaliseren: een herbruikbare sjabloon maken" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong> maximaliseer efficiency: creeer herbruikbare malplaatjes </strong></a>
+         <a href="create-templates.md"><strong> Maximaliseer efficiency: Creeer een herbruikbaar malplaatje </strong></a>
          </div>
          <em> Leer hoe brengen merkconsistentie, efficiency, en kostenbesparingen aan uw organisatie met malplaatjes </em>
          <br>
