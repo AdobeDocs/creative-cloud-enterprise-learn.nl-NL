@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Leer hoe u boeiende achtergronden kunt maken voor PowerPoint-presentaties. Met behulp van tekst-naar-afbeelding, aangedreven door Adobe Firefly, kunt u een gepersonaliseerde afbeelding voor uw presentatie genereren en vervolgens de afbeelding verder wijzigen, effecten toepassen en downloaden voor gebruik in uw presentatie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433981?quality=12&learn=on&hidetitle=true&captions=dut)

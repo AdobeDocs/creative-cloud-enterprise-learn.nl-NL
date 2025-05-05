@@ -16,4 +16,4 @@ ht-degree: 4%
 
 Leer hoe u met Text to Image, aangedreven door Adobe Firefly, in Adobe Express gelokaliseerde content kunt maken op basis van een wereldwijde marketingcampagne voor hotels. Deze zelfstudie gebruikt de nieuwe [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443590?quality=12&learn=on&hidetitle=true&captions=dut)

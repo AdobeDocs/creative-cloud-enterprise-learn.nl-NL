@@ -19,4 +19,4 @@ Leer hoe je snel ideeën visualiseert en concepten voor zakelijke campagnes verk
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428827?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452520?quality=12&learn=on&hidetitle=true&captions=dut)

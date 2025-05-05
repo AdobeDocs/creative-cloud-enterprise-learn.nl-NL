@@ -19,4 +19,4 @@ Leer hoe je het creëren van content versnelt met generatieve AI-tools in Adobe 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3425036?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446243?quality=12&learn=on&hidetitle=true&captions=dut)

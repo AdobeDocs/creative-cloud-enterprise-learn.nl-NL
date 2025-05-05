@@ -18,5 +18,5 @@ Leer hoe je begint met het gebruik van Adobe Firefly op [firefly.adobe.com](http
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427607?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437816?quality=12&learn=on&hidetitle=true&captions=dut)
 

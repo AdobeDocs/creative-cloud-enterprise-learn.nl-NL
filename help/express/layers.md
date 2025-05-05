@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Leer hoe u met tekengebieden en lagen in een ontwerpproject kunt werken. Voeg artboards toe, verwijder, dupliceer, rangschik ze en wijzig de grootte ervan voor verschillende social-mediakanalen. U kunt ook de volgorde van elementen in de laagstapel wijzigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447071?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

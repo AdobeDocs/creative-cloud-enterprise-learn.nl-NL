@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Leer hoe u met collega&#39;s kunt samenwerken aan creatieve projecten, zoals ze uitnodigt, machtigingen instelt, opmerkingen oplost en tegelijkertijd aan het project werkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439543?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

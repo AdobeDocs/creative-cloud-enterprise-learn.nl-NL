@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Leer hoe je statische, verouderde PDF een extra dimensie geeft door opvallende tekst, afbeeldingen, merken, kleuren, animaties en meer toe te voegen. Zodra het bewerken is voltooid, kunt u de PDF downloaden, de PDF delen of converteren naar andere bestandsindelingen, zoals JPEG.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437904?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

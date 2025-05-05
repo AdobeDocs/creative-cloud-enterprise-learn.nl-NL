@@ -20,7 +20,7 @@ Leer hoe u taalvariaties van uw projecten kunt maken door de inhoud automatisch 
 >
 >Het is belangrijk dat u de vertalingen controleert op de nauwkeurigheid voordat u ze deelt of downloadt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438274?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

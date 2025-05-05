@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer hoe je indrukwekkende ontwerpen maakt met behulp van teksteffecten die worden aangestuurd door Adobe Firefly. Met een tekstprompt kunt u buitengewone teksteffecten genereren die u kunt verfijnen en verfraaien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438820?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

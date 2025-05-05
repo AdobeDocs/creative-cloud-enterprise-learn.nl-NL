@@ -44,7 +44,7 @@ Zowel Acrobat- als Creative Cloud-voor-ondernemingen-apps geven vanaf 60 dagen v
 
 De volgende informatie geeft een overzicht van de gebruikerservaring. Hieronder volgt een korte video, gevolgd door een overzicht van de gebruikerservaring.
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441282?hidetitle=true&captions=dut)
 
 **Voor vervaldatum**
 

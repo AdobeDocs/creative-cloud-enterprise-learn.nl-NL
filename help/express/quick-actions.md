@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Snelle acties besparen tijd en bieden eenvoudige bewerkingsgereedschappen voor dagelijks creatief werk. Voorbeelden van snelle handelingen zijn het samenvoegen en bijsnijden van video&#39;s, het verwijderen van achtergronden, het vergroten of verkleinen van afbeeldingen en video&#39;s, het omzetten van video&#39;s in geschenken en het bewerken van PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446305?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

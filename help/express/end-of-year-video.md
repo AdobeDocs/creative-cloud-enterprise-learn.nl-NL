@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Leer hoe je een inspirerende end-of-year video creëert om alles wat er het afgelopen jaar is gebeurd, mijlpalen met klanten deelt en leuke teamgebeurtenissen nieuw leven inblaast. In deze zelfstudie voegt u een achtergrond, tekstanimatie en beeldmateriaal toe aan een video. Met overgangen maakt u de video vloeiender en de outro maakt een mooie afwerking. U kunt de uiteindelijke video ook downloaden en bijschriften gebruiken voor een betere toegankelijkheid.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427121?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3434003?quality=12&learn=on&hidetitle=true&captions=dut)

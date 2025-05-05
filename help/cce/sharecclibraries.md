@@ -24,4 +24,4 @@ Leer hoe je branding-assets voor je groep of team creëert, gebruikt en deelt me
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335333?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449194?hidetitle=true&captions=dut)

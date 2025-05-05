@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer meer over de drie verschillende typen animaties (intro, herhalen en outro) die je aan je projecten kunt toevoegen om ze aantrekkelijker te maken. Elke animatie heeft een andere stijl die u kunt voorvertonen en selecteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433948?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

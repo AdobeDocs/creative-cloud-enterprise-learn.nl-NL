@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Verhoog het niveau van de animatie door elementen zoals afbeeldingen en kopregels aan een animatie toe te voegen. Leer hoe u elementen in een scène kunt toevoegen, dupliceren, herschikken of vervangen terwijl de animaties intact blijven.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433926?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

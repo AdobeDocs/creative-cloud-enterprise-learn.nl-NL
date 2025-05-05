@@ -16,4 +16,4 @@ ht-degree: 3%
 
 Leer hoe je met Text to Image, aangedreven door Adobe Firefly, in Adobe Express unieke illustraties maakt voor werving van medewerkers en on-boarding-content. In dit voorbeeld worden sjablonen gebruikt, zodat iedereen binnen het bedrijf inhoud maakt die precies merkgebonden is. Deze zelfstudie gebruikt de nieuwe [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444266?quality=12&learn=on&hidetitle=true&captions=dut)

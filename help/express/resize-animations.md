@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer hoe u de grootte van uw animatie kunt optimaliseren met ingebouwde voorinstellingen voor posts op social media, zoals Instagram. Ongeacht hoe u de grootte van uw animaties wijzigt, blijven de instellingen behouden, zodat u ze niet opnieuw hoeft samen te stellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437728?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

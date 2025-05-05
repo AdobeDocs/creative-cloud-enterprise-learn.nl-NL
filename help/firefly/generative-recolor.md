@@ -19,4 +19,4 @@ Leer hoe u met Generative Recolor, aangedreven door Adobe Firefly, in Adobe Illu
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420872?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3442073?quality=12&learn=on&hidetitle=true&captions=dut)

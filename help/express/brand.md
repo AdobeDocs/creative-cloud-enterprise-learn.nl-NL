@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Leer hoe je een verzameling merkassets maakt om consistente en professionele ontwerpen te maken voor je bedrijf of persoonlijke projecten. Een merkkit is een verzameling merkelementen zoals logo&#39;s, kleuren, lettertypen, afbeeldingen en sjablonen. U kunt ze helemaal zelf maken of vanuit een bestaande bibliotheek en ze delen met collega&#39;s, die bewerkingsrechten kunnen hebben of die deze kunnen bekijken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449371?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

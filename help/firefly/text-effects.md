@@ -19,4 +19,4 @@ Leer hoe je unieke en inspirerende tekst voor je projecten maakt met eenvoudige 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420829?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432218?quality=12&learn=on&hidetitle=true&captions=dut)

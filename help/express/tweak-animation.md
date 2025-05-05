@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Leer hoe u de instellingen van uw animaties kunt aanpassen om de effectiviteit te verbeteren. U kunt de duur, de persoonlijkheid, de snelheid en de intensiteit van de animatie bewerken om een specifiek effect te creëren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438527?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

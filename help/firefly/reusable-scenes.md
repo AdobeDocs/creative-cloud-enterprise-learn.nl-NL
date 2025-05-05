@@ -18,4 +18,4 @@ Leer hoe je herbruikbare scènes creëert voor producten zoals handtassen en acc
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428765?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448473?quality=12&learn=on&hidetitle=true&captions=dut)

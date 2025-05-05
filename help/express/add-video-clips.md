@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer hoe je snel en eenvoudig toonaangevende video’s maakt met slepen en neerzetten. Begin met sjablonen of je eigen statische ontwerpen en voeg je merk toe, ontwerp assets, Adobe Stock-video’s en -muziek en meer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436431?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

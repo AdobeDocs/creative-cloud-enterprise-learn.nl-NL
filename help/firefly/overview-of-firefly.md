@@ -19,4 +19,4 @@ Ontdek wat je kunt creëren met Adobe Firefly. Ontdek hoe je de contentcreatie k
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420929?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432466?quality=12&learn=on&hidetitle=true&captions=dut)

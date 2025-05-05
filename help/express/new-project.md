@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer hoe u een geheel nieuw project maakt met een specifieke canvasgrootte, zoals een Instagram-artikel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441426?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

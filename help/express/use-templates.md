@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Leer hoe je snel en efficiënt on-brand content creëert binnen je hele organisatie. In deze zelfstudie wordt uitgelegd hoe u nieuwe merkcontent kunt maken die direct kan worden gedeeld en gelokaliseerd.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436132?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

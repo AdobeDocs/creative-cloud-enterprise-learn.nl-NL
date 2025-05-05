@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer hoe je aansprekende en gedenkwaardige projecten creëert door audio toe te voegen. U kunt uw eigen audiobestanden uploaden of u kunt kiezen uit royaltyvrije stockaudio. U kunt ook voiceovers opnemen en het volume voor zowel audio- als voiceovers aanpassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436852?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

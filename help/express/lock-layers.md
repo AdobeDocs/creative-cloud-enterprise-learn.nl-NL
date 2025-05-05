@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Ontdek waarom het belangrijk is om verschillende elementen van je sjabloon te vergrendelen, zodat ze niet kunnen worden gewijzigd. Bepaalde elementen, zoals logo&#39;s, mogen niet worden gewijzigd, zodat ze kunnen worden vergrendeld voordat je je sjabloon deelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437073?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

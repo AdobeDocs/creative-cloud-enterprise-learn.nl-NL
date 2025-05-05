@@ -19,4 +19,4 @@ Leer hoe u Generative Fill, aangedreven door Adobe Firefly, in Adobe Photoshop k
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420791?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444545?quality=12&learn=on&hidetitle=true&captions=dut)

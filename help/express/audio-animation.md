@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer hoe je aansprekende en gedenkwaardige projecten creëert door audio toe te voegen, inclusief royaltyvrije stockaudiobestanden die beschikbaar zijn met Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433915?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

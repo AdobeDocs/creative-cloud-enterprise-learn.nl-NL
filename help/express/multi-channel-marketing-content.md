@@ -18,4 +18,4 @@ Ontdek hoe marketingteams voor gebeurtenissen unieke content kunnen maken om kij
 
 Deze zelfstudie gebruikt de nieuwe [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424446?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444985?quality=12&learn=on&hidetitle=true&captions=dut)

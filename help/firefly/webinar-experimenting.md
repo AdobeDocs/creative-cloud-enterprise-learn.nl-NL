@@ -19,4 +19,4 @@ Doe mee met Howard Pinsky in dit webinar terwijl hij in de Firefly duikt.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420252?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455540?quality=12&learn=on&hidetitle=true&captions=dut)

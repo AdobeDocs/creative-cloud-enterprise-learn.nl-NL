@@ -18,5 +18,5 @@ Ontdek hoe je Firefly kunt gebruiken om inspirerende PowerPoint-presentaties, st
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427611?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437062?quality=12&learn=on&hidetitle=true&captions=dut)
 

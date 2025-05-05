@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Leer hoe je een nieuwe nieuwsbrief kunt creëren door te zoeken naar professioneel ontworpen sjablonen met behulp van trefwoorden. Nadat u het logo en de tekstkopie hebt gewijzigd, kunt u collega&#39;s uitnodigen om samen te werken en hun eigen inhoud toe te voegen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439209?quality=12&learn=on&hidetitle=true&captions=dut)

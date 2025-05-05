@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer hoe u binnen enkele seconden bewerkbare sjablonen voor posts op social media, posters, flyers en kaarten kunt genereren op basis van een tekstbeschrijving. U kunt het ontwerp bewerken, lettertypen wijzigen en het project verder markeren voordat u het downloadt of deelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438127?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

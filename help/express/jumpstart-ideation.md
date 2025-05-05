@@ -18,4 +18,4 @@ Leer hoe je een vliegende start maakt met het ontwikkelen van creatieve content 
 
 Deze zelfstudie gebruikt de nieuwe [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446166?quality=12&learn=on&hidetitle=true&captions=dut)

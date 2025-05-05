@@ -19,4 +19,4 @@ Ontdek de Adobe Firefly van [toekomst van creativiteit](https://www.adobe.com/pr
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427606?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436984?quality=12&learn=on&hidetitle=true&captions=dut)

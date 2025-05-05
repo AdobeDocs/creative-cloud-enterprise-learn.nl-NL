@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Leer hoe je organisatie consistentie, efficiëntie, professionaliteit en kostenbesparingen kunt bieden met sjablonen voor Adoben Express. In deze zelfstudie wordt uitgelegd hoe u een herbruikbare inhoud kunt maken op basis van bestaande inhoud, zoals een Photoshop-, Illustrator-, InDesign- of zelfs een PowerPoint-bestand.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433970?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

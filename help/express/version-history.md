@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer hoe u versiehistorie kunt openen en eerdere versies van uw projecten kunt bekijken en kopiëren. Markeer belangrijke punten in ontwikkeling om eenvoudig terug te keren naar specifieke tijden in de voortgang van je project.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438703?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

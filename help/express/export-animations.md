@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Leer hoe u mensen kunt uitnodigen om een social-mediabericht te bewerken, op het web te publiceren, te plannen of uw animatie te downloaden. Adobe Express bevat aanbevelingen voor de bestandsindeling waarnaar u op basis van uw situatie wilt exporteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426985?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433959?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 

@@ -17,4 +17,4 @@ ht-degree: 4%
 
 Leer hoe je met Text to Image, aangedreven door Adobe Firefly, in Adobe Express een promotiecampagne voor social media maakt. Deze zelfstudie gebruikt de nieuwe [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3420533?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430569?quality=12&learn=on&hidetitle=true&captions=dut)

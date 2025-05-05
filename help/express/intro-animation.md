@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Ontdek hoe je animatie toevoegt aan een social-mediabericht om de betrokkenheid te vergroten. Het animatievenster wordt geopend door een willekeurig element op de pagina te selecteren, zoals een afbeelding, en verschillende typen animaties toe te passen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436591?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Aanvullende video&#39;s in deze reeks
 
