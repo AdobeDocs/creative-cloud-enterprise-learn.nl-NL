@@ -80,7 +80,7 @@ Ashley Dvorin, Senior Solutions Consultant (Digital Media)
 
 **Bronnen voor CC Libraries**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/creative-cloud/help/libraries.html) Dit is uw hub voor extra zelfstudies, nieuwe functies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/creative-cloud/help/libraries.html) Dit is uw hub voor extra zelfstudies, nieuwe functies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

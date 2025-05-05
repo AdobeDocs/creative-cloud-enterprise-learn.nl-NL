@@ -84,7 +84,7 @@ Emily Palmer, Solutions Consultant (Digital Media)
 
 **Adobe [!DNL Stock] Middelen**
 
-[ Leren &amp; Steun ](https://helpx.adobe.com/support/stock.html) is uw hub voor extra leerprogramma&#39;s en verbindingen aan communautaire forums.
+[ Leren &amp; Steun ](https://helpx.adobe.com/nl/support/stock.html) is uw hub voor extra leerprogramma&#39;s en verbindingen aan communautaire forums.
 
 **Versie van oktober 2020**
 

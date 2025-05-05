@@ -63,7 +63,7 @@ Dave Weinberg, Senior Solutions Consultant (Digital Media)
 
 **Illustrator op iPad-bronnen**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/illustrator.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/illustrator.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/nl/illustrator/using/whats-new/mobile-2021.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

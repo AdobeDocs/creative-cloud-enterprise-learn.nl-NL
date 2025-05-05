@@ -34,7 +34,7 @@ De serienummerlicenties voor uw ETLA-overeenkomst zijn beschikbaar via de [Licen
 
 ### Controleer de vervaldatum
 
-De [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) is een opdrachtregelprogramma voor IT-beheerders om te controleren of Adobe-producten op een computer serienummers gebruiken die zijn verlopen of verlopen. De tool geeft informatie weer zoals de product-id (LEID), het gecodeerde serienummer en de vervaldatum. Dit [pagina](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) bevat instructies voor het downloaden en gebruiken van het gereedschap op Mac- of Windows-computers.
+De [AdobeExpiryCheck](https://helpx.adobe.com/nl/enterprise/kb/volume-license-expiration-check.html) is een opdrachtregelprogramma voor IT-beheerders om te controleren of Adobe-producten op een computer serienummers gebruiken die zijn verlopen of verlopen. De tool geeft informatie weer zoals de product-id (LEID), het gecodeerde serienummer en de vervaldatum. Dit [pagina](https://helpx.adobe.com/nl/enterprise/kb/volume-license-expiration-check.html) bevat instructies voor het downloaden en gebruiken van het gereedschap op Mac- of Windows-computers.
 
 ## De ervaring van eindgebruikers voor en na het verlopen van het serienummer
 
@@ -91,7 +91,7 @@ Voor alle volgende pogingen om Acrobat te starten, wordt de eindgebruiker gevraa
 
 ## Neem contact met ons op voor hulp
 
-Als u vragen hebt over het gebruik van de [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) of hebt u hulp nodig bij het migreren van serienummerimplementatie naar een benoemde gebruiker. U hebt een aantal opties:
+Als u vragen hebt over het gebruik van de [AdobeExpiryCheck](https://helpx.adobe.com/nl/enterprise/kb/volume-license-expiration-check.html) of hebt u hulp nodig bij het migreren van serienummerimplementatie naar een benoemde gebruiker. U hebt een aantal opties:
 * Stuur een e-mail naar het Enterprise Onboarding-team van de Adobe - **entonb@adobe.com**
 * Open een ondersteuningsticket in [Admin Console](https://adminconsole.adobe.com/support)
 * Bereik uw accountteam voor Adoben

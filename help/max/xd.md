@@ -212,7 +212,7 @@ Victoria Torres, Solutions Consultant (Digital Media)
 
 **XD bronnen**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/xd.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/xd.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

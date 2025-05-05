@@ -83,7 +83,7 @@ Liz Tanonis, Solutions Consultant (Digital Media)
 
 **Bronnen voor Fresco&#39;s**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/adobe-fresco.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/fresco/using/whats-new.html)en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/adobe-fresco.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/nl/fresco/using/whats-new.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

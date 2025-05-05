@@ -62,6 +62,6 @@ Todd Burke, Principal Solutions Consultant (Digital Media)
 
 **Bronnen voor bedrijfsbeheer:**
 
-[Adobe Fonts-gebruikershandleiding](https://helpx.adobe.com/fonts/user-guide.html)
+[Adobe Fonts-gebruikershandleiding](https://helpx.adobe.com/nl/fonts/user-guide.html)
 
-[Bedrijfsbeheerdersgids](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Bedrijfsbeheerdersgids](https://helpx.adobe.com/nl/enterprise/admin-guide.html)

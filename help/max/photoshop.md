@@ -83,7 +83,7 @@ A.J Wood, Senior Solutions Consultant (Digital Media)
 
 **Photoshop-bronnen**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/photoshop.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/photoshop/using/whats-new.html)en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/photoshop.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/nl/photoshop/using/whats-new.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

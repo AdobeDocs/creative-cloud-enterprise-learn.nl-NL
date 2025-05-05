@@ -60,7 +60,7 @@ Jim Babbage, Senior Solutions Consultant (Digital Media)
 
 **Middelen van het Dimension**
 
-[ Leren &amp; Steun ](https://helpx.adobe.com/support/dimension.html) is uw hub voor extra leerprogramma&#39;s, [ wat ](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html), en verbindingen aan communautaire forums nieuw is.
+[ Leren &amp; Steun ](https://helpx.adobe.com/nl/support/dimension.html) is uw hub voor extra leerprogramma&#39;s, [ wat ](https://helpx.adobe.com/nl/dimension/user-guide.html/dimension/using/whats-new.ug.html), en verbindingen aan communautaire forums nieuw is.
 
 **Versie van oktober 2020**
 

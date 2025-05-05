@@ -161,7 +161,7 @@ Emilie Enke, Associate Solutions Consultant (Digital Media)
 
 **Informatiebronnen voor Acrobat en Adobe Sign**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/document-cloud.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/acrobat/using/whats-new.html)en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/document-cloud.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/nl/acrobat/using/whats-new.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

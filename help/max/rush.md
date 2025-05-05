@@ -64,7 +64,7 @@ A.J. Wood, Solutions Consultant (Digital Media)
 
 **[!DNL Rush]Bronnen**
 
-[ Leren &amp; Steun ](https://helpx.adobe.com/support/premiere-rush.html) is uw hub voor extra leerprogramma&#39;s, [ wat ](https://helpx.adobe.com/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html), en verbindingen aan communautaire forums nieuw is.
+[ Leren &amp; Steun ](https://helpx.adobe.com/nl/support/premiere-rush.html) is uw hub voor extra leerprogramma&#39;s, [ wat ](https://helpx.adobe.com/nl/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html), en verbindingen aan communautaire forums nieuw is.
 
 **Versie van oktober 2020**
 

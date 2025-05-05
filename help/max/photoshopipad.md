@@ -63,7 +63,7 @@ Dan Armstrong, Solutions Consultant (Digital Media)
 
 **Photoshop over de iPad-resources**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/photoshop.html) is het middelpunt voor aanvullende zelfstudies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/photoshop.html) is het middelpunt voor aanvullende zelfstudies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

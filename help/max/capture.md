@@ -62,7 +62,7 @@ Emily Palmer, Solutions Consultant (Digital Media)
 
 **[!DNL Capture]Bronnen**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) is het middelpunt voor aanvullende zelfstudies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/mobile-apps/help/capture-faq.html) is het middelpunt voor aanvullende zelfstudies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

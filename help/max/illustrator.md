@@ -78,7 +78,7 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 **Illustrator-bronnen**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/illustrator.html) is het middelpunt voor aanvullende zelfstudies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/illustrator.html) is het middelpunt voor aanvullende zelfstudies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

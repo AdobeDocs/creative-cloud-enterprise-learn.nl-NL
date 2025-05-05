@@ -22,7 +22,7 @@ Als uw organisatie niet NUL gebruikt en nog steeds Serialized implementatie voor
 
 ## Informatie over licenties op naam
 
-[Licentie op naam](https://helpx.adobe.com/enterprise/using/licensing.html) is een softwarelicentiemodel waarmee software aan een individu kan worden toegewezen in plaats van aan een serienummer of apparaat. NUL biedt IT-beheerders beveiliging op ondernemingsniveau met geavanceerd beheer van gebruikersidentiteiten en maakt het mogelijk toepassingen eenvoudig te implementeren en te beheren met de Adobe Admin Console.
+[Licentie op naam](https://helpx.adobe.com/nl/enterprise/using/licensing.html) is een softwarelicentiemodel waarmee software aan een individu kan worden toegewezen in plaats van aan een serienummer of apparaat. NUL biedt IT-beheerders beveiliging op ondernemingsniveau met geavanceerd beheer van gebruikersidentiteiten en maakt het mogelijk toepassingen eenvoudig te implementeren en te beheren met de Adobe Admin Console.
 
 ## Voordelen van licenties op naam:
 

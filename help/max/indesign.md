@@ -146,7 +146,7 @@ Patti Sokol, Principal Solutions Consultant (Digital Media)
 
 **Bronnen voor InDesigns**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/indesign.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/indesign.html) is uw centrum voor extra zelfstudies, [Nieuwe functies](https://helpx.adobe.com/nl/indesign/user-guide.html/indesign/using/whats-new.ug.html)en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 

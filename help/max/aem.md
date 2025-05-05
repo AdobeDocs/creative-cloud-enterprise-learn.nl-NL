@@ -117,7 +117,7 @@ Eric Rowse, Senior Solutions Consultant (Digital Media)
 
 **Asset Link en AEM**
 
-[Meer informatie en ondersteuning](https://helpx.adobe.com/support/experience-manager.html) Dit is uw hub voor extra zelfstudies, nieuwe functies en koppelingen naar communityforums.
+[Meer informatie en ondersteuning](https://helpx.adobe.com/nl/support/experience-manager.html) Dit is uw hub voor extra zelfstudies, nieuwe functies en koppelingen naar communityforums.
 
 **Versie van oktober 2020**
 
