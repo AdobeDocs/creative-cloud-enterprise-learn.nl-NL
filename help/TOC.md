@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
+source-git-commit: aebe14690cd3c13019ed593c7ca3ffe284b1354b
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '817'
 ht-degree: 5%
 
 ---
@@ -113,7 +113,6 @@ ht-degree: 5%
    + Zelfstudies {#firefly-tutorials}
       + [Overzicht van  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
       + [Discover  [!DNL Adobe Firefly]](firefly/discover.md)
-      + [Achtergrond verwijderen en vervangen door Creative Production](firefly/creative-production/background.md)
       + [Versnel creatieve ideatie](firefly/accelerate-ideas.md)
       + [Herbruikbare scènes voor producten maken](firefly/reusable-scenes.md)
       + [Een aangepast model maken met een onderwerp](firefly/custom-model-subject.md)
@@ -128,6 +127,9 @@ ht-degree: 5%
       + [Banner en variaties in  [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Generatieve vulling in  [!DNL Photoshop]](firefly/generative-fill.md)
       + [Generatief opnieuw kleuren in  [!DNL Illustrator]](firefly/generative-recolor.md)
+   + Zelfstudies over creatieve productie {#firefly-creative-production}
+      + [Overzicht van  [!DNL Adobe Firefly]  Creatieve Productie](firefly/creative-production/overview-firefly-creative-production.md)
+      + [Achtergrond verwijderen en vervangen](firefly/creative-production/background.md)
    + Webinars {#firefly-webinars}
       + [Experimenteren met Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
@@ -174,7 +176,7 @@ ht-degree: 5%
 + Adobe XD {#xdoverview}
    + [Overzicht](xd/overview-xd.md)
    + Zelfstudies {#xdtutorials}
-   + [Kom comfortabel met [!UICONTROL &#x200B; Componenten &#x200B;] in Adobe XD](xd/components.md)
+   + [Kom comfortabel met [!UICONTROL  Componenten ] in Adobe XD](xd/components.md)
 + Implementeren en beheren {#deploy}
    + [Overzicht](deploy/overview-deploy.md)
    + [Vervaldatum serienummer](deploy/cceserial.md)
