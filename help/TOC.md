@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
 workflow-type: tm+mt
-source-wordcount: '806'
-ht-degree: 4%
+source-wordcount: '813'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 4%
 + [Overzicht](overview.md)
 + Creative Cloud voor ondernemingen {#cceoverview}
    + [Overzicht](cce/overview-cce.md)
-   + Tutorials {#ccetutorials}
+   + Zelfstudies {#ccetutorials}
       + [Acrobat for Content Creators](cce/acrobat-content-creators.md)
       + [CC-workflows verbeteren met CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Angst voor games](cce/taming-type-anxiety.md)
@@ -90,7 +90,7 @@ ht-degree: 4%
       + [Efficiëntie maximaliseren: een herbruikbare sjabloon maken](express/create-templates.md)
       + [Sjablonen opslaan en delen](express/share-templates.md)
       + [Sjablonen gebruiken](express/use-templates.md)
-   + Zelfstudies voor hoofdletters gebruiken {#expressusecase}
+   + Zelfstudies voor hoofdlettergebruik {#expressusecase}
       + [Overzicht](express/overview-express-use-case-tutorials.md)
       + [Multi-channel HR-inhoud maken voor gebeurtenissen](express/create-hr-content.md)
       + [Een promotie-visuele voor een online leercursus maken](express/promo-visual.md)
@@ -110,9 +110,10 @@ ht-degree: 4%
       + [Webinar-posters met Firefly maken](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Overzicht](firefly/overview-firefly.md)
-   + Tutorials {#firefly-tutorials}
+   + Zelfstudies {#firefly-tutorials}
       + [Overzicht van  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
       + [Discover  [!DNL Adobe Firefly]](firefly/discover.md)
+      + [Achtergrond verwijderen en vervangen door Creative Production](firefly/creative-production/background.md)
       + [Versnel creatieve ideatie](firefly/accelerate-ideas.md)
       + [Herbruikbare scènes voor producten maken](firefly/reusable-scenes.md)
       + [Een aangepast model maken met een onderwerp](firefly/custom-model-subject.md)
@@ -131,7 +132,7 @@ ht-degree: 4%
       + [Experimenteren met Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Overzicht](stock/overview-stock.md)
-   + Tutorials {#stocktutorials}
+   + Zelfstudies {#stocktutorials}
       + [Verbluffende digitale assets](stock/stunning-digital-assets.md)
       + [De Adobe van het onderzoek  [!DNL Stock]  verlenen van vergunningen geschiedenis](stock/searchstock.md)
       + [Voeg een hand-getekend esthetisch aan Adobe  [!DNL Stock]  beelden toe](stock/handdrawn.md)
@@ -158,31 +159,31 @@ ht-degree: 4%
       + [Pas de kleuren in een Adobe  [!DNL Stock]  vectorillustratie aan](stock/customizecolors.md)
 + Adobe 3D en VR {#3doverview}
    + [Overzicht](3di/overview-3di.md)
-   + Tutorials {#3dtutorials}
+   + Zelfstudies {#3dtutorials}
       + [3D-ontwerp en -rendering](3di/substance-3d-stager.md)
       + [Tips en technieken voor het beheersen van 3D-belichting in CGI](3di/mastering3dlighting.md)
       + [Fotorealistische virtuele fotografie maken met 3D-rendering en -composities](3di/photorealistic.md)
       + [Pas en merk een 3D model met  [!DNL Dimension]  en Adobe  [!DNL Stock] aan](3di/3ddimensionstock.md)
 + Video Adobe {#videooverview}
    + [Overzicht](dva/overview-dva.md)
-   + Tutorials {#videotutorials}
+   + Zelfstudies {#videotutorials}
       + [Sjablonen voor professionele bewegende beelden](dva/motion-graphics-templates.md)
       + [Video-revisie met Frame.io](dva/video-review-frame-io.md)
    + Snelle verwijzingshulplijnen {#videorefguides}
       + [Videohulplijnen](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [Overzicht](xd/overview-xd.md)
-   + Tutorials {#xdtutorials}
-   + [Kom comfortabel met [!UICONTROL &#x200B; Componenten &#x200B;] in Adobe XD](xd/components.md)
+   + Zelfstudies {#xdtutorials}
+   + [Kom comfortabel met [!UICONTROL  Componenten ] in Adobe XD](xd/components.md)
 + Implementeren en beheren {#deploy}
    + [Overzicht](deploy/overview-deploy.md)
    + [Vervaldatum serienummer](deploy/cceserial.md)
    + [Gebruikerslicenties op naam](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [Overzicht](max/overview-max.md)
-   + Tutorials {#tutorials}
+   + Zelfstudies {#tutorials}
       + [Overzicht](max/maxtutorials.md)
-      + Bureaubladproducten {#desktop-products}
+      + Desktopproducten {#desktop-products}
          + [Acrobat &amp; Sign](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)
          + [Illustrator](max/illustrator.md)
