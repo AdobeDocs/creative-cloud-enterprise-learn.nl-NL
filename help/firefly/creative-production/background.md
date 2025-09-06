@@ -18,4 +18,4 @@ Leer hoe u met [!DNL Firefly] Creative Production achtergronden op grote schaal 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3472916?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3472925?quality=12&learn=on&hidetitle=true&captions=dut)
