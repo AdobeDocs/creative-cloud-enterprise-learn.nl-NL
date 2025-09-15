@@ -18,5 +18,5 @@ Leer hoe u met de functie Generatieve vulling op niet-destructieve wijze inhoud 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427609?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3473995?quality=12&learn=on&hidetitle=true&captions=dut)
 
