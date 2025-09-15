@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: aebe14690cd3c13019ed593c7ca3ffe284b1354b
+source-git-commit: 52677453aa7f1d1efd92259f29036433430ca557
 workflow-type: tm+mt
-source-wordcount: '817'
+source-wordcount: '821'
 ht-degree: 5%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 5%
       + [Discover  [!DNL Adobe Firefly]](firefly/discover.md)
       + [Versnel creatieve ideatie](firefly/accelerate-ideas.md)
       + [Herbruikbare scènes voor producten maken](firefly/reusable-scenes.md)
+      + [Een aangepast model maken](firefly/custom-model.md)
       + [Een aangepast model maken met een onderwerp](firefly/custom-model-subject.md)
       + [Een aangepast model maken met stijlen](firefly/custom-model-style.md)
       + [Openingspagina](firefly/landing-page.md)
@@ -176,7 +177,7 @@ ht-degree: 5%
 + Adobe XD {#xdoverview}
    + [Overzicht](xd/overview-xd.md)
    + Zelfstudies {#xdtutorials}
-   + [Kom comfortabel met [!UICONTROL &#x200B; Componenten &#x200B;] in Adobe XD](xd/components.md)
+   + [Kom comfortabel met [!UICONTROL  Componenten ] in Adobe XD](xd/components.md)
 + Implementeren en beheren {#deploy}
    + [Overzicht](deploy/overview-deploy.md)
    + [Vervaldatum serienummer](deploy/cceserial.md)
