@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
+source-git-commit: f68247cca10a0a3b9d9b4343bdcd2742fb8cd451
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# Een aangepast model maken met stijlen
+# Een aangepast model maken
 
 Leer hoe u in Firefly aangepaste modellen maakt om nieuwe afbeeldingen voor het merk van uw organisatie te maken met behulp van specifieke stijlen, zoals achtergronden, kleuren en kleurtonen. Met aangepaste modellen kun je op grote schaal relevante, gepersonaliseerde content creëren. Probeer Adobe Firefly [ hier ](https://firefly.adobe.com/).
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474937?quality=12&learn=on&hidetitle=true&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Wat zijn aangepaste modellen voor Fireflys
 
