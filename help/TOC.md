@@ -175,7 +175,7 @@ ht-degree: 5%
 + Adobe XD {#xdoverview}
    + [Overzicht](xd/overview-xd.md)
    + Zelfstudies {#xdtutorials}
-   + [Kom comfortabel met [!UICONTROL  Componenten ] in Adobe XD](xd/components.md)
+   + [Kom comfortabel met [!UICONTROL &#x200B; Componenten &#x200B;] in Adobe XD](xd/components.md)
 + Implementeren en beheren {#deploy}
    + [Overzicht](deploy/overview-deploy.md)
    + [Vervaldatum serienummer](deploy/cceserial.md)
