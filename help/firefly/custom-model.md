@@ -18,7 +18,7 @@ Leer hoe je aangepaste modellen in Firefly kunt trainen om nieuwe afbeeldingen t
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474937?quality=12&learn=on&hidetitle=true&captions=dut)
 
 ## Wat zijn aangepaste modellen voor Fireflys
 
