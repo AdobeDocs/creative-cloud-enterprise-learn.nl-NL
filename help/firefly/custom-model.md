@@ -1,6 +1,6 @@
 ---
 title: Een aangepast model maken
-description: Leer hoe je aangepaste Firefly-modellen traint. Meer informatie vindt u [hier](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+description: Leer hoe je aangepaste Firefly-modellen traint. Meer informatie vindt u [hier](https://helpx.adobe.com/nl/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Een aangepast model maken
 
-Leer hoe je aangepaste modellen in Firefly kunt trainen om nieuwe afbeeldingen te maken voor het merk van je organisatie. Met aangepaste modellen kun je op grote schaal relevante, gepersonaliseerde content creëren. Leer meer over de Modellen van de opleidingDouane [ hier ](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)
+Leer hoe je aangepaste modellen in Firefly kunt trainen om nieuwe afbeeldingen te maken voor het merk van je organisatie. Met aangepaste modellen kun je op grote schaal relevante, gepersonaliseerde content creëren. Leer meer over de Modellen van de opleidingDouane [ hier ](https://helpx.adobe.com/nl/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)
 
 <br> 
 
