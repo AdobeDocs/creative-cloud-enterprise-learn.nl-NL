@@ -20,7 +20,7 @@ Leer hoe u in Firefly aangepaste modellen maakt om nieuwe afbeeldingen voor het 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474937?quality=12&learn=on&hidetitle=true&captions=dut)
 
 >[!IMPORTANT]
 >
