@@ -1,24 +1,24 @@
 ---
 title: Een aangepast model maken
-description: Leer hoe je aangepaste Firefly-modellen traint. Meer informatie vindt u [hier](https://helpx.adobe.com/nl/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+description: Leer hoe je aangepaste Firefly-modellen traint. Meer informatie vindt u [hier](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-19197
-source-git-commit: 6a6d7585b4face212ca5c26b60972d4e3a02cf1b
+source-git-commit: 8d11464360f33abad7e801be57c089eaacbbf8d7
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Een aangepast model maken
 
-Leer hoe je aangepaste modellen in Firefly kunt trainen om nieuwe afbeeldingen te maken voor het merk van je organisatie. Met aangepaste modellen kun je op grote schaal relevante, gepersonaliseerde content creëren. Leer meer over de Modellen van de opleidingDouane [ hier ](https://helpx.adobe.com/nl/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)
+Leer hoe je aangepaste modellen in Firefly kunt trainen om nieuwe afbeeldingen te maken voor het merk van je organisatie. Met aangepaste modellen kun je op grote schaal relevante, gepersonaliseerde merkcontent creëren. Leer meer over de Modellen van de opleidingDouane [ hier ](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474937?quality=12&learn=on&hidetitle=true&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Wat zijn aangepaste modellen voor Fireflys
 
