@@ -242,7 +242,7 @@ Firefly is de nieuwe familie van creatieve generatieve AI-modellen die producten
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" title="Een aangepast model maken" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474931?quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="Een aangepast model maken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474937?quality=12&hidetitle=true&format=jpeg&nocache=1758117649719&captions=dut" alt="Een aangepast model maken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -311,7 +311,7 @@ Firefly is de nieuwe familie van creatieve generatieve AI-modellen die producten
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/nl/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="Teksteffecten" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1758117649937" alt="Teksteffecten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432218?quality=12&hidetitle=true&format=jpeg&nocache=1758117649937&captions=dut" alt="Teksteffecten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
