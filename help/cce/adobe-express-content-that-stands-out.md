@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 thumb: KT-11641.jpg
 exl-id: ab62ec1d-d3f5-4fd0-8b6b-26ce038c1a76
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Creëer binnen enkele minuten prachtige afbeeldingen, webpagina’s en videoverh
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![Afbeelding van eerste pagina van zelfstudie](assets/Adobe-Express-content-that-stands-out.png){&quot;width=680&quot;}](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}
+[![ Eerste paginabeeld van leerprogramma ](assets/Adobe-Express-content-that-stands-out.png){width="680"}](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}

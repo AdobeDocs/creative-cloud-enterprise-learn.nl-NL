@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
 exl-id: 5c935d0b-0ed6-4e87-ab24-1ded0326aa96
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Als contentmaker genereert u waarschijnlijk PDF en bekijkt u die PDF-bestanden v
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![Afbeelding van eerste pagina van zelfstudie](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}
+[![ Eerste paginabeeld van leerprogramma ](assets/Acrobatforcontentcreators.png){width="680"}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}

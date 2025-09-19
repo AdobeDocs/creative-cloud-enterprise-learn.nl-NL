@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 thumb: KT-11643.jpg
 exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Importeer content, rangschik je scène, pas materialen en texturen toe, pas op a
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![Afbeelding van eerste pagina van zelfstudie](assets/Substance3DStager.png){&quot;width=680&quot;}](assets/Adobe-Substance-Stager.pdf){target="blank"}
+[![ Eerste paginabeeld van leerprogramma ](assets/Substance3DStager.png){width="680"}](assets/Adobe-Substance-Stager.pdf){target="blank"}
