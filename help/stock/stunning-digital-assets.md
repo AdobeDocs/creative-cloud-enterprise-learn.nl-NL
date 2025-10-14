@@ -19,8 +19,8 @@ Leer hoe u Adobe Stock met CC Libraries integreert om consistente en professione
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![ Eerste paginabeeld van leerprogramma ](assets/Stunningdigitalassets.png){width="680"}](assets/Stunning-Digital-Assets.pdf){target="blank"}
+[![&#x200B; Eerste paginabeeld van leerprogramma &#x200B;](assets/Stunningdigitalassets.png){width="680"}](assets/Stunning-Digital-Assets.pdf){target="blank"}
 
 >[!NOTE]
 >
->Adobe Stock-assets die zijn opgeslagen in CC Libraries kunnen naadloos worden toegevoegd aan Microsoft PowerPoint en Word. De instructies op om toe:voegen-binnen van Adobe Creative Cloud te downloaden en te installeren kunnen [ hier ](https://helpx.adobe.com/nl/creative-cloud/help/libraries-addin-microsoft-office.html) of in Microsoft App Store worden gevonden. Het proces is eenvoudig voor beide apps, met name voor apps met ervaring met Adobe Stock in Illustrator, InDesign of Photoshop. Voor meer informatie zie [ geïntegreerde stop-ins van Adobe Stock in Microsoft Office 365 ](https://helpx.adobe.com/nl/stock/help/microsoft-office-plug-ins.html) onderzoeken.
+>Adobe Stock-assets die zijn opgeslagen in CC Libraries kunnen naadloos worden toegevoegd aan Microsoft PowerPoint en Word. De instructies op om toe:voegen-binnen van Adobe Creative Cloud te downloaden en te installeren kunnen [&#x200B; hier &#x200B;](https://helpx.adobe.com/nl/creative-cloud/help/libraries-addin-microsoft-office.html) of in Microsoft App Store worden gevonden. Het proces is eenvoudig voor beide apps, met name voor apps met ervaring met Adobe Stock in Illustrator, InDesign of Photoshop. Voor meer informatie zie [&#x200B; geïntegreerde stop-ins van Adobe Stock in Microsoft Office 365 &#x200B;](https://helpx.adobe.com/nl/stock/help/microsoft-office-plug-ins.html) onderzoeken.

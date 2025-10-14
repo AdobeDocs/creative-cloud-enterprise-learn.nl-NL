@@ -60,11 +60,11 @@ In deze zelfstudie leert u hoe u:
 **door wordt voorgesteld:**
 A.J. Wood, Solutions Consultant (Digital Media)
 
-![ Logo van het Rush ](../assets/ru_appicon_96.png)
+![&#x200B; Logo van het Rush &#x200B;](../assets/ru_appicon_96.png)
 
 **[!DNL Rush]Bronnen**
 
-[ Leren &amp; Steun ](https://helpx.adobe.com/nl/support/premiere-rush.html) is uw hub voor extra leerprogramma&#39;s, [ wat ](https://helpx.adobe.com/nl/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html), en verbindingen aan communautaire forums nieuw is.
+[&#x200B; Leren &amp; Steun &#x200B;](https://helpx.adobe.com/nl/support/premiere-rush.html) is uw hub voor extra leerprogramma&#39;s, [&#x200B; wat &#x200B;](https://helpx.adobe.com/nl/premiere-rush/user-guide.html/premiere-rush/help/whats-new.ug.html), en verbindingen aan communautaire forums nieuw is.
 
 **Versie van oktober 2020**
 

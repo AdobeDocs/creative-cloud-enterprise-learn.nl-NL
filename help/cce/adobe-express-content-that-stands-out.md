@@ -19,4 +19,4 @@ Creëer binnen enkele minuten prachtige afbeeldingen, webpagina’s en videoverh
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![ Eerste paginabeeld van leerprogramma ](assets/Adobe-Express-content-that-stands-out.png){width="680"}](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}
+[![&#x200B; Eerste paginabeeld van leerprogramma &#x200B;](assets/Adobe-Express-content-that-stands-out.png){width="680"}](assets/Adobe-Express-content-that-stands-out.pdf){target="blank"}

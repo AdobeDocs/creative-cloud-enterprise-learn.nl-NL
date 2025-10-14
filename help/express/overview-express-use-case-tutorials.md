@@ -23,15 +23,15 @@ Ontdek hoe verschillende teams binnen je organisatie kunnen profiteren van Adobe
 
 >[!TAB  creeer multi-channel inhoud van HR voor gebeurtenissen ]
 
-Leer hoe te snel [ multi-channel inhoud van u voor gebeurtenissen ](create-hr-content.md) creëren.
+Leer hoe te snel [&#x200B; multi-channel inhoud van u voor gebeurtenissen &#x200B;](create-hr-content.md) creëren.
 
 >[!TAB  Creërend een promotie visueel voor een online het leren cursus ]
 
-Leer hoe te om een boeiende visuele voor een [ online het leren cursus ](promo-visual.md) tot stand te brengen.
+Leer hoe te om een boeiende visuele voor een [&#x200B; online het leren cursus &#x200B;](promo-visual.md) tot stand te brengen.
 
 >[!TAB  Creërend een eind-van-jaarvideo ]
 
-Leer hoe te om een inspirerende [ eind-van-jaar video ](end-of-year-video.md) tot stand te brengen.
+Leer hoe te om een inspirerende [&#x200B; eind-van-jaar video &#x200B;](end-of-year-video.md) tot stand te brengen.
 
 >[!ENDTABS]
 

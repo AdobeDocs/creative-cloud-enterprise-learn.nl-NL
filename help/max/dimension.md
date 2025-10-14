@@ -56,11 +56,11 @@ In deze zelfstudie leert u hoe u:
 **door wordt voorgesteld:**
 Jim Babbage, Senior Solutions Consultant (Digital Media)
 
-![ Logo van het Dimension ](../assets/dn_appicon_96.png)
+![&#x200B; Logo van het Dimension &#x200B;](../assets/dn_appicon_96.png)
 
 **Middelen van het Dimension**
 
-[ Leren &amp; Steun ](https://helpx.adobe.com/nl/support/dimension.html) is uw hub voor extra leerprogramma&#39;s, [ wat ](https://helpx.adobe.com/nl/dimension/user-guide.html/dimension/using/whats-new.ug.html), en verbindingen aan communautaire forums nieuw is.
+[&#x200B; Leren &amp; Steun &#x200B;](https://helpx.adobe.com/nl/support/dimension.html) is uw hub voor extra leerprogramma&#39;s, [&#x200B; wat &#x200B;](https://helpx.adobe.com/nl/dimension/user-guide.html/dimension/using/whats-new.ug.html), en verbindingen aan communautaire forums nieuw is.
 
 **Versie van oktober 2020**
 

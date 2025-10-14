@@ -23,11 +23,11 @@ Design Reels en TikTok-video’s, -flyers, -hervatting, -banners, -logo’s en m
 
 >[!TAB  Moeiteloze merkconsistentie met malplaatjes ]
 
-Leer hoe te om on-brand inhoud snel en efficiënt te creëren gebruikend [ malplaatjes ](use-templates.md) over uw volledige organisatie.
+Leer hoe te om on-brand inhoud snel en efficiënt te creëren gebruikend [&#x200B; malplaatjes &#x200B;](use-templates.md) over uw volledige organisatie.
 
 >[!TAB  maximaliseer efficiency: creeer herbruikbare malplaatjes ]
 
-Leer hoe brengen merkconsistentie, efficiency, professionalisme, en kostenbesparingen aan uw organisatie met [ malplaatjes ](create-templates.md).
+Leer hoe brengen merkconsistentie, efficiency, professionalisme, en kostenbesparingen aan uw organisatie met [&#x200B; malplaatjes &#x200B;](create-templates.md).
 
 >[!ENDTABS]
 

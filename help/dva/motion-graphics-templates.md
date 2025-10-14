@@ -20,4 +20,4 @@ Sjablonen voor bewegende beelden (.mogrt) zijn een samenwerkingsvriendelijke en 
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![ Eerste paginabeeld van leerprogramma ](assets/MORGTs.png){width="680"}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}
+[![&#x200B; Eerste paginabeeld van leerprogramma &#x200B;](assets/MORGTs.png){width="680"}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}

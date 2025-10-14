@@ -19,4 +19,4 @@ Als contentmaker genereert u waarschijnlijk PDF en bekijkt u die PDF-bestanden v
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![ Eerste paginabeeld van leerprogramma ](assets/Acrobatforcontentcreators.png){width="680"}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}
+[![&#x200B; Eerste paginabeeld van leerprogramma &#x200B;](assets/Acrobatforcontentcreators.png){width="680"}](assets/Acrobat-for-Content-Creators.pdf){target="blank"}

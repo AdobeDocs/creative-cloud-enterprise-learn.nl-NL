@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Een aangepast model maken
 
-Leer hoe je aangepaste modellen in Firefly kunt trainen om nieuwe afbeeldingen te maken voor het merk van je organisatie. Met aangepaste modellen kun je op grote schaal relevante, gepersonaliseerde merkcontent creëren. Leer meer over de Modellen van de opleidingDouane [ hier ](https://helpx.adobe.com/nl/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+Leer hoe je aangepaste modellen in Firefly kunt trainen om nieuwe afbeeldingen te maken voor het merk van je organisatie. Met aangepaste modellen kun je op grote schaal relevante, gepersonaliseerde merkcontent creëren. Leer meer over de Modellen van de opleidingDouane [&#x200B; hier &#x200B;](https://helpx.adobe.com/nl/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 
 <br> 
 
@@ -36,4 +36,4 @@ Je kunt deze modellen trainen met je eigen afbeeldingen om content te produceren
 
 >[!IMPORTANT]
 >
->Leer meer over de [ veiligheidsarchitectuur en gegevensstroom van de Modellen van de Douane ](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
+>Leer meer over de [&#x200B; veiligheidsarchitectuur en gegevensstroom van de Modellen van de Douane &#x200B;](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).

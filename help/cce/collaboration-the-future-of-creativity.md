@@ -20,4 +20,4 @@ Leer hoe u opmerkingen toevoegt en feedback over bestanden en mappen op Creative
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![ Eerste paginabeeld van leerprogramma ](assets/Collaboration-The-Future-of-Creativity.png){width="680"}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}
+[![&#x200B; Eerste paginabeeld van leerprogramma &#x200B;](assets/Collaboration-The-Future-of-Creativity.png){width="680"}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}

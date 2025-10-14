@@ -80,11 +80,11 @@ In deze zelfstudie leert u hoe u:
 **door wordt voorgesteld:**
 Emily Palmer, Solutions Consultant (Digital Media)
 
-![[!DNL Stock] Logo ](../assets/st_appicon_96.png)
+![[!DNL Stock] Logo &#x200B;](../assets/st_appicon_96.png)
 
 **Adobe [!DNL Stock] Middelen**
 
-[ Leren &amp; Steun ](https://helpx.adobe.com/nl/support/stock.html) is uw hub voor extra leerprogramma&#39;s en verbindingen aan communautaire forums.
+[&#x200B; Leren &amp; Steun &#x200B;](https://helpx.adobe.com/nl/support/stock.html) is uw hub voor extra leerprogramma&#39;s en verbindingen aan communautaire forums.
 
 **Versie van oktober 2020**
 

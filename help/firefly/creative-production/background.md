@@ -14,7 +14,7 @@ ht-degree: 2%
 
 # Achtergrond verwijderen en vervangen
 
-Leer hoe u met [!DNL Firefly] Creative Production achtergronden op grote schaal kunt verwijderen en/of vervangen. Probeer Adobe Firefly [ hier ](https://firefly.adobe.com/).
+Leer hoe u met [!DNL Firefly] Creative Production achtergronden op grote schaal kunt verwijderen en/of vervangen. Probeer Adobe Firefly [&#x200B; hier &#x200B;](https://firefly.adobe.com/).
 
 <br> 
 

@@ -20,4 +20,4 @@ Een van de vele risico&#39;s van een Adobe Creative Cloud-lidmaatschap is gratis
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![ Eerste paginabeeld van leerprogramma ](assets/TamingTypeAnxiety.png){width="680"}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}
+[![&#x200B; Eerste paginabeeld van leerprogramma &#x200B;](assets/TamingTypeAnxiety.png){width="680"}](assets/Adobe-Fonts-Taming-Font-Anxiety.pdf){target="blank"}

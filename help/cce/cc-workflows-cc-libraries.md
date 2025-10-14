@@ -19,4 +19,4 @@ Leer hoe Creative Cloud Libraries ontwerpelementen bij elkaar houden - dankzij d
 
 Selecteer de onderstaande afbeelding om deze zelfstudie voor PDF weer te geven of te downloaden.
 
-[![ Eerste paginabeeld van leerprogramma ](assets/Improveccworkflowswithcclibraries.png){width="680"}](assets/ImproveCCWorkflowsCCLibraries.pdf){target="blank"}
+[![&#x200B; Eerste paginabeeld van leerprogramma &#x200B;](assets/Improveccworkflowswithcclibraries.png){width="680"}](assets/ImproveCCWorkflowsCCLibraries.pdf){target="blank"}
